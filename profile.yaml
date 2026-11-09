@@ -1,0 +1,5 @@
+# profile.yaml — optional. Without it, your GitHub name and avatar are used.
+
+avatar: https://example.com/jane.png       # optional, defaults to your GitHub avatar
+website: https://jane.example.com          # optional
+location: Dhaka, Bangladesh                # optional
