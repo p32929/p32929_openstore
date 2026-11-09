@@ -48,6 +48,14 @@ After that, just push here: add a file to `apps/` for a new app, add a release a
 - **An app's link** is its file name: lowercase letters, digits and `-` (`my-app.md`). Renaming the file changes the link.
 - **Images** must be `https://` links. Each file must be under 1 MB.
 - **Platforms and tags** must be from the lists below (exact spelling and capitals).
+- **Description Markdown** (below the `---` header) is limited to safe formatting:
+
+  | Allowed | Not allowed |
+  |---|---|
+  | paragraphs, `##` to `####` headings, **bold**, *italic*, ~~strike~~, lists, `> quotes`, `---` dividers, tables, `inline code` and code blocks | any raw HTML (`<script>`, `<img>`, `<iframe>`, `<details>`, comments…), `#` headings (the page shows your title), `#####` and deeper |
+  | links to `https://…` and `mailto:…` | other links (`http://`, `javascript:`, `data:`…), images (use `screenshots`) |
+
+  `validate.mjs` reports anything not allowed with its line.
 - If the rules change, take the latest `validate.mjs` from this branch.
 
 ## Allowed values
