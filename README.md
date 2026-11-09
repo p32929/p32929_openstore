@@ -55,9 +55,18 @@ After that, just push here: add a file to `apps/` for a new app, add a release a
 | `video` | optional | One link, shown as a *Watch video* button |
 | `platforms` | required | One or more, from the list below. Each has a list of releases, **newest first**, or nothing (*listed, no release yet*) |
 | a release | `version`, `changelog`, `url` | All three; `url` is where to get it (store page, download, website) |
-| description | required | Markdown below the header (see the Markdown rules) |
+| description | required | Markdown below the header (see the Markdown rules); line breaks are kept as written |
 
-**`profile.yaml`** (optional): `avatar` (`https://` image; default: your GitHub avatar), `website`, `location`.
+**`profile.yaml`** (optional, every field too) turns your `/dev` page into a small portfolio:
+
+| Field | What |
+|---|---|
+| `name`, `bio` | Display name (default: your GitHub username) and a one-line tagline (160 characters) |
+| `avatar` | `https://` image (default: your GitHub avatar) |
+| `location`, `website`, `email` | Shown in your header; `email` as an Email button |
+| `skills` | Up to 30, shown as tags |
+| `links` | Up to 10 `label: https://…` pairs (GitHub, LinkedIn…) |
+| `about` | Markdown, same rules as app descriptions; line breaks are kept as written |
 
 ## Rules
 
