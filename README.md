@@ -2,6 +2,10 @@
 
 My OpenStore listing. Every `.md` file in [`apps/`](apps/) is an app (its file name becomes its link); [`profile.yaml`](profile.yaml) is optional.
 
-Push a change and the store picks it up on its next build.
+Before pushing, check everything:
 
-See the store: examples/ in the OpenStore repo explains the format.
+```bash
+node validate.mjs
+```
+
+Push a change and the store picks it up on its next build.
