@@ -1,3 +1,15 @@
 # Optional. Without it, my GitHub name and avatar are used.
-website: https://p32929.github.io/
+name: Fayaz Bin Salam
+bio: Software Engineer
 location: Milky Way, Solar System, Earth
+website: https://p32929.github.io/
+skills: [TypeScript, JavaScript, Java, Dart, Flutter, Python, Rust, C, C++, Swift, HTML]
+links:
+  GitHub: https://github.com/p32929
+  Gists: https://gist.github.com/p32929
+  Buy me a coffee: https://www.buymeacoffee.com/p32929
+
+about: |
+  I build apps, libraries and tools for the web, Android, iOS, Windows, macOS, the command line and the browser. Everything I've published is listed below.
+
+  If you enjoy any of my work, feel free to let me know, or [buy me a coffee](https://www.buymeacoffee.com/p32929).
