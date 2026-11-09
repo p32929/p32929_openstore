@@ -2,7 +2,7 @@
 # apps/app1.md — the file name becomes the link: /app/<your-github-name>/app1
 title: Quick Notes
 icon: https://example.com/quick-notes/icon.png
-tags: [App - Productivity]
+tags: [App - Productivity, App - Tools]
 screenshots:
   - https://example.com/quick-notes/1.png
   - https://example.com/quick-notes/2.png
@@ -21,8 +21,12 @@ platforms:
       url: https://example.com/quick-notes.apk
 ---
 
-A tiny notepad that **saves as you type**.
+A tiny notepad that **saves as you type**, *even offline*.
+
+## Features
 
 - Multiple tabs
-- Works offline
-- No sign-up
+- No sign-up: just open [notes.example.com](https://notes.example.com)
+- Export with `Ctrl + S`
+
+Questions? [Email me](mailto:jane@example.com).

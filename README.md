@@ -25,7 +25,7 @@ your-github-name/your-repo
 ## Steps
 
 1. **Edit the files.** Replace `apps/app1.md` and `apps/app2.md` with your own apps (one `.md` file per app, any number), and edit or delete `profile.yaml`.
-2. **Check them:** `node validate.mjs` (needs only [Node.js](https://nodejs.org)). It lists every problem as `file:line`; fix them until it says *All good*. Then push. GitHub runs the same check on every push to any branch: see your repo's **Actions** tab, where problems are also marked on the exact lines.
+2. **Check them:** `node validate.mjs` (needs only [Node.js](https://nodejs.org)) lists every problem as `file:line`; fix them until it says *All good*, then push. GitHub runs the same check on every push (your repo's **Actions** tab) and marks problems on the exact lines.
 3. **Join, once:** open a pull request on [p32929/openstore_maintainers](https://github.com/p32929/openstore_maintainers) adding `- your-github-name/your-repo` to `maintainers.yaml`. It's checked automatically: your repo must pass, and the pull request must come from your own account.
 
 ```
@@ -42,12 +42,28 @@ $ node validate.mjs
 
 After that, just push here: add a file to `apps/` for a new app, add a release at the top of a platform's list, delete a file to remove an app. The store picks up changes on its next build and downloads only the files that changed.
 
+## What goes in the files
+
+**`apps/<name>.md`**: a YAML header between `---` lines, then the description. [`apps/app1.md`](apps/app1.md) and [`apps/app2.md`](apps/app2.md) use every field.
+
+| Field | | What |
+|---|---|---|
+| `title` | required | The app's name |
+| `icon` | required | `https://` image link |
+| `tags` | required | One or more, from the list below |
+| `screenshots` | required | One or more `https://` image links |
+| `video` | optional | One link, shown as a *Watch video* button |
+| `platforms` | required | One or more, from the list below. Each has a list of releases, **newest first**, or nothing (*listed, no release yet*) |
+| a release | `version`, `changelog`, `url` | All three; `url` is where to get it (store page, download, website) |
+| description | required | Markdown below the header (see the Markdown rules) |
+
+**`profile.yaml`** (optional): `avatar` (`https://` image; default: your GitHub avatar), `website`, `location`.
+
 ## Rules
 
 - **Your username** on the store is your GitHub name; one repo per account.
 - **An app's link** is its file name: lowercase letters, digits and `-` (`my-app.md`). Renaming the file changes the link.
-- **Images** must be `https://` links. Each file must be under 1 MB.
-- **Platforms and tags** must be from the lists below (exact spelling and capitals).
+- **Platforms and tags** must be from the lists below (exact spelling and capitals). Each file must be under 1 MB.
 - **Description Markdown** (below the `---` header) is limited to safe formatting:
 
   | Allowed | Not allowed |
@@ -56,7 +72,7 @@ After that, just push here: add a file to `apps/` for a new app, add a release a
   | links to `https://…` and `mailto:…` | other links (`http://`, `javascript:`, `data:`…), images (use `screenshots`) |
 
   `validate.mjs` reports anything not allowed with its line.
-- If the rules change, take the latest `validate.mjs` from this branch.
+- **If the rules change**, take the latest `validate.mjs` from this branch.
 
 ## Allowed values
 
