@@ -1,5 +1,5 @@
 # p32929 on OpenStore
 
-My OpenStore listing: [`profile.yaml`](profile.yaml) lists my apps, one file per app in [`apps/`](apps/).
+My OpenStore listing. Every `.md` file in [`apps/`](apps/) is an app (its file name becomes its link); [`profile.yaml`](profile.yaml) is optional.
 
-Edit a file and push — the store picks up the change on its next build.
+Push a change and the store picks it up on its next build.
