@@ -8,6 +8,7 @@ location: Dhaka, Bangladesh
 website: https://jane.example.com
 email: jane@example.com                 # shown as an Email button
 skills: [Flutter, TypeScript, Node.js]  # up to 30
+skillsOrder: as-written                 # or: alphabetical
 links:                                  # up to 10, https:// only
   GitHub: https://github.com/jane-doe
   LinkedIn: https://www.linkedin.com/in/jane-doe

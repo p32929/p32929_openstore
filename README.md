@@ -64,7 +64,7 @@ After that, just push here: add a file to `apps/` for a new app, add a release a
 | `name`, `bio` | Display name (default: your GitHub username) and a one-line tagline (160 characters) |
 | `avatar` | `https://` image (default: your GitHub avatar) |
 | `location`, `website`, `email` | Shown in your header; `email` as an Email button |
-| `skills` | Up to 30, shown as tags |
+| `skills`, `skillsOrder` | Up to 30, shown as tags; `skillsOrder: alphabetical` sorts them A–Z (default `as-written`) |
 | `links` | Up to 10 `label: https://…` pairs (GitHub, LinkedIn…) |
 | `about` | Markdown, same rules as app descriptions; line breaks are kept as written |
 
