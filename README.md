@@ -164,3 +164,5 @@ After that, just push here: add a file to `apps/` for a new app, add a release a
 <!-- /allowed-values -->
 
 A real example: the [`main` branch](https://github.com/p32929/p32929_openstore) of this repo.
+
+Questions, bugs or ideas? Ask in [OpenStore feedback](https://github.com/p32929/openstore_feedback): issues for bugs and suggestions, Discussions for everything else.
