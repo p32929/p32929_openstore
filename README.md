@@ -17,6 +17,7 @@ your-github-name/your-repo
 ├── profile.yaml        ← optional: avatar, website, location
 ├── validate.mjs        ← checks everything: node validate.mjs
 ├── .github/workflows/  ← runs that same check on GitHub on every push
+├── images/             ← optional: icons and screenshots, used by path (images/app1-icon.png)
 └── apps/
     ├── app1.md         ← one file per app; becomes /app/your-github-name/app1
     └── app2.md
@@ -49,12 +50,15 @@ After that, just push here: add a file to `apps/` for a new app, add a release a
 | Field | | What |
 |---|---|---|
 | `title` | required | The app's name |
-| `icon` | required | `https://` image link |
-| `tags` | required | One or more, from the list below |
-| `screenshots` | required | One or more `https://` image links |
+| `icon` | required | An image: a path in your repo (`images/icon.png`, from the repo root) or an `https://` link |
+| `screenshots` | required | One or more images, same as `icon` |
+| `category` | required | Exactly one, from the list below |
+| `platforms` | required | One or more, from the list below. Each is either **a link** (`Web: https://…`, where to get it) or **a list of releases, newest first**, or nothing (*listed, no release yet*) |
+| a release | `url` required; `version`, `date`, `changelog` optional | `url` is where to get it; `date` like `2026-10-01` (dates must go backwards down the list) |
+| `summary` | optional | One line (160 characters) for cards; default: the description's first line |
+| `tags` | optional | Up to 10 free keywords, for search |
+| `website`, `source`, `license` | optional | Shown on the app page; `source` as a *Source code* link |
 | `video` | optional | One link, shown as a *Watch video* button |
-| `platforms` | required | One or more, from the list below. Each has a list of releases, **newest first**, or nothing (*listed, no release yet*) |
-| a release | `version`, `changelog`, `url` | All three; `url` is where to get it (store page, download, website) |
 | description | required | Markdown below the header (see the Markdown rules); line breaks are kept as written |
 
 **`profile.yaml`** (optional, every field too) turns your `/dev` page into a small portfolio:
@@ -62,7 +66,7 @@ After that, just push here: add a file to `apps/` for a new app, add a release a
 | Field | What |
 |---|---|
 | `name`, `bio` | Display name (default: your GitHub username) and a one-line tagline (160 characters) |
-| `avatar` | `https://` image (default: your GitHub avatar) |
+| `avatar` | An image, like `icon` (default: your GitHub avatar) |
 | `location`, `website`, `email` | Shown in your header; `email` as an Email button |
 | `skills`, `skillsOrder` | Up to 30, shown as tags; `skillsOrder: alphabetical` sorts them A–Z (default `as-written`) |
 | `links` | Up to 10 `label: https://…` pairs (GitHub, LinkedIn…) |
@@ -72,7 +76,8 @@ After that, just push here: add a file to `apps/` for a new app, add a release a
 
 - **Your username** on the store is your GitHub name; one repo per account.
 - **An app's link** is its file name: lowercase letters, digits and `-` (`my-app.md`). Renaming the file changes the link.
-- **Platforms and tags** must be from the lists below (exact spelling and capitals). Each file must be under 1 MB.
+- **Platforms and categories** must be from the lists below (exact spelling and capitals). Each file must be under 1 MB.
+- **Image paths** start at the repo root and must exist in the repo; `validate.mjs` checks them.
 - **Description Markdown** (below the `---` header) is limited to safe formatting:
 
   | Allowed | Not allowed |
@@ -90,69 +95,69 @@ After that, just push here: add a file to `apps/` for a new app, add a release a
 **Platforms:** `iOS`, `Android`, `Windows`, `MacOS`, `Web`, `CLI`, `Library`, `Extension`, `Automation`
 
 <details>
-<summary><b>Tags</b> (61)</summary>
+<summary><b>Categories</b> (61)</summary>
 
-- `App - Art & Design`
-- `App - Auto & Vehicles`
-- `App - Beauty`
-- `App - Books & Reference`
-- `App - Business`
-- `App - Comics`
-- `App - Communication`
-- `App - Dating`
-- `App - Education`
-- `App - Entertainment`
-- `App - Events`
-- `App - Finance`
-- `App - Food & Drink`
-- `App - Health & Fitness`
-- `App - House & Home`
-- `App - Libraries & Demo`
-- `App - Lifestyle`
-- `App - Maps & Navigation`
-- `App - Medical`
-- `App - Music & Audio`
-- `App - News & Magazines`
-- `App - Parenting`
-- `App - Personalization`
-- `App - Photography`
-- `App - Productivity`
-- `App - Shopping`
-- `App - Social`
-- `App - Sports`
-- `App - Tools`
-- `App - Travel & Local`
-- `App - Video Players & Editors`
-- `App - Wear OS by Google`
-- `App - Weather`
-- `App - Books`
-- `App - Developer Tools`
-- `App - Graphics & Design`
-- `App - Social Networking`
-- `App - Utilities`
-- `App - Family & Kids`
-- `App - Government`
-- `App - Multimedia Design`
-- `App - Personal Finance`
-- `App - Security`
-- `App - Software Development`
-- `Game - Action`
-- `Game - Adventure`
-- `Game - Arcade`
-- `Game - Board`
-- `Game - Card`
-- `Game - Casino`
-- `Game - Casual`
-- `Game - Educational`
-- `Game - Music`
-- `Game - Puzzle`
-- `Game - Racing`
-- `Game - Role Playing`
-- `Game - Simulation`
-- `Game - Sports`
-- `Game - Strategy`
-- `Game - Trivia`
-- `Game - Word`
+- `Art & Design`
+- `Auto & Vehicles`
+- `Beauty`
+- `Books & Reference`
+- `Business`
+- `Comics`
+- `Communication`
+- `Dating`
+- `Education`
+- `Entertainment`
+- `Events`
+- `Finance`
+- `Food & Drink`
+- `Health & Fitness`
+- `House & Home`
+- `Libraries & Demo`
+- `Lifestyle`
+- `Maps & Navigation`
+- `Medical`
+- `Music & Audio`
+- `News & Magazines`
+- `Parenting`
+- `Personalization`
+- `Photography`
+- `Productivity`
+- `Shopping`
+- `Social`
+- `Sports`
+- `Tools`
+- `Travel & Local`
+- `Video Players & Editors`
+- `Wear OS by Google`
+- `Weather`
+- `Books`
+- `Developer Tools`
+- `Graphics & Design`
+- `Social Networking`
+- `Utilities`
+- `Family & Kids`
+- `Government`
+- `Multimedia Design`
+- `Personal Finance`
+- `Security`
+- `Software Development`
+- `Action Game`
+- `Adventure Game`
+- `Arcade Game`
+- `Board Game`
+- `Card Game`
+- `Casino Game`
+- `Casual Game`
+- `Educational Game`
+- `Music Game`
+- `Puzzle Game`
+- `Racing Game`
+- `Role Playing Game`
+- `Simulation Game`
+- `Sports Game`
+- `Strategy Game`
+- `Trivia Game`
+- `Word Game`
 
 </details>
 

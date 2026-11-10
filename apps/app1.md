@@ -1,24 +1,27 @@
 ---
 # apps/app1.md — the file name becomes the link: /app/<your-github-name>/app1
 title: Quick Notes
-icon: https://example.com/quick-notes/icon.png
-tags: [App - Productivity, App - Tools]
+summary: A tiny notepad that saves as you type     # optional; else the description's first line
+icon: images/app1-icon.png                         # a path in your repo, or an https:// link
 screenshots:
-  - https://example.com/quick-notes/1.png
-  - https://example.com/quick-notes/2.png
+  - images/app1-screenshot-1.png
+  - images/app1-screenshot-2.png
+category: Productivity                             # exactly one, from the list in the README
+tags: [notes, offline, tabs]                       # optional keywords for search
+website: https://notes.example.com                 # optional
+source: https://github.com/jane-doe/quick-notes    # optional: shows a "Source code" link
+license: MIT                                       # optional
 
 platforms:
-  Web:
-    - version: "1.1"                       # newest first
-      changelog: Dark mode
-      url: https://notes.example.com
+  Web: https://notes.example.com                   # shortcut: just where to get it
+  Android:                                         # or a release history, newest first
+    - version: "1.1"
+      date: 2026-10-01                             # optional
+      changelog: Dark mode                         # optional
+      url: https://example.com/quick-notes-1.1.apk
     - version: "1.0"
-      changelog: First release
-      url: https://notes.example.com/v1
-  Android:
-    - version: "1.0"
-      changelog: First release
-      url: https://example.com/quick-notes.apk
+      date: 2026-08-15
+      url: https://example.com/quick-notes-1.0.apk
 ---
 
 A tiny notepad that **saves as you type**, *even offline*.
