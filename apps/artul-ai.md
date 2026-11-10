@@ -16,6 +16,8 @@ platforms:
   Web: https://artul.ai/
 ---
 
+> **Company project.** This is not a personal project. I worked on its initial stage, and the product is owned and run by its company.
+
 **Blood tests for stocks.** Artul.ai reads every earnings call like a lab sample. It runs **500 yes-or-no checks** on the transcript, measures **30 markers**, and compares each one with the normal range of **177,437 calls** since 2015. Anything out of range gets an **H** or **L** flag, and the whole call gets a grade from **A to F**.
 
 ## What it measures
