@@ -7,7 +7,7 @@ category: Education
 tags: [Productivity, Educational Game]
 
 platforms:
-  Web:
+  Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/blank.html
 ---
 
 🎙️ VoomNow – Your Premium Free Online Voice Recorder! 🌐🎧
