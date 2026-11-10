@@ -6,9 +6,9 @@ screenshots:
   - screenshots/bbrain-android/1.png
   - screenshots/bbrain-web/1.png
   - screenshots/bbrain-web/2.png
-category: Productivity
-summary: An AI chat companion that answers questions, helps with school work and gives texting tips, with tone you can adjust
-tags: [AI, Chatbot, Productivity, Utilities]
+category: Entertainment
+summary: Chat with characters from the YouTube channel MyStory Animated, like Magnus the vampire. Free on iOS and Android
+tags: [AI, Chatbot, Characters, MyStory Animated, Stories, Roleplay]
 
 platforms:
   iOS: https://apps.apple.com/ae/app/bbrain/id6448963886
@@ -17,10 +17,10 @@ platforms:
 
 > **Company project.** This is not a personal project. I worked on its initial stage, and the product is owned and run by its company.
 
-Most of us still hunt for simple answers across ten tabs, get stuck on homework, or stare at a message we do not know how to word. And most chatbots answer everyone in the same voice.
+You watch a story on MyStory Animated, and a character stays in your head long after the video ends. What would they say if you could just talk to them?
 
-**BBrain is a chat companion on your phone that talks the way you want.** Set the tone, the formality and the language style, and it remembers the conversation so you can pick up where you left off. Ask it anything, get unstuck on school work from math equations to essays, get texting tips for tricky conversations, or just chat like you would with a friend.
+**BBrain lets you chat with characters from the YouTube channel MyStory Animated.** Pick one from the list and start talking. Magnus, the stoic vampire from *I'm Turning into a Vampire*, stays in character, cold on the outside, and maybe you can make him fall for you. There are a few extra characters made just for the app too.
 
-Free to start on **iOS** and **Android**. Paid plans remove ads and raise the limits.
+It is free. Open it, choose a character and say hi, on **iOS** or **Android**.
 
 *The website screenshots come from an archived copy. The original website is no longer online.*
