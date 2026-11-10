@@ -17,16 +17,21 @@ platforms:
 
 > **Company project.** This is not a personal project. I worked on its initial stage, and the product is owned and run by its company.
 
-**BBrain** (Ask Brain 2) is an all-in-one AI chat companion that writes, teaches and helps you create. Ask it anything, or just chat to pass the time.
+## The problem
 
-## What you can do
+Getting a simple answer still means ten tabs, a lot of scrolling and answers that sound the same for everyone. Homework gets stuck. A message to someone you care about is hard to word. And most chatbots talk to you in one fixed voice.
 
-- **Ask AI anything:** get fast answers to any question instead of searching
-- **Get help with school work:** from math equations to essay writing, with personal guidance and instant feedback
-- **Texting tips for relationships:** get ideas for handling difficult conversations
-- **Chat about any topic:** talk to a virtual friend that keeps the conversation in memory
-- **Make it yours:** change the tone, formality and language style in the settings
+## The fix
 
-Available on **iOS** and **Android**. There is a free plan, and paid plans remove ads and raise the limits.
+**BBrain is an AI chat companion on your phone that answers in the voice you pick.** Change the tone, the formality and the language style in the settings, and it keeps the conversation in memory, so you can pick up where you left off.
+
+## What you can do with it
+
+- **Ask anything** and get a fast answer instead of searching
+- **Get unstuck on school work**, from math equations to essay writing, with instant feedback
+- **Get texting tips** for difficult conversations with a partner
+- **Just chat** about anything, like with a virtual friend
+
+Free to start on **iOS** and **Android**. Paid plans remove ads and raise the limits.
 
 *The website screenshots come from an archived copy. The original website is no longer online.*

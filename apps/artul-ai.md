@@ -22,23 +22,20 @@ platforms:
 
 > **Company project.** This is not a personal project. I worked on its initial stage, and the product is owned and run by its company.
 
-**Blood tests for stocks.** Artul.ai reads every earnings call like a lab sample. It runs **500 yes-or-no checks** on the transcript, measures **30 markers**, and compares each one with the normal range of **177,437 calls** since 2015. Anything out of range gets an **H** or **L** flag, and the whole call gets a grade from **A to F**.
+## The problem
 
-## What it measures
+A stock price tells you what happened. It does not tell you whether management is being straight with you. Every quarter, hours of earnings calls hold the clues: questions that get dodged, hype instead of numbers, a nervous tone. Almost nobody has time to listen to them all, and nobody can tell what is *normal* for a call.
 
-- **Honesty:** candor, evasion, stonewalling, and analyst questions left unanswered
-- **Hype:** promotion, superlatives, "excited" language, and AI mentions
-- **Stress:** stress, hedging, blaming outside forces, and uncertainty
-- **Clarity:** specificity, numbers per 1,000 words, reading level, and how much is scripted
+## The fix
 
-## Features
+**Artul.ai gives every earnings call a blood test.** It runs 500 yes-or-no checks on the transcript, measures 30 markers such as evasion, hype, stress and hedging, and compares each one with the normal range of 177,437 calls since 2015. Anything out of range gets an **H** or **L** flag, and the call gets one grade, **A to F**.
 
-- Lab reports for **9,373 companies**, each with its own history, ready less than a day after the call
-- Normal ranges built from real calls, not opinions
-- Rankings of who said "AI" the most, who stonewalled, and who hedged
-- Ready-made screeners, a public question bank, and research studies on the same calls
-- The Monthly Four: a monthly shortlist of four stocks, scored against the S&P 500 in public
+**See it on a real call:** Tesla's Q4 2025 call scored a **D**. Six of ten markers were out of range, including evasion, promotion and AI mentions. You see why in under a minute.
 
-Last quarter's report is free for every company with no signup. The newest quarter and the Monthly Four are on a paid plan.
+## Why open it
+
+- Type any ticker and get the lab report. **Last quarter is free for all 9,373 companies, with no signup.**
+- Find out who said "AI" the most, who stonewalled, and who hedged, in the rankings
+- Browse ready-made screeners, like calls where guidance was raised or management was evasive
 
 *A call grade describes a conversation, not a future price. It is a check-up, not investment advice.*
