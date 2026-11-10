@@ -2,47 +2,27 @@
 title: ChargeOnSite
 icon: https://github.com/user-attachments/assets/5bb081d5-17a9-4a48-970c-c406900801d1
 screenshots:
-  - https://github.com/user-attachments/assets/e6c2278d-6850-4b6b-9030-47da9ea16bd7
-  - https://github.com/user-attachments/assets/d9f0dcc2-d660-453a-9f61-16f51279680f
-  - https://github.com/user-attachments/assets/dd314847-9303-435e-8cff-42c5c5b24833
+  - screenshots/chargeonsite/1.png
+  - screenshots/chargeonsite/2.png
+  - screenshots/chargeonsite/3.png
+  - screenshots/chargeonsite/4.png
+  - screenshots/chargeonsite/5.png
+  - screenshots/chargeonsite/6.png
 category: Auto & Vehicles
-tags: [Business, Lifestyle]
+summary: Think Airbnb for EV chargers. Property owners host charging stations and drivers just scan a QR code and charge, no app needed
+tags: [EV charging, Electric vehicles, Marketplace, Real estate, Payments]
+website: https://www.chargeonsite.com/
 
 platforms:
   Web: https://www.chargeonsite.com/
 ---
 
-🔌 Charge OnSite – Powering the Future of EV Charging! 🚗⚡
+> **Company project.** This is not a personal project. I worked on it at a company, and the product is owned and run by that company.
 
-🏢 Tailored for Property Owners! 🏨🏢🏬 Charge OnSite offers custom EV charging solutions specifically designed for:
-- Apartments 🏢
-- Hotels 🏨
-- Retail Centers 🛍️
-- Vacation Rentals 🏡
+Electric cars are everywhere now. Places to charge them are not, and the ones that exist often ask for one more app, one more account and one more card before a single kilowatt flows.
 
-Enhance your property with state-of-the-art charging stations without impacting your finances! 💰🔋
+**Charge OnSite works a bit like Airbnb for EV charging.** Property owners, from apartment buildings to commercial properties, put chargers on their site, decide who can use them and what they cost, and run everything from one cloud dashboard that handles pricing, payments, monitoring and support. Drivers just scan the QR code on the charger with any phone, tap start charging and pay with a card, Apple Pay or Google Pay. No app to download, no setup.
 
-🛠️ Comprehensive Support at Every Step! 🤝🔧 From planning to installation, operation, and monetization, Charge OnSite is with you all the way:
-- Free Consultations to understand your property's needs 🗣️📋
-- Multiple Configuration Options tailored to your objectives 🛠️
-- Industry-Leading Priced Chargers ready for deployment ⚡🏷️
-- Ongoing Support with remote monitoring and troubleshooting 🖥️🔧
-- 📊 Smart Management Platform! 📱💼 Our cloud-based system offers:
+For an owner, a parking spot becomes a new income stream and a reason for tenants and guests to choose the property. There is even a free property analysis that shows what charging could be worth before you commit.
 
-User-Friendly Interface for your staff 🖥️
-Cost Offset and Revenue Generation configurations 💵
-Proactive Monitoring to detect issues before your customers do 🚨
-
-🌍 Diverse Applications! 🏢🏬🏨🏡 Charge OnSite supports a range of use cases:
-- Multi-Family Residences 🏢
-- Retail Centers 🛍️
-- Offices 🏢
-- Hotels and Short-Term Rentals 🏨
-📈 Stay Ahead of the Curve! 🚀📊 With the rise in electric vehicle adoption, ensure your property is equipped to meet the growing demand for EV charging. Attract premium tenants and guests by offering this essential amenity. 🌟🔌
-
-🔧 Flexible Service Plans! 📋🔧 Choose the plan that suits your needs:
-- Essentials Plan: Core management features for your team 🛠️
-- Premier Plan: Includes remote monitoring and troubleshooting for added support 🛠️🔧
-- Ready to electrify your property? ⚡🏢 Visit Charge OnSite to learn more and request a free site analysis today! 📅🔍
-
-🔋 Empower your property with Charge OnSite – where innovation meets convenience! 🌟🔌
+Take a look at the site and try the scan, tap, charge flow.
