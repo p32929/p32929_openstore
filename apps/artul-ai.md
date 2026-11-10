@@ -22,20 +22,10 @@ platforms:
 
 > **Company project.** This is not a personal project. I worked on its initial stage, and the product is owned and run by its company.
 
-## The problem
+A stock's price takes a second to read. Knowing whether the people running the company are being straight with you takes much longer, and the clues are buried in hours of earnings calls that almost nobody has time to listen to.
 
-A stock price tells you what happened. It does not tell you whether management is being straight with you. Every quarter, hours of earnings calls hold the clues: questions that get dodged, hype instead of numbers, a nervous tone. Almost nobody has time to listen to them all, and nobody can tell what is *normal* for a call.
+**Artul.ai does the listening.** It runs every call through 500 yes-or-no checks, measures 30 things like evasion, hype, stress and hedging, and compares each one with 177,437 calls since 2015, so you can see what is normal and what is not. Anything out of range gets an **H** or **L** flag, and the call gets one grade from **A to F**. Tesla's Q4 2025 call, for example, came back a **D**, with six of ten markers out of range.
 
-## The fix
-
-**Artul.ai gives every earnings call a blood test.** It runs 500 yes-or-no checks on the transcript, measures 30 markers such as evasion, hype, stress and hedging, and compares each one with the normal range of 177,437 calls since 2015. Anything out of range gets an **H** or **L** flag, and the call gets one grade, **A to F**.
-
-**See it on a real call:** Tesla's Q4 2025 call scored a **D**. Six of ten markers were out of range, including evasion, promotion and AI mentions. You see why in under a minute.
-
-## Why open it
-
-- Type any ticker and get the lab report. **Last quarter is free for all 9,373 companies, with no signup.**
-- Find out who said "AI" the most, who stonewalled, and who hedged, in the rankings
-- Browse ready-made screeners, like calls where guidance was raised or management was evasive
+Type a ticker and see for yourself. **Last quarter's report is free for all 9,373 companies, with no signup.** You can also check who said "AI" the most, who stonewalled and who hedged, or browse ready-made lists like calls where guidance was raised.
 
 *A call grade describes a conversation, not a future price. It is a check-up, not investment advice.*
