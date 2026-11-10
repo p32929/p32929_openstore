@@ -6,7 +6,6 @@ screenshots:
   - screenshots/bbrain-android/1.png
   - screenshots/bbrain-web/1.png
   - screenshots/bbrain-web/2.png
-  - screenshots/bbrain-web/3.png
 category: Productivity
 summary: An AI chat companion that answers questions, helps with school work and gives texting tips, with tone you can adjust
 tags: [AI, Chatbot, Productivity, Utilities]
