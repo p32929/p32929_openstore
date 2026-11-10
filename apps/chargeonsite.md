@@ -1,17 +1,15 @@
 ---
 title: ChargeOnSite
 icon: https://github.com/user-attachments/assets/5bb081d5-17a9-4a48-970c-c406900801d1
-tags: [App - Auto & Vehicles, App - Business, App - Lifestyle]
 screenshots:
   - https://github.com/user-attachments/assets/e6c2278d-6850-4b6b-9030-47da9ea16bd7
   - https://github.com/user-attachments/assets/d9f0dcc2-d660-453a-9f61-16f51279680f
   - https://github.com/user-attachments/assets/dd314847-9303-435e-8cff-42c5c5b24833
+category: Auto & Vehicles
+tags: [Business, Lifestyle]
 
 platforms:
-  Web:
-    - version: Web
-      changelog: web release
-      url: https://www.chargeonsite.com/
+  Web: https://www.chargeonsite.com/
 ---
 
 🔌 Charge OnSite – Powering the Future of EV Charging! 🚗⚡

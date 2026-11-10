@@ -1,17 +1,15 @@
 ---
 title: AdBlock YouTube Safari iOS
 icon: https://github.com/user-attachments/assets/f219ed24-e9de-4a0d-93ca-63397cf290bd
-tags: [App - Education, App - Productivity, Game - Educational]
 screenshots:
   - https://github.com/user-attachments/assets/77a78be2-4a84-4d7f-821f-91be82c3800f
   - https://github.com/user-attachments/assets/5075dffd-058b-4a41-b1e6-c11a448f6193
   - https://github.com/user-attachments/assets/819af4dd-55c5-4bf7-9240-054f6e230249
+category: Education
+tags: [Productivity, Educational Game]
 
 platforms:
-  iOS:
-    - version: iOS
-      changelog: iOS release
-      url: https://apps.apple.com/gb/app/al-quran-by-quran-touch/id585240351
+  iOS: https://apps.apple.com/gb/app/al-quran-by-quran-touch/id585240351
 ---
 
 🚫 AdBlock for YouTube – Enjoy Ad-Free Videos! 🎥✨

@@ -1,17 +1,15 @@
 ---
 title: Github Trending Repos
 icon: https://github.com/user-attachments/assets/d93d3ea0-769b-42f1-8107-403bb9760ccd
-tags: [App - Developer Tools, App - Libraries & Demo, App - Productivity]
 screenshots:
   - https://github.com/user-attachments/assets/232edec1-df70-4b35-bd81-efa10b6365cc
   - https://github.com/user-attachments/assets/ba2df2e6-9910-4d1e-960f-d14567fcff64
   - https://github.com/user-attachments/assets/5b108bed-8091-4381-aa0e-7a0c720cac59
+category: Developer Tools
+tags: [Libraries & Demo, Productivity]
 
 platforms:
-  Web:
-    - version: Web
-      changelog: web release
-      url: https://bit.ly/ghtrr
+  Web: https://bit.ly/ghtrr
 ---
 
 🚀 GitHub Trending Repos – Stay Updated with the Hottest Repositories! 🌍💻

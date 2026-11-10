@@ -1,19 +1,17 @@
 ---
 title: Al Quran
 icon: https://github.com/user-attachments/assets/a77614ab-0334-4415-a8ec-92cea8669bbc
-tags: [App - Education, App - Productivity, Game - Educational]
 screenshots:
   - https://github.com/user-attachments/assets/9bbd0ec4-84aa-4725-b1cb-83ce1a713da8
   - https://github.com/user-attachments/assets/0c43a69a-0199-4a2d-a497-ece51e702333
   - https://github.com/user-attachments/assets/289f4b98-5463-41dd-a753-7fef574b6089
   - https://github.com/user-attachments/assets/db3dd524-513c-4f15-add3-53265ed055a2
   - https://github.com/user-attachments/assets/27ea7de5-28f9-4ad8-86ed-c40f4cae71ab
+category: Education
+tags: [Productivity, Educational Game]
 
 platforms:
-  iOS:
-    - version: iOS
-      changelog: iOS release
-      url: https://apps.apple.com/gb/app/al-quran-by-quran-touch/id585240351
+  iOS: https://apps.apple.com/gb/app/al-quran-by-quran-touch/id585240351
 ---
 
 **📖 Al Quran by Quran Touch – Your Complete Digital Quran Companion! 🌙✨**

@@ -1,15 +1,15 @@
 ---
 title: Dobd.xyz
 icon: https://github.com/user-attachments/assets/0dce97d9-28f7-44b9-8943-7dd7635db9d8
-tags: [App - Productivity]
 screenshots:
   - https://github.com/user-attachments/assets/8a4dfe8e-9145-4f35-8bf8-d801f85c49ef
   - https://github.com/user-attachments/assets/6ec2f739-6769-4d72-9666-7eeddda5c9aa
   - https://github.com/user-attachments/assets/0ccdfbbe-07dd-41b9-8450-47b405bb24ea
   - https://github.com/user-attachments/assets/ff50bfd2-b405-4e2b-bf4a-100a7e88bbdf
+category: Productivity
 
 platforms:
-  Web:                # listed, no release yet
+  Web:
 ---
 
 🎉 Dobd.xyz – Your Ultimate Online Media Downloader! 📥🌐

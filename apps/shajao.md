@@ -1,14 +1,15 @@
 ---
 title: Shajao
 icon: https://github.com/user-attachments/assets/b23179c0-fd46-4d64-b1dc-38ffce21c67b
-tags: [App - Education, App - Productivity, Game - Educational]
 screenshots:
   - https://github.com/user-attachments/assets/71f60b47-275d-46d4-bbf4-2a917df1dd15
   - https://github.com/user-attachments/assets/7a105943-0f93-49e0-afb3-ae69b0945d51
   - https://github.com/user-attachments/assets/f0912e92-e2cb-43c8-9a60-35c1ccbeb3f6
+category: Education
+tags: [Productivity, Educational Game]
 
 platforms:
-  Web:                # listed, no release yet
+  Web:
 ---
 
 🎨 Shajao – The Ultimate Online Framing Studio! 🖼️✨

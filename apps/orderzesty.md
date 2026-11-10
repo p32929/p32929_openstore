@@ -1,15 +1,16 @@
 ---
 title: OrderZesty
 icon: https://github.com/user-attachments/assets/a7128899-84a0-4a9d-8fda-66f2d4daffab
-tags: [App - Food & Drink, App - Lifestyle]
 screenshots:
   - https://github.com/user-attachments/assets/c63e2b65-f598-4b40-976e-5da6800bdf1d
   - https://github.com/user-attachments/assets/aa459364-24fe-4eb5-b307-328c5eadfc6f
   - https://github.com/user-attachments/assets/c681d85a-8383-4ed9-ba78-ead859241937
   - https://github.com/user-attachments/assets/e9f3fb3e-7276-4cfc-a35e-5ce86466b796
+category: Food & Drink
+tags: [Lifestyle]
 
 platforms:
-  Web:                # listed, no release yet
+  Web:
 ---
 
 🍽️ OrderZesty – Fresh, Home-Cooked Meals Delivered Daily! 🚀🥗

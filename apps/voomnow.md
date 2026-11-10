@@ -1,12 +1,13 @@
 ---
 title: VoomNow
 icon: https://user-images.githubusercontent.com/6418354/173876916-e27cb77f-49f1-4190-be54-4c1ddaa2973d.svg
-tags: [App - Education, App - Productivity, Game - Educational]
 screenshots:
   - https://github.com/user-attachments/assets/38486ecb-761f-48ce-a3a4-f8307ac03329
+category: Education
+tags: [Productivity, Educational Game]
 
 platforms:
-  Web:                # listed, no release yet
+  Web:
 ---
 
 🎙️ VoomNow – Your Premium Free Online Voice Recorder! 🌐🎧

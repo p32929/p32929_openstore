@@ -1,19 +1,17 @@
 ---
 title: MathFinity
 icon: https://p32929.github.io/mathfinity/icons/Icon-192.png
-tags: [App - Education, App - Productivity, Game - Educational]
 screenshots:
   - https://github.com/p32929/mathfinity/assets/6418354/ead028a1-7b4b-4450-92cb-9c0be01d9560
   - https://github.com/p32929/mathfinity/assets/6418354/bd6ac25f-cdd4-4553-b708-9e5e83614fee
   - https://github.com/p32929/mathfinity/assets/6418354/a0af677d-9909-4881-af3b-99605d300314
   - https://github.com/user-attachments/assets/87078081-c5e1-42da-a1a7-7508e901d5fc
   - https://github.com/user-attachments/assets/b59e65a4-ba6c-4b11-bc4a-02fb9895eef0
+category: Education
+tags: [Productivity, Educational Game]
 
 platforms:
-  Web:
-    - version: Web
-      changelog: web release
-      url: https://p32929.github.io/mathfinity/
+  Web: https://p32929.github.io/mathfinity/
 ---
 
 ✨ **Mathfinity – The Ultimate Infinite Math Game!** ✨

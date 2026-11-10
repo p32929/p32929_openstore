@@ -1,17 +1,14 @@
 ---
 title: s3cr3tm3
 icon: https://user-images.githubusercontent.com/6418354/173877444-59dbdd3d-1b5d-4b92-ad53-30fada9362d2.png
-tags: [App - Communication]
 screenshots:
   - https://github.com/user-attachments/assets/232edec1-df70-4b35-bd81-efa10b6365cc
   - https://github.com/user-attachments/assets/ba2df2e6-9910-4d1e-960f-d14567fcff64
   - https://github.com/user-attachments/assets/5b108bed-8091-4381-aa0e-7a0c720cac59
+category: Communication
 
 platforms:
-  Web:
-    - version: Web
-      changelog: web release
-      url: https://s3cr3tm3.netlify.app/
+  Web: https://s3cr3tm3.netlify.app/
 ---
 
 🕵️‍♂️ S3CR3TM3 – Share & Delete Secret Messages Easily! 🔐💬
