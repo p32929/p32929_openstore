@@ -1,6 +1,6 @@
 # OpenStore listing template
 
-This is the **`template`** branch of [p32929/p32929_openstore](https://github.com/p32929/p32929_openstore): the clean starter for an [OpenStore](https://github.com/p32929/openstore_maintainers) listing. (The `main` branch is p32929's own listing, a real example.)
+This is the **`template`** branch of [p32929/p32929_openstore](https://github.com/p32929/p32929_openstore): the clean starter for an [OpenStore](https://openstore.pfay.workers.dev) listing. (The `main` branch is p32929's own listing, a real example.)
 
 **Get it** into a new **public** repo of yours, either way:
 
@@ -26,7 +26,7 @@ your-github-name/your-repo
 ## Steps
 
 1. **Edit the files.** Replace `apps/app1.md` and `apps/app2.md` with your own apps (one `.md` file per app, any number), and edit or delete `profile.yaml`.
-2. **Check them:** `node validate.mjs` (needs only [Node.js](https://nodejs.org)) lists every problem as `file:line`; fix them until it says *All good*, then push. GitHub runs the same check on every push (your repo's **Actions** tab) and marks problems on the exact lines.
+2. **Check them:** `node validate.mjs` (or enter your repo at [openstore.pfay.workers.dev/validate](https://openstore.pfay.workers.dev/validate)) (needs only [Node.js](https://nodejs.org)) lists every problem as `file:line`; fix them until it says *All good*, then push. GitHub runs the same check on every push (your repo's **Actions** tab) and marks problems on the exact lines.
 3. **Join, once:** open a pull request on [p32929/openstore_maintainers](https://github.com/p32929/openstore_maintainers) adding `- your-github-name/your-repo` to `maintainers.yaml`. It's checked automatically: your repo must pass, and the pull request must come from your own account.
 
 ```
