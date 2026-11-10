@@ -11,7 +11,7 @@ summary: A personal chef service. Tell it what you like and fresh home-cooked br
 tags: [Meal delivery, Home cooking, Personal chef, Meal planning, Food, AI]
 
 platforms:
-  Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/blank.html
+  Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/unavailable.png
 ---
 
 > **Client project.** This is not a personal project. I worked on it for a client, and the product was owned and run by them.

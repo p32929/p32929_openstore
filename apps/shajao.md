@@ -9,7 +9,7 @@ summary: Upload a photo, pick a frame, a size and a background, pay, and get it 
 tags: [Photo framing, Printing, Delivery, Gifts, Bangladesh, E-commerce]
 
 platforms:
-  Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/blank.html
+  Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/unavailable.png
 ---
 
 Your best photos live on your phone, and that is where they stay. Getting one printed, finding a frame that suits it, and carrying it home without bending a corner is a chore most people never get round to.

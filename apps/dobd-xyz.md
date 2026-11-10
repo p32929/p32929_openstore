@@ -11,7 +11,7 @@ summary: Paste a link from YouTube, Instagram, Facebook, TikTok, Pinterest or Tw
 tags: [Downloader, Video, Social media, Instagram, YouTube, TikTok]
 
 platforms:
-  Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/blank.html
+  Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/unavailable.png
 ---
 
 You find a video on Instagram, a reel on Facebook or a clip on TikTok, and you want to keep it. The apps only let you watch it there, and the tools that promise to save it usually mean installing something first.

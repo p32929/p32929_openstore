@@ -9,7 +9,7 @@ summary: Record your voice in the browser and share it with a link, like Loom bu
 tags: [Voice recorder, Audio, Sharing, Recording, Web app, Free]
 
 platforms:
-  Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/blank.html
+  Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/unavailable.png
 ---
 
 Sometimes a quick voice message says it better than a long email or a call you have to schedule. But recording one usually means installing an app, finding the file and working out how to send it.
