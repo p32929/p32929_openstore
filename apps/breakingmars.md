@@ -8,7 +8,7 @@ screenshots:
   - screenshots/breakingmars/4.png
   - screenshots/breakingmars/5.png
 category: Business
-summary: Automates the repetitive part of LinkedIn outreach: pick a strategy, choose your audience and let it view, connect and follow up
+summary: Automates the repetitive part of LinkedIn outreach. Pick a strategy, choose your audience and let it view, connect and follow up
 tags: [LinkedIn, Lead generation, Sales, Automation, B2B, Social selling]
 
 platforms:
