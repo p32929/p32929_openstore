@@ -2,47 +2,23 @@
 title: BreakingMars
 icon: https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_2/lg6nxfb2dttgtng5kobb
 screenshots:
-  - https://github.com/user-attachments/assets/84f55387-1a4f-4b14-854c-34fec671194b
-  - https://github.com/user-attachments/assets/131ebdbb-67bd-42fe-b3b2-53d54e911959
-  - https://github.com/user-attachments/assets/70112bfd-f88f-4e01-bdab-31509bab0ee2
-  - https://github.com/user-attachments/assets/7539b05b-675b-4282-8850-b28dba83fd5f
-  - https://github.com/user-attachments/assets/3b08cf42-32da-415b-8bc4-fe72c773ad44
-  - https://github.com/user-attachments/assets/d629941a-c3ae-4316-8e8b-c120545a5831
-  - https://github.com/user-attachments/assets/cccc0c45-da18-47e7-971a-d26d0184c06d
-category: Lifestyle
-tags: [Productivity, Communication, Personalization]
+  - screenshots/breakingmars/1.png
+  - screenshots/breakingmars/2.png
+  - screenshots/breakingmars/3.png
+  - screenshots/breakingmars/4.png
+  - screenshots/breakingmars/5.png
+category: Business
+summary: Automates the repetitive part of LinkedIn outreach: pick a strategy, choose your audience and let it view, connect and follow up
+tags: [LinkedIn, Lead generation, Sales, Automation, B2B, Social selling]
 
 platforms:
   Web:
 ---
 
-🚀 Breaking Mars – AI-Powered LinkedIn Lead Generation! 🌍✨
+Finding the right people on LinkedIn is the easy part. Reaching hundreds of them, one profile view, one invite and one follow-up at a time, is what eats your week.
 
-💡 Turn LinkedIn into Your 24/7 Sales Machine! 🔥🤖
-Breaking Mars is an AI-powered automation platform that helps businesses find, connect, and engage with potential clients on LinkedIn—without lifting a finger! 🤝⚡
+**Breaking Mars does the repetitive part for you.** Pick one of eight campaign strategies, choose your audience by company, country, gender and more (or import a CSV, or paste a LinkedIn search link), and it views profiles, likes posts, endorses skills, sends connection invites and follows up with messages. Sequences can mix LinkedIn messages, InMails, emails and Twitter DMs, and a dashboard shows your connections, replies and conversion at a glance.
 
-🎯 Smart Lead Generation! 💼🔍
-🔹 Automates LinkedIn searches to find ideal clients 🎯
-🔹 Creates custom lead lists based on industry, location & more 📋
-🔹 Integrates leads into social selling sequences 📩🤖
+The idea is the same funnel that ads use, awareness then engagement then conversion, without spending a cent on ads. It came with a 30-day free trial, no credit card needed, and a small calculator that told you how many days a month you would save.
 
-💬 Engage & Grow Your Network! 🚀🔗
-✔ Auto view profiles 👀
-✔ Like posts & endorse skills 👍
-✔ Personalized outreach messages for better connections 💌
-
-📊 Optimize Your Sales Funnel! 💰📈
-🔹 No need for expensive ads – organic lead growth 🌱
-🔹 Guides prospects from awareness to conversion 🔄💸
-🔹 Saves time by automating repetitive tasks ⏳💼
-
-🎛 8 Powerful LinkedIn Strategies! 🛠✨
-Customize campaigns to target your ideal audience based on company, location, industry, and more! 🏢🌍
-
-💼 Why Breaking Mars? 🚀
-✅ More leads, less effort 💪
-✅ 24/7 digital marketer at your service ⏰🤖
-✅ Better visibility, stronger relationships 👥🌟
-
-✨ Let AI do the heavy lifting while you close deals! 🔥💰
-Try it today and supercharge your LinkedIn marketing! 🚀
+*The website screenshots come from an archived copy from December 2021. The original website is no longer online.*
