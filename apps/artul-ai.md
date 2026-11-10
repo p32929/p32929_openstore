@@ -7,6 +7,10 @@ screenshots:
   - screenshots/artul-ai/3.png
   - screenshots/artul-ai/4.png
   - screenshots/artul-ai/5.png
+  - screenshots/artul-ai/6.png
+  - screenshots/artul-ai/7.png
+  - screenshots/artul-ai/8.png
+  - screenshots/artul-ai/9.png
 category: Finance
 summary: Blood tests for stocks. Every earnings call is checked 500 ways and 30 markers are flagged against 177,437 calls
 tags: [Business, Stocks, Earnings calls, AI, Research]
