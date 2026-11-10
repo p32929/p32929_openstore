@@ -20,5 +20,3 @@ Getting a business online still means a designer, a developer, a database, a hos
 **Instant.site was an AI website builder that did all of that from one prompt.** You described what you wanted, like a dental clinic, a restaurant, a shop or a portfolio, and the AI built a complete website with the design, the functionality and the database behind it. You could connect your own domain or start on a free subdomain, then launch it right away or download the source code and keep building.
 
 From idea to a live site in three steps: describe it, let the AI build it, deploy and customize.
-
-*The website is currently offline. The screenshots come from an archived copy from March 2026.*

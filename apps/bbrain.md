@@ -22,5 +22,3 @@ You watch a story on MyStory Animated, and a character stays in your head long a
 **BBrain lets you chat with characters from the YouTube channel MyStory Animated.** Pick one from the list and start talking. Magnus, the stoic vampire from *I'm Turning into a Vampire*, stays in character, cold on the outside, and maybe you can make him fall for you. There are a few extra characters made just for the app too.
 
 It is free. Open it, choose a character and say hi, on **iOS** or **Android**.
-
-*The website screenshots come from an archived copy. The original website is no longer online.*

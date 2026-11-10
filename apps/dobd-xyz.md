@@ -19,5 +19,3 @@ You find a video on Instagram, a reel on Facebook or a clip on TikTok, and you w
 **Dobd.xyz was an online downloader for social media.** Copy the link, paste it into the box on the page, and it fetched the video or picture so you could save it to your device. There was nothing to install. It worked with YouTube, Instagram, Facebook, TikTok, Pinterest and Twitter, each with its own downloader page, and the home page showed what other people were downloading.
 
 Copy, paste, download. That was the whole idea.
-
-*The website is no longer online. The screenshots come from an archived copy.*

@@ -22,5 +22,3 @@ Everyone knows LinkedIn is full of future clients. The hard part is reaching the
 **Breaking Mars was a LinkedIn automation tool that made connecting easier and brought in more leads, clients and sales.** You picked one of eight campaign strategies, chose your audience by company, country, gender and more (or imported a CSV, or pasted a LinkedIn search link), and it viewed profiles, liked posts, endorsed skills, sent connection invites and followed up with messages. Sequences could mix LinkedIn messages, InMails, emails and Twitter DMs, and a dashboard showed your connections, replies and conversion at a glance.
 
 It followed the same funnel ads use, awareness then engagement then conversion, without spending a cent on ads. It came with a 30-day free trial, no credit card needed, and a small calculator that showed how many days a month you would save.
-
-*The website is no longer online. The screenshots come from an archived copy from December 2021.*
