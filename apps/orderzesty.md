@@ -2,36 +2,22 @@
 title: OrderZesty
 icon: https://github.com/user-attachments/assets/a7128899-84a0-4a9d-8fda-66f2d4daffab
 screenshots:
-  - https://github.com/user-attachments/assets/c63e2b65-f598-4b40-976e-5da6800bdf1d
-  - https://github.com/user-attachments/assets/aa459364-24fe-4eb5-b307-328c5eadfc6f
-  - https://github.com/user-attachments/assets/c681d85a-8383-4ed9-ba78-ead859241937
-  - https://github.com/user-attachments/assets/e9f3fb3e-7276-4cfc-a35e-5ce86466b796
+  - screenshots/orderzesty/1.png
+  - screenshots/orderzesty/2.png
+  - screenshots/orderzesty/3.png
+  - screenshots/orderzesty/4.png
 category: Food & Drink
-tags: [Lifestyle]
+summary: A personal chef service. Tell it what you like and fresh home-cooked breakfast, lunch and dinner arrive every day with no delivery fees
+tags: [Meal delivery, Home cooking, Personal chef, Meal planning, Food, AI]
 
 platforms:
   Web:
 ---
 
-🍽️ OrderZesty – Fresh, Home-Cooked Meals Delivered Daily! 🚀🥗
+> **Client project.** This is not a personal project. I worked on it for a client, and the product was owned and run by them.
 
-🥘 Delicious, Fresh, and Hassle-Free Meals at Your Doorstep! 🚪🍴
-OrderZesty takes the stress out of meal planning by delivering fresh, home-cooked breakfast, lunch, and dinner right to your door—with no delivery fees! 🚗💨
+Deciding what to eat, shopping for it and cooking it, three times a day, every day, wears you down. Takeaway and delivery apps fix the cooking but not the cost, and the delivery fees add up.
 
-✨ Why Choose OrderZesty?
+**Zesty was a personal chef service that put your meals on autopilot.** You filled in your cuisine preferences and food requirements, and the AI designed a weekly menu around your taste and matched you with the right chefs to cook it. Real home cooks, from stay-at-home mothers to professional chefs looking for extra income, prepared the food, and fresh breakfast, lunch and dinner arrived at your door with no delivery fees. You could see which chef cooked your meal, track what you ate, and the menu got better with your feedback, across Indian, Continental, Chinese, Italian and more cuisines.
 
-✅ Freshly Made Meals 🍲 – Enjoy daily home-cooked food, prepared with care!
-✅ Zero Delivery Fees 🚚 – No extra charges, just great meals delivered to you.
-✅ Autopilot Meal Planning 📅 – No more decision fatigue—just tasty, rotating dishes every day!
-✅ Flexible & Convenient ⏳ – No commitments, pause or cancel anytime!
-✅ Perfect for Busy Lifestyles 🏃‍♂️ – Whether you're working, studying, or just don’t want to cook, OrderZesty has you covered!
-
-🍛 How It Works?
-
-1️⃣ Choose Your Plan 📋 – Pick the meal options that work for you.
-2️⃣ Get Fresh Meals Delivered 🛵 – Your food arrives hot and ready to eat.
-3️⃣ Enjoy a Stress-Free Dining Experience 🎉 – No cooking, no grocery shopping, just great food!
-
-🍽️ Skip the Cooking & Enjoy More Time for Yourself!
-
-Join the OrderZesty family today and experience delicious, home-cooked meals with zero hassle! 🍕🥗🥘
+No commitment either. You could skip weeks, pause or cancel anytime.
