@@ -10,7 +10,7 @@ summary: Describe a website in plain English and get a complete, deployable site
 tags: [AI, Website builder, No-code, Full stack, Domains, Landing pages]
 
 platforms:
-  Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/blank.html
+  Web: about:blank
 ---
 
 > **Company project.** This is not a personal project. I worked on it at a company, and the product was owned and run by that company.

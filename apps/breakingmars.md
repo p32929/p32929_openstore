@@ -12,7 +12,7 @@ summary: A LinkedIn automation tool that helped people connect faster and win mo
 tags: [LinkedIn, Lead generation, Sales, Automation, B2B, Social selling]
 
 platforms:
-  Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/blank.html
+  Web: about:blank
 ---
 
 > **Company project.** This is not a personal project. I worked on it at a company, and the product was owned and run by that company.
