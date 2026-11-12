@@ -2,12 +2,12 @@
 title: Quran
 icon: screenshots/quran/icon.png
 screenshots:
-  - https://github.com/user-attachments/assets/86933572-40b6-42e5-9913-dd1a183b44e5
-  - https://github.com/user-attachments/assets/91a2477e-b810-4187-a229-2b0af2d62ba6
-  - https://github.com/user-attachments/assets/6d48eacc-6c1d-464f-9ef4-880721f67804
-  - https://github.com/user-attachments/assets/d71c6909-bb5b-40c1-8474-b093da71c78e
-  - https://github.com/user-attachments/assets/2d1dfb58-43c8-496b-8d8a-d89bc7f3b187
-  - https://github.com/user-attachments/assets/b202e56a-1432-4d54-94ca-d4c1e434d507
+  - screenshots/quran/1.png
+  - screenshots/quran/2.png
+  - screenshots/quran/3.png
+  - screenshots/quran/4.png
+  - screenshots/quran/5.png
+  - screenshots/quran/6.png
 category: Books & Reference
 summary: Read the Quran with translations, listen to 42 reciters and memorize ayat with looped audio, free and with no ads
 tags: [Quran, Islam, Arabic, Translation, Audio, Recitation, Memorization, Offline]
