@@ -24,11 +24,13 @@ I built this for myself when I worked as a freelancer. On sites like Fiverr and 
 
 There's nothing to sign up for, nothing to install, and it's free. The page is one box and two buttons, so it takes a few seconds to use.
 
+**What it's for.** My goal was simple: other people shouldn't be able to see what my client and I shared. Each message gets a long, random link that nobody can guess, and most people aren't hackers, so for me that was good enough.
+
 **It was made just for me, so please know what it is and what it isn't.** I only built this for my own use and my own clients. I never planned for other people to use it, so I didn't put in the things a proper secret-message service would have. Two things to know:
 
 1. **Delete hides the message; it doesn't erase it.** When someone presses Delete, the link stops working, but the text stays in the database. I never added real removal because I didn't need it.
 2. **Messages are not encrypted.** They are stored as plain text, and anyone who has the link can read the message until it's deleted.
 
-So don't put anything truly sensitive in it, like bank details or passwords you can't change. It's fine for everyday things you'd be okay with going no further than the person you sent it to.
+It's not built to stop someone who really knows how to look. So don't put anything truly sensitive in it, like bank details or passwords you can't change. It's fine for everyday things you'd be okay with going no further than the person you sent it to.
 
 It's free to use, and if it's useful to you, you're welcome to it.
