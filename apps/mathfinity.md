@@ -4,7 +4,8 @@ icon: screenshots/mathfinity/icon.png
 screenshots:
   - screenshots/mathfinity/web-1.png
   - screenshots/mathfinity/web-2.png
-  - screenshots/mathfinity/macos.png
+  - screenshots/mathfinity/tablet-1.png
+  - screenshots/mathfinity/tablet-2.png
   - screenshots/mathfinity/1.png
   - screenshots/mathfinity/2.png
   - screenshots/mathfinity/3.png

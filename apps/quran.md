@@ -5,7 +5,8 @@ screenshots:
   - screenshots/quran/web-1.png
   - screenshots/quran/web-2.png
   - screenshots/quran/web-3.png
-  - screenshots/quran/macos.png
+  - screenshots/quran/tablet-1.png
+  - screenshots/quran/tablet-2.png
   - screenshots/quran/1.png
   - screenshots/quran/2.png
   - screenshots/quran/3.png
