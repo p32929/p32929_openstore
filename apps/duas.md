@@ -5,6 +5,7 @@ screenshots:
   - screenshots/duas/1.png
   - screenshots/duas/2.png
   - screenshots/duas/3.png
+  - screenshots/duas/macos.png
   - screenshots/duas/4.png
 category: Books & Reference
 summary: Keep the duas you recite in one calm place, find more in trusted dua books, and read their meaning in your own language
