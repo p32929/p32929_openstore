@@ -1,6 +1,6 @@
 ---
 title: Indeed-Linkedin bot
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953749/p32929-Portfolio/necalptsa0wbyzwzfrwh.png
+icon: screenshots/indeed-linkedin-bot/icon.png
 screenshots:
   - screenshots/indeed-linkedin-bot/1.png
 category: Utilities

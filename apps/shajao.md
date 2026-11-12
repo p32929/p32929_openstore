@@ -1,6 +1,6 @@
 ---
 title: Shajao
-icon: https://github.com/user-attachments/assets/b23179c0-fd46-4d64-b1dc-38ffce21c67b
+icon: screenshots/shajao/icon.png
 screenshots:
   - screenshots/shajao/1.png
   - screenshots/shajao/2.png

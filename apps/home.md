@@ -1,6 +1,6 @@
 ---
 title: Home
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953774/p32929-Portfolio/zyremw2r9kjgt19upvrw.png
+icon: screenshots/home/icon.png
 screenshots:
   - screenshots/home-extension/1.png
 category: Productivity

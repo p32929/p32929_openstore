@@ -1,6 +1,6 @@
 ---
 title: Pomota
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953744/p32929-Portfolio/mmfrjgsasnmxk26gocgr.png
+icon: screenshots/pomota/icon.png
 screenshots:
   - screenshots/pomota/1.png
 category: Productivity

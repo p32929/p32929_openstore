@@ -1,6 +1,6 @@
 ---
 title: DramaDB
-icon: https://res.cloudinary.com/p32929/image/upload/v1759956967/p32929-Portfolio/fa8624a5-6b99-42b7-838c-3041b914bdef.png
+icon: screenshots/dramadb/icon.png
 screenshots:
   - screenshots/dramadb/1.png
   - screenshots/dramadb/2.png

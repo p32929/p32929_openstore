@@ -1,6 +1,6 @@
 ---
 title: Sha1ToMd5
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953716/p32929-Portfolio/fkjurkfivkg7sekog3zd.png
+icon: screenshots/sha1tomd5/icon.png
 screenshots:
   - screenshots/sha1tomd5/1.png
 category: Developer Tools

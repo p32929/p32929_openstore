@@ -1,6 +1,6 @@
 ---
 title: OrderZesty
-icon: https://github.com/user-attachments/assets/a7128899-84a0-4a9d-8fda-66f2d4daffab
+icon: screenshots/orderzesty/icon.jpg
 screenshots:
   - screenshots/orderzesty/1.png
   - screenshots/orderzesty/2.png

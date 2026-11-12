@@ -1,6 +1,6 @@
 ---
 title: AndroidAppLockscreen
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953753/p32929-Portfolio/p3v3uqavlmgbibk4gi5d.svg
+icon: screenshots/androidapplockscreen/icon.svg
 screenshots:
   - screenshots/androidapplockscreen/1.png
 category: Developer Tools

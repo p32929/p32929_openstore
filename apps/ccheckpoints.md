@@ -1,6 +1,6 @@
 ---
 title: ccheckpoints
-icon: https://res.cloudinary.com/p32929/image/upload/v1759960038/p32929-Portfolio/4c40c36f-5751-4771-879a-02da5684e69b.png
+icon: screenshots/ccheckpoints/icon.png
 screenshots:
   - screenshots/ccheckpoints/1.png
 category: Developer Tools

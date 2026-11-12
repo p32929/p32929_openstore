@@ -1,6 +1,6 @@
 ---
 title: VoomNow
-icon: https://user-images.githubusercontent.com/6418354/173876916-e27cb77f-49f1-4190-be54-4c1ddaa2973d.svg
+icon: screenshots/voomnow/icon.svg
 screenshots:
   - screenshots/voomnow/1.png
   - screenshots/voomnow/2.png

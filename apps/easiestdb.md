@@ -1,6 +1,6 @@
 ---
 title: EasiestDB
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953771/p32929-Portfolio/wz0dtwh1l54flh0jw7wl.png
+icon: screenshots/easiestdb/icon.png
 screenshots:
   - screenshots/easiestdb/1.png
 category: Developer Tools

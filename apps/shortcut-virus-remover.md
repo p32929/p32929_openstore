@@ -1,6 +1,6 @@
 ---
 title: Shortcut Virus Remover
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953746/p32929-Portfolio/aokzrnxlpexmy7qikw4l.png
+icon: screenshots/shortcut-virus-remover/icon.png
 screenshots:
   - screenshots/shortcut-virus-remover/1.png
 category: Security

@@ -1,10 +1,10 @@
 ---
 title: Github Trending Repos
-icon: https://github.com/user-attachments/assets/d93d3ea0-769b-42f1-8107-403bb9760ccd
+icon: screenshots/github-trending-repos/icon.png
 screenshots:
-  - https://github.com/user-attachments/assets/232edec1-df70-4b35-bd81-efa10b6365cc
-  - https://github.com/user-attachments/assets/ba2df2e6-9910-4d1e-960f-d14567fcff64
-  - https://github.com/user-attachments/assets/5b108bed-8091-4381-aa0e-7a0c720cac59
+  - screenshots/github-trending-repos/1.png
+  - screenshots/github-trending-repos/2.png
+  - screenshots/github-trending-repos/3.png
 category: Developer Tools
 tags: [Libraries & Demo, Productivity]
 

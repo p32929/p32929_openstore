@@ -1,6 +1,6 @@
 ---
 title: obsidotion
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953776/p32929-Portfolio/x8ci9sbwrt2xqmvgneeo.svg
+icon: screenshots/obsidotion/icon.svg
 screenshots:
   - screenshots/obsidotion/1.png
 category: Productivity

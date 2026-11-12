@@ -1,6 +1,6 @@
 ---
 title: Manufacturer Battery Optimization
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953755/p32929-Portfolio/fnsdi6zs4luri3rn3eyz.svg
+icon: screenshots/manufacturer-battery-optimization/icon.svg
 screenshots:
   - screenshots/manufacturer-battery-optimization/1.png
 category: Developer Tools

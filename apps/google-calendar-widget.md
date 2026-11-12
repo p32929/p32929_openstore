@@ -1,6 +1,6 @@
 ---
 title: Google Calendar Widget
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953744/p32929-Portfolio/thx3jsstoglsftxemvsi.png
+icon: screenshots/google-calendar-widget/icon.png
 screenshots:
   - screenshots/google-calendar-widget/1.png
 category: Productivity

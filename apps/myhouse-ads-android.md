@@ -1,6 +1,6 @@
 ---
 title: MyHouse Ads Android
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953757/p32929-Portfolio/e5veb7eiqkalchfv1jz4.svg
+icon: screenshots/myhouse-ads-android/icon.svg
 screenshots:
   - screenshots/myhouseadsandroid/1.png
 category: Developer Tools

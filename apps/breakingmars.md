@@ -1,6 +1,6 @@
 ---
 title: BreakingMars
-icon: https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_2/lg6nxfb2dttgtng5kobb
+icon: screenshots/breakingmars/icon.jpg
 screenshots:
   - screenshots/breakingmars/1.png
   - screenshots/breakingmars/2.png

@@ -1,6 +1,6 @@
 ---
 title: use-megamind
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953770/p32929-Portfolio/k8eik3jt572pm6gwisl2.png
+icon: screenshots/use-megamind/icon.png
 screenshots:
   - screenshots/use-megamind/1.png
 category: Developer Tools

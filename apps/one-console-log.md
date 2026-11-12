@@ -1,6 +1,6 @@
 ---
 title: one console log
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953774/p32929-Portfolio/rghqm4bddealamuukvtg.png
+icon: screenshots/one-console-log/icon.png
 screenshots:
   - screenshots/one-console-log/1.png
 category: Developer Tools

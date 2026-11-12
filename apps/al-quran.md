@@ -1,12 +1,12 @@
 ---
 title: Al Quran
-icon: https://github.com/user-attachments/assets/a77614ab-0334-4415-a8ec-92cea8669bbc
+icon: screenshots/al-quran/icon.png
 screenshots:
-  - https://github.com/user-attachments/assets/9bbd0ec4-84aa-4725-b1cb-83ce1a713da8
-  - https://github.com/user-attachments/assets/0c43a69a-0199-4a2d-a497-ece51e702333
-  - https://github.com/user-attachments/assets/289f4b98-5463-41dd-a753-7fef574b6089
-  - https://github.com/user-attachments/assets/db3dd524-513c-4f15-add3-53265ed055a2
-  - https://github.com/user-attachments/assets/27ea7de5-28f9-4ad8-86ed-c40f4cae71ab
+  - screenshots/al-quran/1.png
+  - screenshots/al-quran/2.png
+  - screenshots/al-quran/3.png
+  - screenshots/al-quran/4.png
+  - screenshots/al-quran/5.png
 category: Education
 tags: [Productivity, Educational Game]
 

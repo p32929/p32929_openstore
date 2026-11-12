@@ -1,6 +1,6 @@
 ---
 title: PotatoTimer
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953743/p32929-Portfolio/lataemg2hhqzsapj6myo.ico
+icon: screenshots/potatotimer/icon.ico
 screenshots:
   - screenshots/potatotimer/1.png
 category: Productivity

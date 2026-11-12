@@ -1,6 +1,6 @@
 ---
 title: Dobd.xyz
-icon: https://github.com/user-attachments/assets/0dce97d9-28f7-44b9-8943-7dd7635db9d8
+icon: screenshots/dobd-xyz/icon.png
 screenshots:
   - screenshots/dobd-xyz/1.png
   - screenshots/dobd-xyz/2.png

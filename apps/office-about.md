@@ -1,6 +1,6 @@
 ---
 title: Office About
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953763/p32929-Portfolio/fqf0l1opfn8yywxtw1ie.svg
+icon: screenshots/office-about/icon.svg
 screenshots:
   - screenshots/officeabout/1.png
 category: Developer Tools

@@ -1,6 +1,6 @@
 ---
 title: audio_duration
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953772/p32929-Portfolio/plbqz7r3fvripuhztsuk.png
+icon: screenshots/audio-duration/icon.png
 screenshots:
   - screenshots/audio-duration/1.png
 category: Developer Tools

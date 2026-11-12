@@ -1,6 +1,6 @@
 ---
 title: House Ads 2
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953759/p32929-Portfolio/guc2wl2f1jehecdhkcub.svg
+icon: screenshots/house-ads-2/icon.svg
 screenshots:
   - screenshots/houseads2/1.png
 category: Developer Tools

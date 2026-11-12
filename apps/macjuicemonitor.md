@@ -1,6 +1,6 @@
 ---
 title: MacJuiceMonitor
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953745/p32929-Portfolio/nixhwhleqc36jhpd3wth.png
+icon: screenshots/macjuicemonitor/icon.png
 screenshots:
   - screenshots/macjuicemonitor/1.png
 category: Utilities

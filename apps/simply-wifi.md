@@ -1,6 +1,6 @@
 ---
 title: Simply Wifi
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953771/p32929-Portfolio/etyle21lx8fn2bx1noaj.png
+icon: screenshots/simply-wifi/icon.png
 screenshots:
   - screenshots/simply-wifi/1.png
 category: Developer Tools

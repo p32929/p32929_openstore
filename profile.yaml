@@ -1,6 +1,7 @@
 # Optional. Without it, my GitHub name and avatar are used.
 name: Fayaz Bin Salam
 bio: Software Engineer
+avatar: screenshots/avatar.png
 location: Milky Way, Solar System, Earth
 website: https://p32929.github.io/
 skills: [TypeScript, JavaScript, Java, Dart, Flutter, Python, Rust, C, C++, Swift, HTML]

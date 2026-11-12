@@ -1,11 +1,11 @@
 ---
 title: 9Note
-icon: https://cdn-icons-png.flaticon.com/128/9805/9805783.png
+icon: screenshots/9note/icon.png
 screenshots:
-  - https://github.com/user-attachments/assets/9577a327-0a63-4bb8-be9d-97853b070d5f
-  - https://github.com/user-attachments/assets/b67a9b29-cd77-411b-bf90-72529d2d4d4e
-  - https://github.com/user-attachments/assets/7e9c4240-9882-4926-9706-1832dcd53eec
-  - https://github.com/user-attachments/assets/b33b8efe-dc05-455a-b793-dc135b0ddc3a
+  - screenshots/9note/1.png
+  - screenshots/9note/2.png
+  - screenshots/9note/3.png
+  - screenshots/9note/4.png
 category: Productivity
 
 platforms:

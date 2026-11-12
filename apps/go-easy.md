@@ -1,6 +1,6 @@
 ---
 title: go_easy
-icon: https://res.cloudinary.com/p32929/image/upload/v1759998378/p32929-Portfolio/900f80e1-ef6c-4208-99c3-9cc798f9089e.png
+icon: screenshots/go-easy/icon.png
 screenshots:
   - screenshots/go-easy/1.png
 category: Developer Tools

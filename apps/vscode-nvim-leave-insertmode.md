@@ -1,6 +1,6 @@
 ---
 title: vscode nvim leave insertmode
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953773/p32929-Portfolio/jh0hcuo6bd9b4hexr3un.png
+icon: screenshots/vscode-nvim-leave-insertmode/icon.png
 screenshots:
   - screenshots/vscode-nvim-leave-insertmode/1.png
 category: Developer Tools

@@ -1,6 +1,6 @@
 ---
 title: ChargeOnSite
-icon: https://github.com/user-attachments/assets/5bb081d5-17a9-4a48-970c-c406900801d1
+icon: screenshots/chargeonsite/icon.jpg
 screenshots:
   - screenshots/chargeonsite/1.png
   - screenshots/chargeonsite/2.png

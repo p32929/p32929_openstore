@@ -1,6 +1,6 @@
 ---
 title: Dingtone Bot
-icon: https://res.cloudinary.com/p32929/image/upload/v1759953748/p32929-Portfolio/jynw5l2hujbprz9q4v5e.png
+icon: screenshots/dingtone-bot/icon.png
 screenshots:
   - screenshots/dingtone-bot/1.png
 category: Utilities

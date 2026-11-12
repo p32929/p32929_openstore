@@ -1,10 +1,10 @@
 ---
 title: AdBlock YouTube Safari iOS
-icon: https://github.com/user-attachments/assets/f219ed24-e9de-4a0d-93ca-63397cf290bd
+icon: screenshots/adblock-youtube-safari-ios/icon.png
 screenshots:
-  - https://github.com/user-attachments/assets/77a78be2-4a84-4d7f-821f-91be82c3800f
-  - https://github.com/user-attachments/assets/5075dffd-058b-4a41-b1e6-c11a448f6193
-  - https://github.com/user-attachments/assets/819af4dd-55c5-4bf7-9240-054f6e230249
+  - screenshots/adblock-youtube-safari-ios/1.png
+  - screenshots/adblock-youtube-safari-ios/2.png
+  - screenshots/adblock-youtube-safari-ios/3.png
 category: Education
 tags: [Productivity, Educational Game]
 
