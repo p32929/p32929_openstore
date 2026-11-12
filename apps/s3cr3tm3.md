@@ -18,12 +18,17 @@ platforms:
   Web: https://s3cr3tm3.netlify.app/
 ---
 
-I built this for myself when I worked as a freelancer. On sites like Fiverr and Upwork, you and your client are meant to talk inside the app, and I wanted a quick way to hand a client private details, like my contact information, as a link they could open, read and delete.
+I built this for myself when I worked as a freelancer. On sites like Fiverr and Upwork, you and your client are meant to talk inside the app, and I wanted an easy way for me and my client to share information back and forth, especially contact information. One of us writes a message, sends the link, and the other opens it, reads it and deletes it.
 
 **So I made the simplest thing that works.** You type a message (up to 1000 characters) and press **Save**. You get a link. Send it to the other person. They open it, read the message, and press **Delete** when they're done. Either of you can delete it, from any device.
 
 There's nothing to sign up for, nothing to install, and it's free. The page is one box and two buttons, so it takes a few seconds to use.
 
-**Please know what it is, and what it isn't.** I made it to be easy to use, not to be a vault. Messages are stored in plain text in a database, so don't put anything truly sensitive in it, like bank details or passwords you can't change. Anyone who has the link can read the message until someone deletes it. Use it for everyday things you'd be fine with going no further than the person you sent it to.
+**It was made just for me, so please know what it is and what it isn't.** I only built this for my own use and my own clients. I never planned for other people to use it, so I didn't put in the things a proper secret-message service would have. Two things to know:
+
+1. **Delete hides the message; it doesn't erase it.** When someone presses Delete, the link stops working, but the text stays in the database. I never added real removal because I didn't need it.
+2. **Messages are not encrypted.** They are stored as plain text, and anyone who has the link can read the message until it's deleted.
+
+So don't put anything truly sensitive in it, like bank details or passwords you can't change. It's fine for everyday things you'd be okay with going no further than the person you sent it to.
 
 It's free to use, and if it's useful to you, you're welcome to it.
