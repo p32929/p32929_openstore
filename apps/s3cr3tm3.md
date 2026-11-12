@@ -5,6 +5,10 @@ screenshots:
   - screenshots/s3cr3tm3/1.png
   - screenshots/s3cr3tm3/2.png
   - screenshots/s3cr3tm3/3.png
+  - screenshots/s3cr3tm3/tablet-1.png
+  - screenshots/s3cr3tm3/tablet-2.png
+  - screenshots/s3cr3tm3/phone-1.png
+  - screenshots/s3cr3tm3/phone-2.png
 category: Communication
 
 platforms:
