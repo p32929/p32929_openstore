@@ -1,43 +1,51 @@
 ---
 title: MathFinity
-icon: https://p32929.github.io/mathfinity/icons/Icon-192.png
+icon: screenshots/mathfinity/icon.png
 screenshots:
-  - https://github.com/p32929/mathfinity/assets/6418354/ead028a1-7b4b-4450-92cb-9c0be01d9560
-  - https://github.com/p32929/mathfinity/assets/6418354/bd6ac25f-cdd4-4553-b708-9e5e83614fee
-  - https://github.com/p32929/mathfinity/assets/6418354/a0af677d-9909-4881-af3b-99605d300314
-  - https://github.com/user-attachments/assets/87078081-c5e1-42da-a1a7-7508e901d5fc
-  - https://github.com/user-attachments/assets/b59e65a4-ba6c-4b11-bc4a-02fb9895eef0
+  - screenshots/mathfinity/1.png
+  - screenshots/mathfinity/2.png
+  - screenshots/mathfinity/3.png
+  - screenshots/mathfinity/4.png
+  - screenshots/mathfinity/5.png
 category: Education
-tags: [Productivity, Educational Game]
+summary: A fast arithmetic game. Solve as many sums as you can before the timer runs out, then see how you did on each one
+tags: [Math, Arithmetic, Brain Training, Educational Game, Kids, Offline]
+website: https://p32929.github.io/mathfinity/
+source: https://github.com/p32929/mathfinity
+license: MIT
 
 platforms:
   Web: https://p32929.github.io/mathfinity/
+  Android:
+    - version: "2.0.0"
+      date: 2026-11-12
+      changelog: New icon, works offline, small download (7 MB), now on every platform
+      url: https://github.com/p32929/mathfinity/releases/download/v2.0.0/MathFinity-v2.0.0-android-arm64.apk
+  Windows:
+    - version: "2.0.0"
+      date: 2026-11-12
+      changelog: First Windows version
+      url: https://github.com/p32929/mathfinity/releases/download/v2.0.0/MathFinity-v2.0.0-windows-x64.zip
+  MacOS:
+    - version: "2.0.0"
+      date: 2026-11-12
+      changelog: First macOS version
+      url: https://github.com/p32929/mathfinity/releases/download/v2.0.0/MathFinity-v2.0.0-macos.zip
+  iOS:
+    - version: "2.0.0"
+      date: 2026-11-12
+      changelog: Unsigned, install with a sideloading tool such as AltStore or Sideloadly
+      url: https://github.com/p32929/mathfinity/releases/download/v2.0.0/MathFinity-v2.0.0-ios-unsigned.ipa
 ---
 
-✨ **Mathfinity – The Ultimate Infinite Math Game!** ✨
+A quick math game you can play any time: free, with no ads and no account.
 
-## 🎮 Endless Fun with Numbers!
+Tap **Start game** and a sum appears: adding, subtracting, multiplying or dividing. Pick the right answer from the grid as fast as you can. Right answers glow green, wrong ones red, and new sums keep coming until the timer runs out. Questions don't repeat in the same game.
 
-Mathfinity is a beautiful, fast-paced math game that challenges your arithmetic skills with infinite dynamically generated problems! 🎯 Solve equations, choose the correct answer from multiple options, and train your brain in a fun, interactive way! 🧠💥
+When the game ends you see how many you got right and wrong, your accuracy, your time, and a list of every sum with how long you took on it.
 
-## 🎨 Stunning Visuals & Smooth Animations!
+**Make it yours:** choose the smallest and largest numbers, the game length, and a grid from 2×2 up to 4×4 answers. Pick light or dark mode and one of eight colours. Your choices are saved on your device.
 
-Enjoy a sleek, vibrant design with cool lighting effects and smooth animations that make solving math problems more exciting than ever! ⚡🎆
+Good for children learning their sums and for anyone who wants a sharper mind for numbers. Works offline.
 
-## 🛠️ Customize Your Experience!
-
-- Choose how many answer options (grids) to display 🟩🟦🟥
-- Set a timer for added challenge ⏳🔥
-- Pick your number range to adjust difficulty 🔢🎯
-- Play for as long as you want — no limits! 🚀🕹️
-
-## 🆓 Free & Open Source!
-
-Built with Flutter, Mathfinity runs smoothly on web browsers too! 🌍💡
-[Try it now 👉](https://p32929.github.io/mathfinity/)
-
-## 👦👩‍🎓 Perfect for Kids & Adults!
-
-Great for children learning arithmetic and for anyone looking to sharpen mental math skills in an enjoyable way! 🧮🤯
-
-🚀 **Get ready to think fast, tap faster, and become a math pro!** 🎉🔢💡
+Runs in the browser, on Android, Windows, macOS and iPhone. For **Linux**, older Android phones (armv7) and Chromebooks (x86_64), see all the files on the [releases page](https://github.com/p32929/mathfinity/releases/latest).
