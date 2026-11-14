@@ -25,10 +25,10 @@ Ollama hosts a huge number of models, and its own site is slow to scan. Ollama M
 
 1. **Every model on Ollama.** The 270 official models, plus more than 17,000 community models uploaded by other people (named `user/model`). Switch between **All**, **Official** and **Community**.
 2. **Will it run on my computer?** The page works out your graphics card or Apple chip by itself, so you type nothing. Each model is marked **Runs well**, **Tight fit**, **Too big** or **Cloud**. If the guess is off, one tap picks the closest computer. One switch hides everything that will not run.
-3. **Quick picks** for what you want to do: Coding, Small and fast, Images, Reasoning, Embeddings, Translation, Chat and roleplay, Math, Tool use.
+3. **"I want to" picks**: Coding, Small and fast, Images, Reasoning, Embeddings, Translation, Chat and roleplay, Math, Tool use. Pick several at once and every model must match all of them.
 4. **Compare** up to four models side by side: sizes, context window, downloads, last update, and whether each runs on your computer.
 5. **What's new and Trending.** See models added or updated in the last two weeks, and what is rising.
-6. **Search and filters.** Search by any words. Filter by capability, how recently a model was updated, size, context window, or publisher, and hide near-duplicate community copies. Sort by downloads, update date, name, size or context.
+6. **Search and filters.** Search by any words. Filter by capabilities (also several at once), how recently a model was updated, size, context window, or publisher, and hide near-duplicate community copies. Sort by downloads, update date, name, size or context.
 7. **Search Ollama live** when you cannot find something. The saved list can be a few days old, and this asks ollama.com directly.
 8. **Share a link.** Your search, filters and comparison are saved in the address.
 9. **Made for phones.** Models become cards, filters open as a bottom sheet, comparing goes full screen, and every button is easy to tap.
