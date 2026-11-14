@@ -58,7 +58,7 @@ After that, just push here: add a file to `apps/` for a new app, add a release a
 | `summary` | optional | One line (160 characters) for cards; default: the description's first line |
 | `tags` | optional | Up to 10 free keywords, for search |
 | `website`, `source`, `license` | optional | Shown on the app page; `source` as a *Source code* link |
-| `video` | optional | One link, shown as a *Watch video* button |
+| `video` | optional | One link. YouTube, Vimeo and video files (`.mp4`, `.webm`, `.mov`) play first in the screenshot row; any other link is shown as a *Watch video* button |
 | description | required | Markdown below the header (see the Markdown rules); line breaks are kept as written |
 
 **`profile.yaml`** (optional, every field too) turns your `/dev` page into a small portfolio:
