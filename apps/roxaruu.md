@@ -12,8 +12,8 @@ source: https://github.com/p32929/roxaruu
 license: MIT
 
 platforms:
-  MacOS: https://github.com/p32929/roxaruu#install
-  Windows: https://github.com/p32929/roxaruu#install
+  MacOS: https://github.com/p32929/roxaruu/releases/latest
+  Windows: https://github.com/p32929/roxaruu/releases/latest
 ---
 
 A keyboard-first code editor with terminals built in.
