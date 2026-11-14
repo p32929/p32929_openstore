@@ -3,6 +3,7 @@ title: Roxaruu
 icon: screenshots/roxaruu/icon.png
 screenshots:
   - screenshots/roxaruu/demo.png
+video: https://cdn.jsdelivr.net/gh/p32929/p32929_openstore@52364a24b3a0d95c40a747444da39143de50b903/screenshots/roxaruu/demo.mp4
 category: Developer Tools
 summary: A keyboard-first code editor with terminals built in. Every shortcut is shown where it applies. On macOS, Windows, Linux and any browser
 tags: [Code Editor, Terminal, Keyboard Shortcuts, Remote Access, Rust, Claude Code, Developer Tools]
