@@ -7,11 +7,13 @@ screenshots:
   - screenshots/adblock-youtube-safari-ios/3.png
 category: Utilities
 summary: Removes ads from YouTube videos, embedded videos on other websites and streams, in Safari on iPhone and iPad
-tags: [Ad blocker, YouTube, Safari, iOS, Privacy]
+tags: [Client project, Ad blocker, YouTube, Safari, iOS, Privacy]
 
 platforms:
   iOS: https://apps.apple.com/gb/app/al-quran-by-quran-touch/id585240351
 ---
+
+> **Client project.** I built this app for a client. It is not my personal app.
 
 🚫 AdBlock for YouTube – Enjoy Ad-Free Videos! 🎥✨
 

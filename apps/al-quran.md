@@ -9,11 +9,13 @@ screenshots:
   - screenshots/al-quran/5.png
 category: Books & Reference
 summary: The most comprehensive Muslim app. Read, listen and memorize the Quran with translations, tafsir, many reciters and offline audio
-tags: [Quran, Islam, Recitation, Memorization, Translation, iOS]
+tags: [Client project, Quran, Islam, Recitation, Memorization, Translation, iOS]
 
 platforms:
   iOS: https://apps.apple.com/gb/app/al-quran-by-quran-touch/id585240351
 ---
+
+> **Client project.** I built this app for a client. It is not my personal app.
 
 **📖 Al Quran by Quran Touch – Your Complete Digital Quran Companion! 🌙✨**
 
