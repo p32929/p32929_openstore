@@ -8,6 +8,11 @@ screenshots:
   - screenshots/ollama-models-explorer/4.png
   - screenshots/ollama-models-explorer/5.png
   - screenshots/ollama-models-explorer/6.png
+  - screenshots/ollama-models-explorer/7.png
+  - screenshots/ollama-models-explorer/8.png
+  - screenshots/ollama-models-explorer/9.png
+  - screenshots/ollama-models-explorer/10.png
+  - screenshots/ollama-models-explorer/11.png
 category: Developer Tools
 summary: Find the right Ollama model. Search 17,000+ models, see which run on your computer and how fast, compare them, and copy the install command
 tags: [Ollama, AI models, LLM, Model browser, Compare, Search, Mobile friendly, Next.js, Dark mode]
@@ -18,14 +23,14 @@ platforms:
   Web: https://ollama-models-explorer.vercel.app/
 ---
 
-**Find the right Ollama model without clicking through hundreds of pages.**
+**Find the right Ollama model for your computer.**
 
-Ollama hosts a huge number of models, and its own site is slow to scan. Ollama Models Explorer puts every one of them in one fast table, and tells you which ones will actually run on your computer.
+Ollama's own website does not show what you need to choose a model when you do not have high-end hardware. This app was built to fix that. It lists every model, says which ones can run on your computer and how fast, and lets you narrow 17,000+ models down to the few worth trying.
 
 ## What it does
 
 1. **Every model on Ollama.** The 270 official models, plus more than 17,000 community models uploaded by other people (named `user/model`). Switch between **All**, **Official** and **Community**.
-2. **Will it run on my computer, and how fast?** The page works out your graphics card or Apple chip by itself, so you type nothing. Each model is marked **Runs well**, **Tight fit**, **Too big** or **Cloud**, with an estimate of **tokens per second** (about three quarters of a word each). If the guess is off, one tap picks the closest computer. One switch hides everything that will not run, and you can sort or filter by speed.
+2. **Will it run on my computer, and how fast?** The page works out your graphics card or Apple chip by itself, so you type nothing. Each model is marked **Can run well**, **Barely fits**, **Too big to run** or **Cloud**, with an estimate of **tokens per second** (about three quarters of a word each). If the guess is off, one tap picks the closest computer. One switch hides every model that cannot run, and you can sort or filter by speed.
 3. **"I want to" picks**: Coding, Small and fast, Images, Reasoning, Embeddings, Translation, Chat and roleplay, Math, Tool use. Pick several at once and every model must match all of them.
 4. **Click any model** for its details: will it run and how fast, the exact install command with a copy button (including the best version for your computer), every version with its size and speed, context window, downloads and more.
 5. **Hover anything** for a plain-words explanation of what a badge, number or heading means and how it was worked out.
@@ -41,4 +46,4 @@ Ollama hosts a huge number of models, and its own site is slow to scan. Ollama M
 
 The list is long, so rows load as you scroll. A script rebuilds the full list every week, so new models show up after the next refresh. The **Refresh Data** button re-reads the official models with all their versions. "Runs on my computer" and the speed are estimates, because browsers hide exact hardware. Speed is worked out from your memory speed and the model's size, so expect it to be within about a third of what you really get. Official models use their real download sizes, and the rest are estimated from the parameter count.
 
-It is a Next.js app. To run it yourself, clone the repository, run `yarn install`, then `yarn dev`.
+**Please self-host it if you can.** The public site runs on a free host, so it is not very fast and not always up. A copy on your own computer is faster and takes a minute: clone the repository, run `yarn install`, then `yarn dev`.
