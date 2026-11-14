@@ -17,7 +17,7 @@ platforms:
     - version: "1.0.0"
       date: 2019-12-25
       changelog: First release. It was removed from Google Play, so this is the original APK
-      url: https://github.com/p32929/p32929_openstore/releases/download/android-apps/Animal-Lover-1.0.0.13A.apk
+      url: https://github.com/p32929/p32929_openstore/releases/download/animal-lover-1.0.0/Animal-Lover-1.0.0.13A.apk
 ---
 
 > **Client project.** I built this app for a client (Rich IT). It is not my personal app. It used to be on Google Play, but the client's account was closed, so the app was taken down. This is the original APK.
