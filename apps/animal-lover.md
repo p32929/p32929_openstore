@@ -9,7 +9,7 @@ screenshots:
   - screenshots/animal-lover/5.jpg
 category: Education
 summary: Learn about more than 480 animals with pictures, videos, maps and facts. Find them by class, save your favourites and share them. An Android app
-tags: [Client project, Animals, Wildlife, Learning, Android]
+tags: [Animals, Wildlife, Learning, Android]
 source: https://github.com/richinfotech/rich_android_apps
 
 platforms:
@@ -20,7 +20,7 @@ platforms:
       url: https://github.com/p32929/p32929_openstore/releases/download/animal-lover-1.0.0/Animal-Lover-1.0.0.13A.apk
 ---
 
-> **Client project.** I built this app for a client (Rich IT). It is not my personal app. It used to be on Google Play, but the client's account was closed, so the app was taken down. This is the original APK.
+> **Made at Rich IT (Rich Information Technology).** The app used to be on Google Play. It was taken down when the account was closed, so this is the original APK.
 
 **Want to know more about animals?** Animal Lover has details on more than 480 wild species, each with pictures and videos.
 
