@@ -2,36 +2,42 @@
 title: IQQuiz
 icon: screenshots/iqquiz/icon.png
 screenshots:
-  - screenshots/iqquiz/1.jpg
-  - screenshots/iqquiz/2.jpg
-  - screenshots/iqquiz/3.jpg
-  - screenshots/iqquiz/4.jpg
+  - screenshots/iqquiz/1.png
+  - screenshots/iqquiz/2.png
+  - screenshots/iqquiz/3.png
+  - screenshots/iqquiz/4.png
+  - screenshots/iqquiz/5.png
+  - screenshots/iqquiz/6.png
+  - screenshots/iqquiz/7.png
 category: Entertainment
-summary: A simple quiz app that tests your intelligence with pattern, logic and word puzzles, each against the clock. Works offline, under 2 MB
+summary: A fast offline IQ quiz with pattern, logic and word puzzles, a timer, tips, results and your best score saved
 tags: [Quiz, IQ, Brain game, Puzzle, Offline, Android]
 
 platforms:
   Android:
+    - version: "2.0.0"
+      date: 2026-11-15
+      changelog: Rebuilt in Kotlin and Jetpack Compose, with timer ring, result screen with review, stats, categories, light and dark mode
+      url: https://github.com/p32929/p32929_openstore/releases/download/iqquiz-2.0.0/IQQuiz-2.0.0.apk
     - version: "1.0.0"
       date: 2019-10-14
       changelog: First release
       url: https://github.com/p32929/p32929_openstore/releases/download/iqquiz-1.0.0/IQQuiz-1.0.0.5A.apk
 ---
 
-> **Made at Rich IT (Rich Information Technology).** The app used to be on Google Play. It was taken down when the account was closed, so this is the original APK.
+> **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures, videos or links may not work. Please don't expect it to be actively maintained.
 
-**A simple quiz that tests how fast you think.**
-
-IQQuiz asks different kinds of intelligence questions and gives you a limited time to find the answer, so you have to think hard.
+**A quiz that tests how fast you think.**
 
 ## What it does
 
-1. **Different kinds of questions:** patterns, logic and word rearranging.
-2. **New questions every time** you play.
-3. **A time limit** on each question, which trains your thinking speed.
-4. **Tips** to improve your skills.
-5. **Works offline,** and the app is under 2 MB.
+1. **Three kinds of puzzles:** patterns, logic and words. Play them mixed or pick one.
+2. **10 questions per round, 25 seconds each,** with an animated timer.
+3. **A result screen** with your score and a review of the questions you got wrong.
+4. **Your best score, streak and accuracy** are saved on the phone.
+5. **Tips** to improve your thinking.
+6. **Works fully offline.** Light, dark or system theme.
 
 ## Install
 
-Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards.
+Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards. Older versions are listed below the newest one.

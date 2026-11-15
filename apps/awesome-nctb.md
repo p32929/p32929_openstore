@@ -2,38 +2,43 @@
 title: Awesome NCTB
 icon: screenshots/awesome-nctb/icon.png
 screenshots:
-  - screenshots/awesome-nctb/1.jpg
-  - screenshots/awesome-nctb/2.jpg
-  - screenshots/awesome-nctb/3.jpg
-  - screenshots/awesome-nctb/4.jpg
-  - screenshots/awesome-nctb/5.jpg
-  - screenshots/awesome-nctb/6.jpg
+  - screenshots/awesome-nctb/1.png
+  - screenshots/awesome-nctb/2.png
+  - screenshots/awesome-nctb/3.png
+  - screenshots/awesome-nctb/4.png
+  - screenshots/awesome-nctb/5.png
+  - screenshots/awesome-nctb/6.png
 category: Education
-summary: All Bangla NCTB textbooks for class 1 to 10. Read them online or download them. About 2 MB, fast and light
+summary: All NCTB textbooks for class 1 to 10, Bangla and English version. Read in the app with zoom and night mode, or download for offline. No ads
 tags: [NCTB, Textbooks, Bangladesh, Education, Students, Bangla, Android]
 
 platforms:
   Android:
+    - version: "2.0.0"
+      date: 2026-11-15
+      changelog: Rebuilt in Kotlin and Jetpack Compose, with in-app PDF reader, English versions, downloads tab, light and dark mode
+      url: https://github.com/p32929/p32929_openstore/releases/download/awesome-nctb-2.0.0/Awesome-NCTB-2.0.0.apk
     - version: "1.0.0"
       date: 2019-12-17
       changelog: First release. All 2019 Bangla textbooks for class 1 to 10
       url: https://github.com/p32929/p32929_openstore/releases/download/awesome-nctb-1.0.0/Awesome-NCTB-1.0.0.14A.apk
 ---
 
-> **Made at Rich IT (Rich Information Technology).** The app used to be on Google Play. It was taken down when the account was closed, so this is the original APK.
+> **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures, videos or links may not work. Please don't expect it to be actively maintained.
 
 **Read all the NCTB textbooks for class 1 to 10, online or offline.**
 
-NCTB is the National Curriculum and Textbook Board of Bangladesh, which makes the textbooks for public schools. Awesome NCTB puts the 2019 Bangla textbooks in one fast, light app, for students and teachers.
+NCTB is the National Curriculum and Textbook Board of Bangladesh, which makes the textbooks for public schools. These are the 2019 editions.
 
 ## What it does
 
-1. **All 2019 Bangla textbooks** for class 1 to 10 (SSC).
-2. **Read without downloading,** or download a book to read later.
-3. **Bangla and English versions** of the curriculum.
-4. **Fast downloads.**
-5. **Only 2 MB.**
+1. **Pick a class** from 1 to 10 and switch between the **Bangla and English versions.**
+2. **Search** across all books in Bangla or English.
+3. **Read inside the app** with zoom, page jump, a page slider and a night reading mode. It remembers where you stopped.
+4. **Download books** to read offline, and manage them in the Downloads tab.
+5. **Share** a book.
+6. **Light, dark or system theme.**
 
 ## Install
 
-Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards.
+Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards. Older versions are listed below the newest one.

@@ -8,13 +8,18 @@ screenshots:
   - screenshots/animal-lover/4.png
   - screenshots/animal-lover/5.png
   - screenshots/animal-lover/6.png
+  - screenshots/animal-lover/7.png
 category: Education
-summary: Learn about more than 480 animals with pictures, videos, maps and facts. Find them by class, save your favourites and share them. An Android app
+summary: Learn about 580+ animals in 25 classes, with pictures, maps, facts and a video for each. Save favourites, works offline. No ads
 tags: [Animals, Wildlife, Learning, Android]
 source: https://github.com/richinfotech/rich_android_apps
 
 platforms:
   Android:
+    - version: "3.0.0"
+      date: 2026-11-15
+      changelog: Rebuilt in Kotlin and Jetpack Compose with a new nature design, light and dark mode, favourites tab and collapsing details page
+      url: https://github.com/p32929/p32929_openstore/releases/download/animal-lover-3.0.0/Animal-Lover-3.0.0.apk
     - version: "2.0.0"
       date: 2026-11-15
       changelog: Rebuilt for today's Android with Material Design 3 and dark mode. No ads. Pictures now come from Wikipedia. Works on Android 6 to 15
@@ -25,21 +30,21 @@ platforms:
       url: https://github.com/p32929/p32929_openstore/releases/download/animal-lover-1.0.0/Animal-Lover-1.0.0.13A.apk
 ---
 
-> **Made at Rich IT (Rich Information Technology).** The app used to be on Google Play. It was taken down when the account was closed, so this is the original APK.
+> **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures, videos or links may not work. Please don't expect it to be actively maintained.
 
-**Want to know more about animals?** Animal Lover has details on more than 480 wild species, each with pictures and videos.
+**Learn about more than 580 animals, with pictures, maps, facts and videos.**
 
 ## What it does
 
-1. **All animals at once.** Browse the whole list, or search for the one you want.
-2. **Find animals by class.** The side menu has more than 20 animal classes, each with its own icon.
-3. **Facts for every animal.** Classification, conservation status, food, prey, predators, features and a fun fact.
-4. **A picture and a map** for each animal, so you can see where it lives.
-5. **Videos.** Every animal has a YouTube video for more facts.
-6. **Favourites.** Mark your favourite animals, such as pets, and find them again fast.
-7. **Share** an animal's picture, description and video link with friends.
-8. **Light and dark mode** with Material Design 3.
+1. **Explore** all animals or pick one of 25 classes from the chips under the search bar.
+2. **Search** any animal by name.
+3. **Rich details page:** a big picture, quick facts, the description, the location map, every fact in tidy cards, a fun fact and the conservation status.
+4. **A YouTube video** for each animal.
+5. **Favourites** saved on your phone, in their own tab.
+6. **Share** an animal's picture, text and video link.
+7. **Works offline** after the first load.
+8. **Light, dark or system theme,** your choice.
 
-## Good to know
+## Install
 
-The app needs the internet to load pictures and videos, and it saves the animal lists on your phone. Version 2 has no ads. It was made for Android phones. To install it, download the APK and allow installs from this source when Android asks.
+Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards. Older versions are listed below the newest one.
