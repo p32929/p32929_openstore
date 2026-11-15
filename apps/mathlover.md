@@ -1,0 +1,39 @@
+---
+title: MathLover
+icon: screenshots/mathlover/icon.png
+screenshots:
+  - screenshots/mathlover/1.png
+  - screenshots/mathlover/2.png
+  - screenshots/mathlover/3.png
+  - screenshots/mathlover/4.png
+  - screenshots/mathlover/5.png
+  - screenshots/mathlover/6.png
+  - screenshots/mathlover/7.png
+category: Education
+summary: A simple, endless maths game for everyone. Classic, time attack, survival and practice modes, with stats and best scores. Works offline
+tags: [Math, Game, Brain training, Kids, Offline, Android]
+
+platforms:
+  Android:
+    - version: "2.0.0"
+      date: 2026-11-16
+      changelog: Rebuilt in Kotlin and Jetpack Compose, with four game modes, number pad, stats and best scores, light and dark mode, no ads
+      url: https://github.com/p32929/p32929_openstore/releases/download/mathlover-2.0.0/MathLover-2.0.0.apk
+---
+
+> **An old app, revived.** This app was first made around 2019 and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Please don't expect it to be actively maintained.
+
+**MathLover is a simple, infinite maths problem solving game for everyone.**
+
+## What it does
+
+1. **Four modes:** Classic (the original game), Time attack (60 seconds), Survival (3 lives, gets harder) and Practice.
+2. **Add, subtract, multiply and divide,** with a clock on every sum.
+3. **Answer with 4 choices or a number pad.**
+4. **A results screen** with right, wrong, too slow and your best combo.
+5. **Stats and best scores** saved on your phone, including how you do with each sign.
+6. **Works fully offline.** Light, dark or system theme.
+
+## Install
+
+Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards.

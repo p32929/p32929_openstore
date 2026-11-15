@@ -1,0 +1,41 @@
+---
+title: Desplash
+icon: screenshots/desplash/icon.png
+screenshots:
+  - screenshots/desplash/1.png
+  - screenshots/desplash/2.png
+  - screenshots/desplash/3.png
+  - screenshots/desplash/4.png
+  - screenshots/desplash/5.png
+  - screenshots/desplash/6.png
+  - screenshots/desplash/7.png
+category: Personalization
+summary: Beautiful free wallpapers from Unsplash. Browse by topic, search, save favourites, and let the wallpaper change by itself on a timer or every lock
+tags: [Wallpapers, Unsplash, Photos, Personalization, Android]
+
+platforms:
+  Android:
+    - version: "2.0.0"
+      date: 2026-11-16
+      changelog: Rebuilt in Kotlin and Jetpack Compose, with topics, search, favourites, auto change, quality options, light and dark mode, no ads
+      url: https://github.com/p32929/p32929_openstore/releases/download/desplash-2.0.0/Desplash-2.0.0.apk
+---
+
+> **An old app, revived.** This app was first made around 2019 and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Please don't expect it to be actively maintained.
+
+**Beautiful, free, high quality wallpapers, gifted by the photographers of Unsplash.com.**
+
+Desplash was featured on XDA Developers in 2018. It gives you a new wallpaper whenever you like, with proper credit to every photographer.
+
+## What it does
+
+1. **Explore** featured photos or topics like nature, mountains, ocean and space, or **search** any word.
+2. **Preview** a photo, see who took it, and open it on Unsplash.
+3. **Set as wallpaper** for the home screen, lock screen or both, or **download** it in full quality.
+4. **Auto change:** a fresh wallpaper on a timer (every 15 minutes to daily) or every time you lock the phone.
+5. **Favourites** and **photo quality** choices (original, balanced or data saver).
+6. **Light, dark or system theme.**
+
+## Install
+
+Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards.
