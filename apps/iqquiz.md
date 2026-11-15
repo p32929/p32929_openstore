@@ -1,14 +1,14 @@
 ---
 title: IQQuiz
-icon: screenshots/iqquiz/icon.png
+icon: screenshots/iqquiz/icon-new.png
 screenshots:
-  - screenshots/iqquiz/1.png
-  - screenshots/iqquiz/2.png
-  - screenshots/iqquiz/3.png
-  - screenshots/iqquiz/4.png
-  - screenshots/iqquiz/5.png
-  - screenshots/iqquiz/6.png
-  - screenshots/iqquiz/7.png
+  - screenshots/iqquiz/new-1.png
+  - screenshots/iqquiz/new-2.png
+  - screenshots/iqquiz/new-3.png
+  - screenshots/iqquiz/new-4.png
+  - screenshots/iqquiz/new-5.png
+  - screenshots/iqquiz/new-6.png
+  - screenshots/iqquiz/new-7.png
 category: Entertainment
 summary: A fast offline IQ quiz with pattern, logic and word puzzles, a timer, tips, results and your best score saved
 tags: [Quiz, IQ, Brain game, Puzzle, Offline, Android]

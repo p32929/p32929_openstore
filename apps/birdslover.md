@@ -1,14 +1,14 @@
 ---
 title: BirdsLover
-icon: screenshots/birdslover/icon.png
+icon: screenshots/birdslover/icon-new.png
 screenshots:
-  - screenshots/birdslover/1.png
-  - screenshots/birdslover/2.png
-  - screenshots/birdslover/3.png
-  - screenshots/birdslover/4.png
-  - screenshots/birdslover/5.png
-  - screenshots/birdslover/6.png
-  - screenshots/birdslover/7.png
+  - screenshots/birdslover/new-1.png
+  - screenshots/birdslover/new-2.png
+  - screenshots/birdslover/new-3.png
+  - screenshots/birdslover/new-4.png
+  - screenshots/birdslover/new-5.png
+  - screenshots/birdslover/new-6.png
+  - screenshots/birdslover/new-7.png
 category: Education
 summary: Browse and search 77 birds by name or scientific name, read about them and listen to their calls. Favourites work offline. No ads
 tags: [Birds, Nature, Wildlife, Learning, Offline, Android]

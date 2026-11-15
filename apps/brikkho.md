@@ -1,14 +1,14 @@
 ---
 title: Brikkho (বৃক্ষ)
-icon: screenshots/brikkho/icon.png
+icon: screenshots/brikkho/icon-new.png
 screenshots:
-  - screenshots/brikkho/1.png
-  - screenshots/brikkho/2.png
-  - screenshots/brikkho/3.png
-  - screenshots/brikkho/4.png
-  - screenshots/brikkho/5.png
-  - screenshots/brikkho/6.png
-  - screenshots/brikkho/7.png
+  - screenshots/brikkho/new-1.png
+  - screenshots/brikkho/new-2.png
+  - screenshots/brikkho/new-3.png
+  - screenshots/brikkho/new-4.png
+  - screenshots/brikkho/new-5.png
+  - screenshots/brikkho/new-6.png
+  - screenshots/brikkho/new-7.png
 category: Education
 summary: A pocket field guide to trees, flowers, medicinal plants and spices in Bengali. Search, read about each plant, save favourites. Works offline, no ads
 tags: [Trees, Plants, Flowers, Nature, Bangla, Offline, Android]

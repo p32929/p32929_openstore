@@ -1,14 +1,14 @@
 ---
 title: Animal Lover
-icon: screenshots/animal-lover/icon.png
+icon: screenshots/animal-lover/icon-new.png
 screenshots:
-  - screenshots/animal-lover/1.png
-  - screenshots/animal-lover/2.png
-  - screenshots/animal-lover/3.png
-  - screenshots/animal-lover/4.png
-  - screenshots/animal-lover/5.png
-  - screenshots/animal-lover/6.png
-  - screenshots/animal-lover/7.png
+  - screenshots/animal-lover/new-1.png
+  - screenshots/animal-lover/new-2.png
+  - screenshots/animal-lover/new-3.png
+  - screenshots/animal-lover/new-4.png
+  - screenshots/animal-lover/new-5.png
+  - screenshots/animal-lover/new-6.png
+  - screenshots/animal-lover/new-7.png
 category: Education
 summary: Learn about 580+ animals in 25 classes, with pictures, maps, facts and a video for each. Save favourites, works offline. No ads
 tags: [Animals, Wildlife, Learning, Android]

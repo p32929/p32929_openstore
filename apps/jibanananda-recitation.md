@@ -1,13 +1,13 @@
 ---
 title: Jibanananda Recitation (Abritti)
-icon: screenshots/jibanananda-recitation/icon.png
+icon: screenshots/jibanananda-recitation/icon-new.png
 screenshots:
-  - screenshots/jibanananda-recitation/1.png
-  - screenshots/jibanananda-recitation/2.png
-  - screenshots/jibanananda-recitation/3.png
-  - screenshots/jibanananda-recitation/4.png
-  - screenshots/jibanananda-recitation/5.png
-  - screenshots/jibanananda-recitation/6.png
+  - screenshots/jibanananda-recitation/new-1.png
+  - screenshots/jibanananda-recitation/new-2.png
+  - screenshots/jibanananda-recitation/new-3.png
+  - screenshots/jibanananda-recitation/new-4.png
+  - screenshots/jibanananda-recitation/new-5.png
+  - screenshots/jibanananda-recitation/new-6.png
 category: Books & Reference
 summary: Read 49 poems by Jibanananda Das and listen to their recitations. Favourites, reading controls, background playback. No ads
 tags: [Poetry, Jibanananda Das, Bangla, Recitation, Audio, Offline, Android]

@@ -1,13 +1,13 @@
 ---
 title: Awesome NCTB
-icon: screenshots/awesome-nctb/icon.png
+icon: screenshots/awesome-nctb/icon-new.png
 screenshots:
-  - screenshots/awesome-nctb/1.png
-  - screenshots/awesome-nctb/2.png
-  - screenshots/awesome-nctb/3.png
-  - screenshots/awesome-nctb/4.png
-  - screenshots/awesome-nctb/5.png
-  - screenshots/awesome-nctb/6.png
+  - screenshots/awesome-nctb/new-1.png
+  - screenshots/awesome-nctb/new-2.png
+  - screenshots/awesome-nctb/new-3.png
+  - screenshots/awesome-nctb/new-4.png
+  - screenshots/awesome-nctb/new-5.png
+  - screenshots/awesome-nctb/new-6.png
 category: Education
 summary: All NCTB textbooks for class 1 to 10, Bangla and English version. Read in the app with zoom and night mode, or download for offline. No ads
 tags: [NCTB, Textbooks, Bangladesh, Education, Students, Bangla, Android]
