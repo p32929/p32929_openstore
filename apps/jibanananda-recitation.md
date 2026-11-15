@@ -41,4 +41,4 @@ Recitations are YouTube videos, so they need the internet.
 
 ## Install
 
-Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards. Older versions are listed below the newest one.
+Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards. Older versions are listed below the newest one. If you have the old version installed, uninstall it first, because the new one is signed with a different key.
