@@ -20,6 +20,12 @@ platforms:
 
 > **This app used to be on Google Play.** It was taken down when the developer account was closed, so this is the original APK.
 
+## The story
+
+This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+
+We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
+
 **A simple phone addiction controller that actually reduces your phone use.**
 
 Many apps only track how much you use your phone. Sleepy helps you use it less: you set a timer, and the phone stays locked until the timer ends.

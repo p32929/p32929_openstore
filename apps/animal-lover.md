@@ -32,6 +32,12 @@ platforms:
 
 > **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures, videos or links may not work. Please don't expect it to be actively maintained.
 
+## The story
+
+A friend of mine made this one. He didn't study computer science, but he works in software now, writing C#, and I'm really happy for him. It was a group project: I had a Google Play account, and we published whatever we could build together. Most of us hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+
+We don't work together any more, but somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
+
 **Learn about more than 580 animals, with pictures, maps, facts and videos.**
 
 ## What it does

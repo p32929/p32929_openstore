@@ -23,6 +23,12 @@ platforms:
 
 > **An old app, revived as a showcase.** This app was first made around 2019 and its online service has since closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, using sample data instead of a server, so you can see how it worked. Anything you post stays on your phone. Please don't expect it to be actively maintained.
 
+## The story
+
+This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+
+We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
+
 **বেকার মুক্ত বাংলাদেশ গড়ার লক্ষ্যে: towards an unemployment-free Bangladesh.**
 
 I am FREE connects people who need small jobs done with people looking for work: tuition, delivery, driving, repairs, design, data entry, cooking and much more.

@@ -15,6 +15,10 @@ platforms:
 
 > **Client project.** I built this app for a client. It is not my personal app.
 
+## The story
+
+This was a client project, and building it was a small adventure. I didn't have a Mac, so I borrowed my cousin's MacBook over TeamViewer: I worked from Bangladesh while the computer sat in the UAE. There were no AI helpers back then. Apple had just started allowing extensions in Safari on iPhone, so it was all brand new and there was very little to learn from. I failed again and again before it finally worked. It was a real roller coaster, and one of the most fascinating projects I have done.
+
 🚫 AdBlock for YouTube – Enjoy Ad-Free Videos! 🎥✨
 
 📱 Watch YouTube Without Distractions!

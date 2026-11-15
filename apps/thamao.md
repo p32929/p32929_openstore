@@ -18,6 +18,12 @@ platforms:
 
 > **No longer available.** Thamao was an Android app from 2018, built at 6sense Bangladesh by Nasif Siddiqui, Ahsan Asim, Ratul Rahman and Fayaz Bin Salam. It was on Google Play and passed 10,000 downloads in its first 60 days, but it has since been removed and no copy of the app could be found. This page is kept to show the project.
 
+## The story
+
+This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+
+We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
+
 **চোরের উপর বাটপারি: স্মার্টফোন চুরি হলেও নিরাপত্তা দেবে থামাও।**
 
 Thamao (থামাও, "stop it") was Bangladesh's first database-based, completely free smartphone anti-theft service. It was made to stop phone theft, and to stop the blackmail that often follows when a stolen phone still has someone's photos, messages and accounts on it.

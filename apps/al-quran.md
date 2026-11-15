@@ -17,6 +17,10 @@ platforms:
 
 > **Client project.** I built this app for a client. It is not my personal app.
 
+## The story
+
+This was also a client project. One of my mentors wanted me to work with him, but I was busy with something else and couldn't say yes. He knew I had always wanted to build a Quran app, so he used that as the bait, and it worked: I agreed, and we started working together again. A Quran app was exactly what I wanted to make, so it was a happy reason to say yes.
+
 **📖 Al Quran by Quran Touch – Your Complete Digital Quran Companion! 🌙✨**
 
 ## 📱 Read, Listen, and Memorize the Quran Anytime, Anywhere!
