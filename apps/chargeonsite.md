@@ -9,8 +9,8 @@ screenshots:
   - screenshots/chargeonsite/5.png
   - screenshots/chargeonsite/6.png
 category: Auto & Vehicles
-summary: EV drivers can't find chargers, and most need yet another app. Property owners host chargers here, and drivers just scan a QR code and pay
-tags: [EV charging, Electric vehicles, Marketplace, Real estate, Payments]
+summary: EV charging made simple. Drivers scan a QR code and pay by card, no app needed. Property owners host chargers and earn from their parking spots
+tags: [EV charging, Electric vehicles, EV charger, QR code payment, Property owners, Real estate]
 website: https://www.chargeonsite.com/
 
 platforms:
@@ -19,20 +19,24 @@ platforms:
 
 > **Company project.** This is not a personal project. I worked on it at a company, and the product is owned and run by that company.
 
-**Too few places to charge an electric car, and too many apps to use them. Charge OnSite lets any property host chargers, and drivers just scan and charge.**
+**Charge OnSite makes EV charging simple. Drivers scan a QR code and charge with no app, and property owners earn money from their parking spots.**
 
 ## The problem
 
-Electric cars are everywhere now. Places to charge them are not, and the ones that exist often ask for one more app, one more account and one more card before a single kilowatt flows. Property owners have the parking spots, but running chargers, prices and payments themselves is hard.
+Electric cars are everywhere now, but places to charge them are not. The chargers that exist often ask for one more app, one more account and one more card before you can charge. Property owners have the parking spots, but running chargers, prices and payments themselves is hard.
 
 ## How Charge OnSite solves it
 
-It works a bit like Airbnb for EV charging. Owners put chargers on their site and run them from one dashboard. Drivers charge with just their phone camera.
+It works a bit like Airbnb for EV charging. Property owners put chargers on their site and run them from one dashboard. Drivers charge with just their phone camera.
 
-1. **For drivers:** scan the QR code on the charger with any phone, tap start charging and pay with a card, Apple Pay or Google Pay. No app to download, no setup.
-2. **For property owners,** from apartment buildings to commercial properties: decide who can use the chargers and what they cost.
-3. **One cloud dashboard** handles pricing, payments, monitoring and support.
-4. **New income.** A parking spot becomes an income stream and a reason for tenants and guests to choose the property.
+1. **For drivers:** scan the QR code on the charger, tap start and pay with a card, Apple Pay or Google Pay. No app to download.
+2. **For property owners:** decide who can use the chargers and what they cost, from apartment buildings to commercial properties.
+3. **One dashboard** for pricing, payments, monitoring and support.
+4. **New income:** a parking spot earns money and gives tenants and guests a reason to choose your property.
 5. **Free property analysis** shows what charging could be worth before you commit.
 
-Take a look at the site and try the scan, tap, charge flow.
+## Who it is for
+
+1. EV drivers who want to charge without another app.
+2. Apartment and condo owners whose residents drive electric cars.
+3. Commercial property owners who want a new source of income.

@@ -9,37 +9,43 @@ screenshots:
   - screenshots/awesome-nctb/new-5.png
   - screenshots/awesome-nctb/new-6.png
 category: Education
-summary: Lost or heavy NCTB textbooks? Read every NCTB book for class 1 to 10, Bangla and English version, on your phone, or download them for offline. No ads
-tags: [NCTB, Textbooks, Bangladesh, Education, Students, Bangla, Android]
+summary: All NCTB textbooks for class 1 to 10 on your phone, Bangla and English version. Read with zoom and night mode, or download PDF books offline. No ads
+tags: [NCTB books, NCTB textbook PDF, Class 1 to 10, Bangladesh, Education, Students, Bangla, Android]
 
 platforms:
   Android:
     - version: "2.0.0"
       date: 2026-11-15
-      changelog: Rebuilt in Kotlin and Jetpack Compose, with in-app PDF reader, English versions, downloads tab, light and dark mode
+      changelog: Rebuilt with a built-in book reader, English versions, a downloads tab, light and dark mode
       url: https://github.com/p32929/p32929_openstore/releases/tag/awesome-nctb
 ---
 
-> **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures, videos or links may not work. Please don't expect it to be actively maintained.
+> **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt for modern Android phones with a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures, videos or links may not work. Please don't expect it to be actively maintained.
 
-**Textbooks get lost, torn or left at school. Awesome NCTB puts every NCTB book for class 1 to 10 on your phone.**
+**Awesome NCTB puts every NCTB textbook for class 1 to 10 on your phone, in Bangla and English version, to read anywhere, even offline.**
 
 NCTB is the National Curriculum and Textbook Board of Bangladesh, which makes the textbooks for public schools. These are the 2019 editions.
 
 ## The problem
 
-Students in Bangladesh carry heavy bags of NCTB books, and when a book is lost, torn or left at school, there is nothing to study from. Parents and teachers often need another class's book too. The PDFs exist online, but they are hard to find, slow to download one by one, and awkward to read on a phone.
+Students in Bangladesh carry heavy bags of NCTB books. When a book is lost, torn or left at school, there is nothing to study from. Parents and teachers often need another class's book too. The PDFs exist online, but they are hard to find, slow to download one by one, and awkward to read on a phone.
 
 ## How Awesome NCTB solves it
 
-It lists every book by class, opens it right inside the app, and lets you save it for offline reading.
+Every book is listed by class. Tap one and read it right in the app, or save it to read offline.
 
-1. **Pick a class** from 1 to 10 and switch between the **Bangla and English versions.**
-2. **Search** across all books in Bangla or English.
-3. **Read inside the app** with zoom, page jump, a page slider and a night reading mode. It remembers where you stopped.
-4. **Download books** to read offline, and manage them in the Downloads tab.
-5. **Share** a book.
-6. **Light, dark or system theme.**
+1. **Every class from 1 to 10,** in **Bangla and English version.**
+2. **Search all books** in Bangla or English.
+3. **Easy reading** with zoom, page jump, a page slider and a night reading mode. It remembers where you stopped.
+4. **Download books** and read them offline.
+5. **Share** a book with classmates.
+6. **Light and dark mode.** No ads.
+
+## Who it is for
+
+1. School students in Bangladesh, class 1 to 10.
+2. Parents helping their children study.
+3. Teachers and tutors who need books from many classes.
 
 ## The story
 
@@ -49,4 +55,4 @@ We don't work together any more, but I'm proud of what came out of it. Somehow I
 
 ## Install
 
-Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards. Older versions are on the same download page. If you have the old version installed, uninstall it first, because the new one is signed with a different key.
+Download the APK from the download page and open it to install. Older versions are on the same page.

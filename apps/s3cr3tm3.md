@@ -10,36 +10,35 @@ screenshots:
   - screenshots/s3cr3tm3/phone-1.png
   - screenshots/s3cr3tm3/phone-2.png
 category: Communication
-summary: Need to pass a client private info without it sitting in a chat forever? Write a note, send the link, they read it and delete it. No account, free
-tags: [Secret Messages, Private Notes, Share Link, Freelance, No Sign-up]
+summary: Share a private note with a link that you delete once it is read. Free self-destructing message tool with no account and nothing to install
+tags: [Private message, Secret note, Share link, Self-destruct note, Freelance, No sign-up]
 website: https://s3cr3tm3.netlify.app/
 
 platforms:
   Web: https://s3cr3tm3.netlify.app/
 ---
 
-**Need to share a bit of private info without leaving it lying around? Write a note, send the link, and delete it once it's read.**
+**s3cr3tm3 lets you share a private note with a link. Write it, send the link, and delete it once it's read. Free, with no account.**
 
 ## The problem
 
-I built this for myself when I worked as a freelancer. On sites like Fiverr and Upwork, you and your client are meant to talk inside the app, and I wanted an easy way for me and my client to share information back and forth, especially contact information, without it staying where other people could see it.
+Sometimes you need to send someone a phone number, an email or a login, but you don't want it to stay in a chat forever where others can see it. This happens a lot to freelancers on Fiverr and Upwork, where all talk happens inside the site.
 
 ## How s3cr3tm3 solves it
 
-So I made the simplest thing that works. One of you writes a message and sends the link. The other opens it, reads it and deletes it.
+Write the message, get a link, and send it. The other person reads it and deletes it, and the link stops working. It takes a few seconds.
 
-1. **Write** a message (up to 1000 characters) and press **Save**. You get a link.
-2. **Send** the link to the other person.
-3. **They read it** and press **Delete** when they're done. Either of you can delete it, from any device.
-4. **Nothing to sign up for,** nothing to install, and it's free. The page is one box and two buttons, so it takes a few seconds to use.
+1. **Write a message** of up to 1000 characters and press Save. You get a link.
+2. **Send the link** to the other person.
+3. **Delete it when it's read.** Either of you can delete it, from any device.
+4. **Links nobody can guess.** Each message gets a long, random link.
+5. **No sign-up, nothing to install, free.**
 
-**What it's for.** My goal was simple: other people shouldn't be able to see what my client and I shared. Each message gets a long, random link that nobody can guess, and most people aren't hackers, so for me that was good enough.
+## Who it is for
 
-**It was made just for me, so please know what it is and what it isn't.** I only built this for my own use and my own clients. I never planned for other people to use it, so I didn't put in the things a proper secret-message service would have. Two things to know:
+1. Freelancers sharing contact details with a client.
+2. Anyone passing on a bit of private info that shouldn't stay in a chat.
 
-1. **Delete hides the message; it doesn't erase it.** When someone presses Delete, the link stops working, but the text stays in the database. I never added real removal because I didn't need it.
-2. **Messages are not encrypted.** They are stored as plain text, and anyone who has the link can read the message until it's deleted.
+## Good to know
 
-It's not built to stop someone who really knows how to look. So don't put anything truly sensitive in it, like bank details or passwords you can't change. It's fine for everyday things you'd be okay with going no further than the person you sent it to.
-
-It's free to use, and if it's useful to you, you're welcome to it.
+I made it for my own use, so it is simple. Delete stops the link from working, but the text is not erased from the database, and messages are not encrypted. Don't use it for bank details or passwords. It is fine for everyday info.

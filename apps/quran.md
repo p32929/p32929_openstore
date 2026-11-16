@@ -14,8 +14,8 @@ screenshots:
   - screenshots/quran/5.png
   - screenshots/quran/6.png
 category: Books & Reference
-summary: Want to read, hear and memorize the Quran without ads or sign-ups? Read with offline translations, listen to 42 reciters, and repeat ayat with looped audio
-tags: [Quran, Islam, Arabic, Translation, Audio, Recitation, Memorization, Offline]
+summary: Free Quran app with no ads. Read with translation offline, listen to 42 reciters, and memorize with repeating audio. Android, iPhone, Windows, Mac and web
+tags: [Quran, Quran app, Quran with translation, Quran audio, Quran memorization, Hifz, Islam, Offline]
 website: https://p32929.github.io/quran_flutter/
 source: https://github.com/p32929/quran_flutter
 license: MIT
@@ -44,19 +44,30 @@ platforms:
       url: https://github.com/p32929/quran_flutter/releases/tag/v2.0.1
 ---
 
-**Read, listen to and memorize the Quran in one clean app, free, with no ads and no account.**
+**A free Quran app with no ads and no account. Read the Quran with translation, listen to 42 famous reciters, and memorize ayat with repeating audio.**
 
 ## The problem
 
-You want to read the Quran with a translation you understand, listen to a reciter you like, and memorize a few ayat at a time. Many apps get in the way with ads, sign-ups or the need to be online. And to memorize, you have to replay the same ayat again and again by hand.
+You want to read the Quran with a translation you understand, listen to a reciter you love, and memorize a few ayat at a time. Many Quran apps get in the way with ads, sign-ups or the need to be online. And to memorize, you have to replay the same ayat again and again by hand.
 
 ## How Quran solves it
 
-Everything is in one simple app, free, with no ads and no account. Translations work offline, and looped audio repeats the ayat you are memorizing for you.
+Everything you need is in one simple app. Read with translation even without internet, listen with the screen off, and let the app repeat the ayat you are memorizing for you.
 
-1. **Read** every surah ayah by ayah in clear IndoPak Arabic script, with the translation right under each ayah. English, Bengali and Urdu translations come with the app and work offline, and you can download more: over 250 translations in 95 languages.
-2. **Listen** to the whole surah or a single ayah from 42 well-known reciters. Audio keeps playing with the screen off, with controls on the lock screen.
-3. **Memorize** with looped audio: pick a surah and a range of ayat, download the recitation once, and repeat it as many times as you need.
-4. **Find and keep your place:** search surahs by name or number, search words in English or Bengali, bookmark ayat, and pick up where you left off. Share any ayah, change the Arabic and translation text size, and switch between light and dark themes.
+1. **Read the Quran with translation.** Every surah ayah by ayah in clear IndoPak Arabic script, with the translation right under each ayah.
+2. **Works offline.** English, Bengali and Urdu translations come with the app. Download more from over 250 translations in 95 languages.
+3. **Listen to 42 reciters.** Play a whole surah or a single ayah. Audio keeps playing with the screen off, with controls on the lock screen.
+4. **Memorize (hifz) with repeat.** Pick a surah and a range of ayat, and the recitation repeats as many times as you need.
+5. **Never lose your place.** Bookmark ayat and pick up where you left off.
+6. **Search** surahs by name or number, and words in English or Bengali.
+7. **Easy to read.** Change the Arabic and translation text size, and use light or dark theme. Share any ayah.
 
-Runs in the browser, on Android, Windows, macOS and iPhone. For **Linux**, older Android phones (armv7) and Chromebooks (x86_64), see all the files on the [releases page](https://github.com/p32929/quran_flutter/releases/latest).
+## Who it is for
+
+1. Anyone who wants to read the Quran daily and understand its meaning.
+2. Students of hifz memorizing the Quran ayah by ayah.
+3. People who like to listen to the Quran while travelling or before sleep.
+
+## Download
+
+Use it in the browser, or install it on Android, Windows, macOS or iPhone. For Linux, older Android phones and Chromebooks, see the [releases page](https://github.com/p32929/quran_flutter/releases/latest).

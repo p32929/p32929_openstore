@@ -5,8 +5,8 @@ screenshots:
   - screenshots/bytebroom/1.png
   - screenshots/bytebroom/2.png
 category: Utilities
-summary: Mac disk full and no idea what is safe to delete? ByteBroom finds build folders, caches and leftover app files, sorted by size with a reason for each
-tags: [macOS, Disk cleaner, Developer tools, Cache cleaner, node_modules, Xcode, Rust, Open source]
+summary: Mac disk cleaner that finds what is safe to delete, like old build folders, caches and leftover app files, and frees up space in a few clicks
+tags: [Mac disk cleaner, Free up space, macOS, Cache cleaner, App uninstaller, node_modules, Xcode, Developer tools]
 website: https://github.com/p32929/bytebroom
 source: https://github.com/p32929/bytebroom
 
@@ -14,31 +14,29 @@ platforms:
   MacOS: https://github.com/p32929/bytebroom/releases/latest
 ---
 
-**Your Mac is full, but you don't know what is safe to delete. ByteBroom shows you, and frees the space.**
+**ByteBroom is a free Mac disk cleaner that shows you what is safe to delete and frees up space in a few clicks.**
 
 ## The problem
 
-Your Mac says the disk is almost full. Most of that space is hidden: old `node_modules` and build folders, package manager caches, Xcode data, simulators, and files left behind by apps you already removed. Finding them by hand takes hours, and deleting the wrong folder can break a project or lose your work.
+Your Mac says "Your disk is almost full". Most of that space is hidden in places you never look: old `node_modules` and build folders, caches, Xcode data, simulators, and files left behind by apps you already removed. Finding them by hand takes hours, and deleting the wrong folder can break a project or lose your work.
 
 ## How ByteBroom solves it
 
-ByteBroom scans your whole disk and lists everything over 50 MB that it knows how to judge, sorted by size. Every item says why it is there and whether it comes back by itself, so you decide with the facts in front of you and free the space in a few clicks.
+ByteBroom scans your whole disk and lists everything over 50 MB, biggest first. Each item says what it is and whether it comes back by itself, so you know what you can delete without worry.
 
-1. **Safe to delete.** Things that come back by themselves, or with a rebuild or reinstall: project build folders (`node_modules`, `target`, `build`, `.dart_tool`, `Pods`, `.venv` and more, for many languages), package manager caches (npm, Yarn, pnpm, Cargo, Gradle, pip and others), Xcode build data, and app caches and logs.
-2. **Look first.** Things where you lose what is inside, so you should check before deleting: the Trash, iOS simulators, Android emulators, Docker and VM data, Downloads, temporary files, and backups.
-3. **Apps.** Every installed app with the files it has spread around your system. Tick the box next to an app to remove it completely.
-4. **Move to Trash or delete for good.** Trash can be undone. Permanent delete frees the space right away, with a progress window.
-5. **Light, dark or system theme.**
+1. **Safe to delete:** project build folders (`node_modules`, `target`, `build`, `Pods`, `.venv` and more), package manager caches (npm, Yarn, pnpm, Cargo, Gradle, pip and others), Xcode build data, and app caches and logs.
+2. **Look first:** the Trash, iOS simulators, Android emulators, Docker and VM data, Downloads, temporary files and backups, marked so you check before deleting.
+3. **Remove apps completely:** every installed app with all the files it spread around your Mac, removed in one tick.
+4. **Undo if you need to:** move things to the Trash, or delete them for good to free the space right away.
+5. **It won't touch your work:** folders tracked by git, your home folder and system folders are never offered.
+6. **Light and dark mode.**
 
-## Built to not delete the wrong thing
+## Who it is for
 
-1. A folder that git tracks is never offered. A `build` folder with committed files in it is source, not junk.
-2. Projects need proof. A `target` folder only counts if a `Cargo.toml` sits next to it, and `node_modules` needs a `package.json`.
-3. Your home folder, anything above it, and system folders such as `/Library/Caches` itself are off limits.
-4. Links are removed, never followed, so deleting a link leaves what it points to.
+1. Developers whose Mac fills up with build folders and caches.
+2. Anyone who sees "disk almost full" and doesn't know what to delete.
+3. People who want to remove apps without leaving files behind.
 
 ## Install
 
-Download the `.dmg` from the latest release, open it and drag ByteBroom onto Applications. Releases are built for Apple Silicon Macs. On an Intel Mac, build it from source with Rust.
-
-The app is not notarized by Apple yet, so the first time macOS asks you to allow it: open System Settings, Privacy & Security, and click Open Anyway. For the best results, also add ByteBroom under Full Disk Access, or macOS hides some folders from it.
+Download the `.dmg`, open it and drag ByteBroom onto Applications. It works on Apple Silicon Macs. The first time, macOS may block it: open System Settings, Privacy & Security, and click Open Anyway. Give it Full Disk Access so it can find every folder.

@@ -7,8 +7,8 @@ screenshots:
   - screenshots/bbrain-web/1.png
   - screenshots/bbrain-web/2.png
 category: Entertainment
-summary: Chat with characters from the YouTube channel MyStory Animated, like Magnus the vampire. Free on iOS and Android
-tags: [AI, Chatbot, Characters, MyStory Animated, Stories, Roleplay]
+summary: AI character chat app. Talk with characters from the YouTube channel MyStory Animated, like Magnus the vampire. Free on iOS and Android
+tags: [AI chat, Character chat, AI chatbot, MyStory Animated, Roleplay, Stories]
 
 platforms:
   iOS: https://apps.apple.com/ae/app/bbrain/id6448963886
@@ -17,8 +17,18 @@ platforms:
 
 > **Company project.** This is not a personal project. I worked on its initial stage, and the product is owned and run by its company.
 
-You watch a story on MyStory Animated, and a character stays in your head long after the video ends. What would they say if you could just talk to them?
+**BBrain is a free AI character chat app where you talk with characters from the YouTube channel MyStory Animated.**
 
-**BBrain lets you chat with characters from the YouTube channel MyStory Animated.** Pick one from the list and start talking. Magnus, the stoic vampire from *I'm Turning into a Vampire*, stays in character, cold on the outside, and maybe you can make him fall for you. There are a few extra characters made just for the app too.
+You watch a story on MyStory Animated, and a character stays in your head long after the video ends. With BBrain you can just talk to them.
 
-It is free. Open it, choose a character and say hi, on **iOS** or **Android**.
+## What you can do
+
+1. **Pick a character and start chatting.**
+2. **Characters stay in character.** Magnus, the stoic vampire from *I'm Turning into a Vampire*, is cold on the outside, and maybe you can make him fall for you.
+3. **Meet extra characters** made just for the app.
+4. **Free** on **iOS** and **Android**.
+
+## Who it is for
+
+1. Fans of MyStory Animated.
+2. Anyone who enjoys AI roleplay and story chats.

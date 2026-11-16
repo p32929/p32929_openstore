@@ -10,36 +10,42 @@ screenshots:
   - screenshots/brikkho/new-6.png
   - screenshots/brikkho/new-7.png
 category: Education
-summary: See a tree or plant and don't know its name or use? A Bengali pocket guide to 49 trees, flowers, medicinal plants and spices. Works offline, no ads
-tags: [Trees, Plants, Flowers, Nature, Bangla, Offline, Android]
+summary: Plant and tree guide in Bengali. Learn the names and uses of 49 trees, flowers, medicinal plants and spices. Works offline, no ads
+tags: [Trees, Plants, Medicinal plants, Flowers, Bengali, Nature, Offline, Android]
 
 platforms:
   Android:
     - version: "2.0.0"
       date: 2026-11-15
-      changelog: Rebuilt in Kotlin and Jetpack Compose with a botanical design, categories, plant of the day, working pictures, light and dark mode
+      changelog: Rebuilt with a botanical design, categories, plant of the day, working pictures, light and dark mode
       url: https://github.com/p32929/p32929_openstore/releases/tag/brikkho
 ---
 
-> **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures or links may not work. Please don't expect it to be actively maintained.
+> **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt for modern Android phones with a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures or links may not work. Please don't expect it to be actively maintained.
 
-**You see a tree or plant every day but don't know its name or what it is good for. Brikkho (বৃক্ষ) tells you, in Bengali.**
+**Brikkho (বৃক্ষ) is a pocket guide to trees and plants in Bengali. Find a plant's name, its uses and which plants are medicinal or spices.**
 
 ## The problem
 
-Most plant guides are in English and use names people in Bangladesh don't know. If you want to know a tree's Bengali name, its scientific name, or which plants are medicinal or used as spices, the answers are spread across books and websites, and often need the internet.
+Most plant guides are in English and use names people in Bangladesh don't know. If you want a tree's Bengali name, its scientific name, or which plants are medicinal or used as spices, the answers are spread across books and websites, and often need the internet.
 
 ## How Brikkho solves it
 
 It is a small field guide on your phone, written in Bengali, that you can search by any name and use offline.
 
 1. **49 plants** with Bengali descriptions: trees, flowers, medicinal plants, spices, fruit, vegetables and more.
-2. **Category tiles** and a **plant of the day.**
+2. **Browse by category,** plus a **plant of the day.**
 3. **Search** by Bengali name, English name, scientific name or type.
-4. **A details page** with a big photo, a field-guide label, sections of text, share and a link to Wikipedia.
-5. **Favourites** saved on your phone.
-6. **Works offline** from the first start; new plants are added when the online list grows.
-7. **Light, dark or system theme.**
+4. **A page for each plant** with a big photo, what it is used for, and a link to Wikipedia.
+5. **Save favourites** and **share** plants.
+6. **Works offline** from the first start. No ads.
+7. **Light and dark mode.**
+
+## Who it is for
+
+1. Students studying plants and botany.
+2. Gardeners and nature lovers.
+3. Anyone curious about medicinal plants and spices.
 
 ## The story
 
@@ -49,4 +55,4 @@ We don't work together any more, but I'm proud of what came out of it. Somehow I
 
 ## Install
 
-Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards. If you have the old version installed, uninstall it first, because the new one is signed with a different key.
+Download the APK from the download page and open it to install.

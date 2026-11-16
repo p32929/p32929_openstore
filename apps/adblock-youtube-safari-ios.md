@@ -6,8 +6,8 @@ screenshots:
   - screenshots/adblock-youtube-safari-ios/2.png
   - screenshots/adblock-youtube-safari-ios/3.png
 category: Utilities
-summary: Tired of ads cutting into YouTube videos on your iPhone? This Safari extension removes them, in videos, embeds on other sites and streams
-tags: [Client project, Ad blocker, YouTube, Safari, iOS, Privacy]
+summary: YouTube ad blocker for Safari on iPhone and iPad. Removes pre-roll, mid-roll and banner ads, also on embedded videos and streams
+tags: [Client project, YouTube ad blocker, Ad blocker, Safari extension, iPhone, iPad, iOS, Privacy]
 
 platforms:
   iOS: https://apps.apple.com/gb/app/al-quran-by-quran-touch/id585240351
@@ -15,22 +15,26 @@ platforms:
 
 > **Client project.** I built this app for a client. It is not my personal app.
 
-**Ads keep cutting into YouTube videos on your iPhone. This Safari extension removes them.**
+**Adblock for YT is a YouTube ad blocker for Safari on iPhone and iPad, so your videos play without ads.**
 
 ## The problem
 
-You open a YouTube video in Safari on your iPhone or iPad and have to sit through an ad before it starts, then more ads in the middle, and banners on top. It breaks music, tutorials and lessons, and it is worse for kids who tap on things they shouldn't.
+You open a YouTube video in Safari on your iPhone or iPad and have to sit through an ad before it starts. Then more ads cut in halfway, and banners cover the video. It breaks music, tutorials and lessons. Kids tap on ads they shouldn't.
 
 ## How Adblock for YT solves it
 
-It is a Safari extension. Once it is turned on, it blocks YouTube ads in Safari, so videos just play.
+Turn the extension on in Safari once. From then on, YouTube ads are blocked and videos just play.
 
-1. **Blocks pre-roll, mid-roll and banner ads** on YouTube videos.
-2. **Works on embedded YouTube videos** on other websites and on streams too.
-3. **Easy to set up,** with a simple screen to turn it on.
+1. **No ads before or during videos.** Pre-roll, mid-roll and banner ads are blocked.
+2. **Works on YouTube videos inside other websites** and on live streams too.
+3. **Quick to set up,** with a simple screen that shows you how to turn it on.
 4. **Keeps your browsing private and safe.**
 
+## Who it is for
 
+1. Anyone who watches YouTube in Safari on an iPhone or iPad.
+2. Parents who don't want kids tapping on video ads.
+3. People who listen to music or follow tutorials on YouTube and hate the interruptions.
 
 ## The story
 

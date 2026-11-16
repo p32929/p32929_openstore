@@ -5,26 +5,30 @@ screenshots:
   - screenshots/shajao/1.png
   - screenshots/shajao/2.png
 category: Photography
-summary: Your best photos stay on your phone because printing and framing them is a chore. Shajao prints, frames and delivers them to your door, from 590 taka
-tags: [Photo framing, Printing, Delivery, Gifts, Bangladesh, E-commerce]
+summary: Online photo printing and framing in Bangladesh. Upload a photo, pick a frame and size, and get it framed and delivered to your door from 590 taka
+tags: [Photo frame, Photo printing, Online photo frame, Gift, Home delivery, Bangladesh]
 
 platforms:
   Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/unavailable.png
 ---
 
-**Photos stuck on your phone? Shajao prints them, frames them and delivers them to your door.**
+**Shajao is an online photo printing and framing service in Bangladesh. Upload a photo, pick a frame, and get it framed and delivered to your door, from 590 taka.**
 
 ## The problem
 
-Your best photos live on your phone, and that is where they stay. Getting one printed, finding a frame that suits it, and carrying it home without bending a corner is a chore most people never get round to.
+Your best photos stay on your phone. Getting one printed, finding a frame that suits it, and carrying it home without bending a corner is a chore most people never get round to.
 
 ## How Shajao solves it
 
-Shajao does the whole thing from one screen. Printing, framing and delivery together, starting from just 590 taka.
+Printing, framing and home delivery, all from one screen.
 
 1. **Upload your photo.**
-2. **Pick a frame, a background and a size,** and see how it looks in the frame before you decide.
-3. **Pay** with cash on delivery, bKash or a card.
-4. **Get it at home.** A printed, framed copy is delivered to your doorstep.
+2. **Pick a frame, a background and a size,** and see how it looks in the frame before you order.
+3. **Pay your way:** cash on delivery, bKash or a card.
+4. **Delivered to your home,** printed and framed.
+5. **Starts from 590 taka.**
 
-Upload, pick a frame, get it framed. That is all it takes to turn a phone photo into something on the wall or a gift for someone you love.
+## Who it is for
+
+1. Anyone who wants their favourite photos on the wall.
+2. People looking for a personal gift for a birthday, wedding or anniversary.

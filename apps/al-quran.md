@@ -8,8 +8,8 @@ screenshots:
   - screenshots/al-quran/4.png
   - screenshots/al-quran/5.png
 category: Books & Reference
-summary: Want to read, understand and memorize the Quran in one place? Read with translations and tafsir, listen to famous reciters, and loop ayat to memorize
-tags: [Client project, Quran, Islam, Recitation, Memorization, Translation, iOS]
+summary: Quran app for iPhone and iPad. Read with translations and tafsir, listen to reciters like Al-Sudais and Al-Afasy, and memorize with looped ayat
+tags: [Client project, Quran app, Quran recitation, Quran translation, Tafsir, Hifz, Islam, iOS]
 
 platforms:
   iOS: https://apps.apple.com/gb/app/al-quran-by-quran-touch/id585240351
@@ -17,27 +17,29 @@ platforms:
 
 > **Client project.** I built this app for a client. It is not my personal app.
 
-**Reading, understanding and memorizing the Quran usually takes several apps. This one does it all in one place.**
+**Al Quran by Quran Touch is a Quran app for iPhone and iPad to read, listen to and memorize the Holy Quran, with translations, tafsir and offline audio.**
 
 ## The problem
 
-To read the Quran properly you want the Arabic text, a translation and tafsir. To memorize, you want to hear a good reciter and repeat the same verses again and again. Usually that means jumping between a book, a translation app and audio files, and nothing works when you are offline.
+To read the Quran properly you want the Arabic text, a translation and tafsir. To memorize, you want a good reciter and to repeat the same ayat again and again. Usually that means jumping between a book, a translation app and audio files, and nothing works when you are offline.
 
 ## How Al Quran by Quran Touch solves it
 
-It puts the text, the meaning and the recitation together, and helps you memorize by looping verses.
+It puts the Arabic text, its meaning and the recitation together in one app, and helps you memorize by looping ayat for you.
 
-1. **The full Quran** in clear Uthmani Arabic script.
-2. **Audio recitation** by many reciters, including Al-Sudais and Al-Afasy.
-3. **Translations in many languages and tafsir** to understand what you read.
-4. **Memorization mode** repeats and loops verses for you.
-5. **Bookmarks and notes** for the verses you want to come back to.
-6. **Offline audio.** Download surahs and listen anywhere.
+1. **Read the full Quran** in clear Uthmani Arabic script.
+2. **Listen to many reciters,** including Al-Sudais and Al-Afasy.
+3. **Understand what you read** with translations in many languages and tafsir.
+4. **Memorize faster.** Memorization mode repeats and loops ayat for you.
+5. **Bookmarks and notes** for the ayat you want to come back to.
+6. **Listen offline.** Download surahs and listen anywhere.
 7. **Night mode** for reading in the dark.
 
-It works for beginners and advanced learners alike.
+## Who it is for
 
-
+1. Muslims who want to read the Quran daily with its meaning.
+2. Students doing hifz who need to repeat ayat many times.
+3. Beginners and advanced learners alike.
 
 ## The story
 

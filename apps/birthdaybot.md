@@ -17,11 +17,22 @@ platforms:
   Android:
     - version: "2.0.0"
       date: 2026-11-16
-      changelog: Rebuilt in Kotlin and Jetpack Compose with a festive new design, swipeable wish cards, balloons and confetti, music toggle, light and dark mode, no ads
+      changelog: Rebuilt with a festive new design, swipeable wish cards, balloons and confetti, music toggle, light and dark mode, no ads
       url: https://github.com/p32929/p32929_openstore/releases/tag/birthdaybot
 ---
 
-> **An old app, revived.** This app was first made around 2019 and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Please don't expect it to be actively maintained.
+> **An old app, revived.** This app was first made around 2019 and was on Google Play until the account was closed. In 2026 it was rebuilt for modern Android phones with a new design, mainly to show it again. Please don't expect it to be actively maintained.
+
+**BirthdayBot is a birthday wish app: a personal birthday surprise for one special person, with photos, kind words, balloons, confetti and the birthday song.**
+
+## What it does
+
+1. **A party intro:** "Happy Birthday" with the name popping in, confetti and balloons. Tap to open the wishes.
+2. **15 photo wishes** you swipe through like a card deck.
+3. **Balloons fly** between the cards.
+4. **The birthday song** plays softly, with a music on/off button.
+5. **A big final card** with a replay button.
+6. **Light and dark mode.** No ads.
 
 ## The story
 
@@ -29,21 +40,6 @@ This was a personal project, not a group one. I was a huge fan of Tzuyu at the t
 
 After that I kept reusing it. Whenever I wanted to wish someone a happy birthday, I made a new branch with their name, photos and wishes, built the app and sent it to them. They were always really happy with it, and they loved it.
 
-**A little birthday surprise, made for one special person.**
-
-BirthdayBot is a personal birthday gift: open it, and it wishes happy birthday to one person, Tzuyu, with photos, kind words, balloons and the birthday song.
-
-## What it does
-
-1. **A party intro:** "Happy Birthday" with the name popping in, confetti and balloons. Tap to open the wishes.
-2. **15 photo wishes** you can swipe through like a card deck, with page dots and Prev and Next buttons.
-3. **Balloons fly** between the cards.
-4. **The birthday song** plays softly, with a music on/off button.
-5. **A big final card** with a replay button.
-6. **Light, dark or system theme.** No ads.
-
-The name and the wishes live in one file, so a version for someone else is easy to make.
-
 ## Install
 
-Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards. If you have the old version installed, uninstall it first, because the new one is signed with a different key.
+Download the APK from the download page and open it to install.

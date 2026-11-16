@@ -8,8 +8,8 @@ screenshots:
   - screenshots/notes-offline/4.png
   - screenshots/notes-offline/5.png
 category: Productivity
-summary: Built-in note apps are bad and browser ones are full of ads. A clean note app in your browser that works offline, with tabs, rich text and search. No account
-tags: [Notes, Offline, PWA, Rich text, Keyboard shortcuts, React, Open source]
+summary: Free offline notes app in your browser. Rich text, tabs, search and keyboard shortcuts, with no ads and no account. Install it on any device
+tags: [Notes app, Offline notes, Notepad, Rich text editor, Private, No account, Open source]
 website: https://p32929.github.io/notes/
 source: https://github.com/p32929/notes
 license: MIT
@@ -18,28 +18,27 @@ platforms:
   Web: https://p32929.github.io/notes/
 ---
 
-**Need to jot something down fast? A clean note app in your browser that works offline, with no ads and no account.**
+**9Notes is a free offline notes app that runs in your browser. Write quick notes with rich text, tabs and search, with no ads, no account and no internet needed.**
 
 ## The problem
 
-I saw one of my mentors jotting down quick notes in an offline note app in the browser. The note app that came with his computer was bad, so he used a browser one instead. That one was full of ads and other junk, but he kept using it anyway. So I thought: why not make a better one?
+The note app that comes with many computers is basic, and many browser note apps are full of ads and junk. You just want somewhere clean and fast to jot something down.
 
 ## How 9Notes solves it
 
-9Notes opens in your browser, works with no internet, and has nothing in your way: no ads, no account and no sign-up. It started as a very small note app. Over time I added tabs and more features, and I still plan to make it better.
+Open it in your browser and start typing. It works with no internet, saves as you type, and keeps your notes on your own device.
 
-1. Keep each note in its own tab on the left, and drag them to put them in the order you like.
-2. Write with a rich text editor: headings, bold, italic, strikethrough, lists, quotes, code and code blocks.
-3. Find any note fast with search over titles and content.
-4. Move around quickly with more than 50 keyboard shortcuts.
-5. Pick light or dark mode and one of 8 colours.
-6. Import and export all your notes as a file, to back them up or move them.
-7. Install it like an app on your phone, tablet or computer, and use it with no internet.
+1. **Tabs for your notes,** in any order you like.
+2. **Rich text:** headings, bold, italic, lists, quotes and code.
+3. **Find any note fast** with search.
+4. **Work fast** with more than 50 keyboard shortcuts.
+5. **Back up or move your notes** by exporting them to a file.
+6. **Install it like an app** on your phone, tablet or computer.
+7. **Private:** no account, no sign-up, and your notes stay on your device.
+8. **Light and dark mode,** with 8 colours to choose from.
 
-## Your notes stay with you
+## Who it is for
 
-There is no account and no sign-up. Your notes are saved on your own device, in your browser, and they save by themselves as you type.
-
-## What is next
-
-I am working on bulk actions, folders, favourites, sharing and linking one note to another.
+1. Anyone who wants a simple notepad without ads.
+2. Students and developers who take quick notes all day.
+3. People who don't want their notes on someone else's server.

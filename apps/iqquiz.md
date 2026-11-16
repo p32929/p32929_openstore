@@ -10,31 +10,37 @@ screenshots:
   - screenshots/iqquiz/new-6.png
   - screenshots/iqquiz/new-7.png
 category: Entertainment
-summary: A fast offline IQ quiz with pattern, logic and word puzzles, a timer, tips, results and your best score saved
-tags: [Quiz, IQ, Brain game, Puzzle, Offline, Android]
+summary: Free IQ test and brain game. Timed pattern, logic and word puzzles that train how fast you think. Works offline, no ads
+tags: [IQ test, Brain game, Puzzle, Logic puzzles, Brain training, Quiz, Offline, Android]
 
 platforms:
   Android:
     - version: "2.0.0"
       date: 2026-11-15
-      changelog: Rebuilt in Kotlin and Jetpack Compose, with timer ring, result screen with review, stats, categories, light and dark mode
+      changelog: Rebuilt with a new design, with timer ring, result screen with review, stats, categories, light and dark mode
       url: https://github.com/p32929/p32929_openstore/releases/tag/iqquiz
 ---
 
-> **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures, videos or links may not work. Please don't expect it to be actively maintained.
+> **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt for modern Android phones with a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures, videos or links may not work. Please don't expect it to be actively maintained.
 
-**A quick quiz that tests how fast you think.**
+**IQQuiz is a free IQ test and brain game with timed pattern, logic and word puzzles. Train how fast you think, anywhere, even offline.**
 
-IQQuiz is for anyone who likes puzzles and brain teasers. Each round gives you 10 pattern, logic or word puzzles with 25 seconds for each, then shows what you got wrong so you can do better next time. It works fully offline, so you can play anywhere.
+Each round gives you 10 puzzles with 25 seconds for each. When it ends, you see what you got wrong, so you can do better next time.
 
-## What it does
+## What you can do
 
-1. **Three kinds of puzzles:** patterns, logic and words. Play them mixed or pick one.
-2. **10 questions per round, 25 seconds each,** with an animated timer.
-3. **A result screen** with your score and a review of the questions you got wrong.
-4. **Your best score, streak and accuracy** are saved on the phone.
-5. **Tips** to improve your thinking.
-6. **Works fully offline.** Light, dark or system theme.
+1. **Solve three kinds of puzzles:** patterns, logic and words. Play them mixed or pick one.
+2. **Beat the clock:** 10 questions per round, 25 seconds each.
+3. **Learn from mistakes** with a review of every question you got wrong.
+4. **Track your progress:** best score, streak and accuracy.
+5. **Read tips** to improve your thinking.
+6. **Play offline,** in light or dark mode.
+
+## Who it is for
+
+1. Anyone who enjoys puzzles and brain teasers.
+2. Students preparing for aptitude or IQ-style tests.
+3. Anyone who wants a quick brain workout in a spare few minutes.
 
 ## The story
 
@@ -44,4 +50,4 @@ We don't work together any more, but I'm proud of what came out of it. Somehow I
 
 ## Install
 
-Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards. Older versions are on the same download page. If you have the old version installed, uninstall it first, because the new one is signed with a different key.
+Download the APK from the download page and open it to install.

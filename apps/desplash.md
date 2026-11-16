@@ -10,35 +10,41 @@ screenshots:
   - screenshots/desplash/6.png
   - screenshots/desplash/7.png
 category: Personalization
-summary: Bored of the same wallpaper? Get free high quality Unsplash photos by topic or search, and let the wallpaper change by itself on a timer or every lock
-tags: [Wallpapers, Unsplash, Photos, Personalization, Android]
+summary: Free HD wallpaper app for Android with Unsplash photos. Browse by topic or search, and let your wallpaper change by itself on a timer
+tags: [Wallpapers, HD wallpapers, Auto wallpaper changer, Unsplash, Backgrounds, Personalization, Android]
 
 platforms:
   Android:
     - version: "2.0.0"
       date: 2026-11-16
-      changelog: Rebuilt in Kotlin and Jetpack Compose, with topics, search, favourites, auto change, quality options, light and dark mode, no ads
+      changelog: New design, with topics, search, favourites, auto change, quality options, light and dark mode, no ads
       url: https://github.com/p32929/p32929_openstore/releases/tag/desplash
 ---
 
-> **An old app, revived.** This app was first made around 2019 and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Please don't expect it to be actively maintained.
+> **An old app, revived.** This app was first made around 2019 and was on Google Play until the account was closed. In 2026 it was rebuilt for modern Android phones with a new design, mainly to show it again. Please don't expect it to be actively maintained.
 
-**Tired of the same wallpaper? Desplash gives you a fresh, high quality one whenever you like, by itself.**
+**Desplash is a free HD wallpaper app for Android that gives you beautiful Unsplash photos and changes your wallpaper by itself.**
 
 ## The problem
 
-You look at your phone's wallpaper many times a day, and the same picture gets boring fast. Finding a good, high quality photo, downloading it and setting it again and again takes effort, so most people never change it.
+You look at your phone many times a day, and the same wallpaper gets boring fast. Finding a good high quality photo, downloading it and setting it again and again takes effort, so most people never change it.
 
 ## How Desplash solves it
 
-Desplash brings you free, high quality photos from the photographers of Unsplash.com, with proper credit to each one. Pick one in a tap, or let the app change your wallpaper by itself. It was featured on XDA Developers in 2018.
+Desplash brings you free, high quality photos from the photographers of Unsplash.com. Set one in a tap, or let the app give you a fresh wallpaper by itself. It was featured on XDA Developers in 2018.
 
-1. **Explore** featured photos or topics like nature, mountains, ocean and space, or **search** any word.
-2. **Preview** a photo, see who took it, and open it on Unsplash.
-3. **Set as wallpaper** for the home screen, lock screen or both, or **download** it in full quality.
-4. **Auto change:** a fresh wallpaper on a timer (every 15 minutes to daily) or every time you lock the phone.
-5. **Favourites** and **photo quality** choices (original, balanced or data saver).
-6. **Light, dark or system theme.**
+1. **Browse by topic** like nature, mountains, ocean and space, or **search** for anything.
+2. **Set as wallpaper** for the home screen, lock screen or both.
+3. **Auto wallpaper changer:** a new wallpaper on a timer, from every 15 minutes to once a day, or every time you lock your phone.
+4. **Download** any photo in full quality, with credit to the photographer.
+5. **Save favourites** and choose the photo quality to save mobile data.
+6. **Free, no ads.** Light and dark mode.
+
+## Who it is for
+
+1. Anyone bored of their phone's wallpaper.
+2. People who love nature and travel photos.
+3. Anyone who wants a new look every day without doing anything.
 
 ## The story
 
@@ -48,4 +54,4 @@ We don't work together any more, but I'm proud of what came out of it. Somehow I
 
 ## Install
 
-Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards.
+Download the APK and open it to install.

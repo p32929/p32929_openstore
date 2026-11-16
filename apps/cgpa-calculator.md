@@ -8,8 +8,8 @@ screenshots:
   - screenshots/cgpa-calculator/4.png
   - screenshots/cgpa-calculator/5.png
 category: Education
-summary: Working out your CGPA by hand is slow and one typo means starting again. Enter your grades, fix mistakes, and save the result to check later, offline
-tags: [CGPA, GPA, Calculator, University, Students, Offline, Android]
+summary: Free offline CGPA calculator for university students. Enter your courses and grades, fix mistakes easily, and save your results
+tags: [CGPA calculator, GPA calculator, University, Students, Grades, Offline, Android]
 
 platforms:
   Android:
@@ -21,20 +21,26 @@ platforms:
 
 > **This app used to be on Google Play.** It was taken down when the developer account was closed, so this is the original APK.
 
-**Work out your CGPA on your phone in seconds, without starting over for every mistake.**
+**CGPA Calculator is a free Android app that works out your CGPA in seconds, and lets you fix a mistake without starting over.**
 
 ## The problem
 
-University students need to know their CGPA often: after results, before applying for jobs or scholarships, or to see what grades they need next term. Doing it by hand with credits and grade points is slow, and one wrong number means doing it all again.
+University students check their CGPA all the time: after results, before applying for jobs or scholarships, or to see what grades they need next term. Doing it by hand with credits and grade points is slow, and one wrong number means doing it all again.
 
 ## How CGPA Calculator solves it
 
-You enter your courses, credits and grades, and the app works out your CGPA right away. You can fix a wrong entry instead of starting again, and save the result to look at later.
+Enter your courses, credits and grades, and the app shows your CGPA right away. Got one wrong? Just edit it. Save the result and check it again any time.
 
-1. **A simple screen** and **fast calculation.**
-2. **Edit wrong entries** instead of starting again.
-3. **Save results** and open them again any time, offline.
-4. **A small download.**
+1. **Fast and simple:** your CGPA as soon as you enter your grades.
+2. **Fix mistakes easily:** edit any entry instead of starting again.
+3. **Save your results** and open them later, even offline.
+4. **Small download.**
+
+## Who it is for
+
+1. University students tracking their results.
+2. Students planning what grades they need next term.
+3. Anyone applying for jobs or scholarships that ask for a CGPA.
 
 ## The story
 
@@ -44,4 +50,4 @@ We don't work together any more, but I'm proud of what came out of it. Somehow I
 
 ## Install
 
-Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards.
+Download the APK and open it to install.

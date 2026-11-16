@@ -12,8 +12,8 @@ screenshots:
   - screenshots/mathfinity/4.png
   - screenshots/mathfinity/5.png
 category: Education
-summary: Getting fast at mental maths takes practice, and worksheets are boring. Solve sums against the clock, then see how long each one took you. Free, offline, no ads
-tags: [Math, Arithmetic, Brain Training, Educational Game, Kids, Offline]
+summary: Mental maths game for kids and adults. Solve sums against the clock and see which ones slowed you down. Free, offline, no ads
+tags: [Math game, Mental math, Arithmetic, Brain training, Kids, Educational game, Offline]
 website: https://p32929.github.io/mathfinity/
 source: https://github.com/p32929/mathfinity
 license: MIT
@@ -42,20 +42,26 @@ platforms:
       url: https://github.com/p32929/mathfinity/releases/tag/v2.0.0
 ---
 
-**Want to get faster at mental maths? Play quick sums against the clock, then see exactly where you were slow.**
+**MathFinity is a free mental maths game. Solve sums against the clock, then see exactly which ones slowed you down.**
 
 ## The problem
 
-Getting fast at sums takes a lot of practice, and worksheets are slow and boring. Children learning their sums, and anyone who wants a sharper mind for numbers, need practice that is quick, fun, and shows what to work on.
+Getting fast at sums takes a lot of practice, and worksheets are slow and boring. Children learning their sums, and anyone who wants to be quicker with numbers, need practice that is short, fun, and shows what to work on.
 
 ## How MathFinity solves it
 
-It turns practice into a short game you can play any time: free, with no ads and no account.
+It turns maths practice into a quick game you can play any time, with no ads and no account.
 
-1. **Tap Start game** and a sum appears: adding, subtracting, multiplying or dividing. Pick the right answer from the grid as fast as you can.
-2. **See right away if you were right.** Right answers glow green, wrong ones red. New sums keep coming until the timer runs out, and questions don't repeat in the same game.
-3. **See where you were slow.** When the game ends you see how many you got right and wrong, your accuracy, your time, and a list of every sum with how long you took on it.
-4. **Make it yours:** choose the smallest and largest numbers, the game length, and a grid from 2×2 up to 4×4 answers. Pick light or dark mode and one of eight colours. Your choices are saved on your device.
-5. **Works offline.**
+1. **Answer fast:** a sum appears (add, subtract, multiply or divide) and you pick the right answer from the grid.
+2. **Know right away** if you were right. New sums keep coming until the time runs out.
+3. **See where you were slow:** your score, accuracy and time, plus every sum with how long you took on it.
+4. **Make it easier or harder:** choose the number range, the game length and how many answers to pick from.
+5. **Play offline,** in light or dark mode, with eight colours to choose from.
 
-Runs in the browser, on Android, Windows, macOS and iPhone. For **Linux**, older Android phones (armv7) and Chromebooks (x86_64), see all the files on the [releases page](https://github.com/p32929/mathfinity/releases/latest).
+## Who it is for
+
+1. Children learning addition, subtraction, multiplication and division.
+2. Parents and teachers who want a fun way to practise sums.
+3. Adults who want to keep their mental maths sharp.
+
+Play it in the browser, or install it on Android, Windows, macOS or iPhone. Linux and Chromebook files are on the [download page](https://github.com/p32929/mathfinity/releases/latest).

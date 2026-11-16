@@ -8,25 +8,31 @@ screenshots:
   - screenshots/cfood/4.png
   - screenshots/cfood/5.png
 category: Food & Drink
-summary: DIY complete-food recipes are scattered over thousands of pages. CFood puts 10,000+ in one place, filters them by cost and diet, and builds one shopping list
-tags: [Health & Fitness, Recipes, Nutrition, Shopping list, DIY Soylent]
+summary: Find cheap, healthy DIY complete-food recipes. Filter 10,000+ meal replacement recipes by cost and diet, and get one shopping list for all of them
+tags: [DIY Soylent, Meal replacement, Complete food, Recipes, Nutrition, Budget meals, Shopping list]
 
 platforms:
   Web: https://cfood.vercel.app/
 ---
 
-**Finding a DIY complete-food recipe that fits your budget and diet takes hours. CFood makes it minutes, and writes your shopping list too.**
+**CFood helps you find a cheap, healthy DIY complete-food recipe in minutes, out of more than 10,000, and writes your shopping list for you.**
 
 ## The problem
 
-DIY complete-food recipes, the kind that replace a whole day of meals, are spread across thousands of pages. Finding one that fits your budget and diet is slow, comparing their nutrition is hard, and working out what to buy for several of them takes hours of adding up by hand.
+DIY complete-food recipes, the homemade kind that replace a whole day of meals like Soylent, are spread across thousands of pages. Finding one that fits your budget and diet is slow, comparing their nutrition is hard, and adding up what to buy for several of them takes hours.
 
 ## How CFood solves it
 
-CFood puts over 10,000 recipes in one place, lets you narrow them down in seconds, and turns the ones you pick into a single shopping list.
+CFood puts over 10,000 recipes in one place. You narrow them down by price and diet in seconds, compare them side by side, and turn the ones you pick into one shopping list.
 
-1. **Search and filter** by cost per day, by diet tags, or by what reviewers say.
-2. **Compare at a glance.** Each recipe shows its daily cost, how complete its nutrition is, calories, and a protein, carbs and fat bar.
-3. **See the details.** Open a recipe for every vitamin and mineral, the ingredients, the steps and the reviews.
-4. **One shopping list.** Add recipes and the list adds up each ingredient across all of them for the days you choose, so you buy each one once, with a store link for every item.
-5. **Save favourites.** Everything you save stays in your browser, and it works on both desktop and phone.
+1. **Find recipes that fit you:** filter by cost per day, by diet, or by what reviewers say.
+2. **Compare at a glance:** daily cost, how complete the nutrition is, calories, and protein, carbs and fat for each recipe.
+3. **Full details:** every vitamin and mineral, the ingredients, the steps and the reviews.
+4. **One shopping list:** pick recipes and the number of days, and it adds up each ingredient so you buy it once, with a store link for every item.
+5. **Save favourites,** on your computer or your phone.
+
+## Who it is for
+
+1. People who want to eat healthy on a small budget.
+2. Busy people who don't want to cook every meal.
+3. Anyone curious about DIY Soylent and meal replacement shakes.

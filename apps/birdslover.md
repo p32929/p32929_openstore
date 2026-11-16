@@ -10,35 +10,41 @@ screenshots:
   - screenshots/birdslover/new-6.png
   - screenshots/birdslover/new-7.png
 category: Education
-summary: Heard a bird and want to know which one it was? Browse and search 77 birds, read about them in Bengali and listen to their calls. No ads
-tags: [Birds, Nature, Wildlife, Learning, Offline, Android]
+summary: Bird guide app in Bengali. Browse and search 77 birds by name, read about them and listen to each bird's call. Favourites work offline, no ads
+tags: [Birds, Bird sounds, Bird guide, Bengali, Nature, Wildlife, Offline, Android]
 
 platforms:
   Android:
     - version: "2.0.0"
       date: 2026-11-15
-      changelog: Rebuilt in Kotlin and Jetpack Compose with a sky-blue design, working pictures and bird calls, light and dark mode
+      changelog: Rebuilt with a sky-blue design, working pictures and bird calls, light and dark mode
       url: https://github.com/p32929/p32929_openstore/releases/tag/birdslover
 ---
 
-> **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures, videos or links may not work. Please don't expect it to be actively maintained.
+> **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt for modern Android phones with a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures, videos or links may not work. Please don't expect it to be actively maintained.
 
-**You hear a bird or see a picture of one, but you don't know its name or what it sounds like. BirdsLover helps.**
+**BirdsLover is a bird guide app in Bengali. Look up 77 birds, read about them and listen to each bird's call.**
 
 ## The problem
 
-Bird lovers, especially in Bangladesh, rarely find bird information in Bengali, and almost never with the bird's call to listen to. Looking a bird up usually means guessing its English name, searching several sites, and still not hearing what it sounds like.
+Bird lovers in Bangladesh rarely find bird information in Bengali, and almost never with the bird's call to listen to. Looking a bird up usually means guessing its English name, searching several sites, and still not hearing what it sounds like.
 
 ## How BirdsLover solves it
 
 It keeps 77 birds in one picture grid, with a Bengali description and the bird's call for each.
 
-1. **77 birds** in a picture grid, with a bird of the day.
+1. **77 birds** in a picture grid, plus a bird of the day.
 2. **Search** by common name, scientific name or region.
-3. **Details** with a picture, the scientific name and a Bengali description.
-4. **Listen to each bird's call** with a player you can pause and drag.
-5. **Favourites** saved on your phone; the list works offline after the first load.
-6. **Light, dark or system theme.**
+3. **Read about each bird** in Bengali, with a picture and its scientific name.
+4. **Listen to each bird's call.**
+5. **Save favourites.** The list works offline after the first load.
+6. **Light and dark mode.** No ads.
+
+## Who it is for
+
+1. Bird watchers and nature lovers.
+2. Students learning about birds.
+3. Anyone who wants to put a name to a bird they saw or heard.
 
 ## The story
 
@@ -48,4 +54,4 @@ We don't work together any more, but I'm proud of what came out of it. Somehow I
 
 ## Install
 
-Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards. Older versions are on the same download page. If you have the old version installed, uninstall it first, because the new one is signed with a different key.
+Download the APK from the download page and open it to install. Older versions are on the same page.

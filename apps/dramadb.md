@@ -6,27 +6,29 @@ screenshots:
   - screenshots/dramadb/2.png
   - screenshots/dramadb/3.png
 category: Entertainment
-summary: Thousands of Korean dramas and no way to tell the good ones. DramaDB lets you filter and sort by ratings, reviews and comments, so the loved ones come first
-tags: [Korean drama, Asian drama, TV series, Ratings, Filters, Web scraping, Personal project]
+summary: Find the best Korean and Asian dramas to watch. Filter by genre, country and year, and sort by ratings, reviews and comments
+tags: [Korean drama, K-drama, Asian drama, What to watch, Drama ratings, TV series]
 
 platforms:
   Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/unavailable.png
 ---
 
-**Stop wasting evenings on bad dramas. DramaDB shows you which Korean and Asian dramas people actually loved.**
+**DramaDB helps you find the best Korean and Asian dramas to watch, ranked by what viewers actually loved.**
 
 ## The problem
 
-I love watching Korean dramas, but I could never tell the good ones from the bad ones. The site I watched on, KissAsian, had thousands of dramas and almost no way to filter them. There was no easy way to see which ones people actually liked, so I wasted a lot of time on dramas that turned out to be bad.
+There are thousands of Korean and Asian dramas, and it is hard to tell the good ones from the bad ones. Most drama sites have almost no way to filter or rank them, so you pick by the poster or the name and often waste evenings on a drama that turns out to be bad.
 
 ## How DramaDB solves it
 
-I collected every drama's details, ratings, reviews and comments, and put them on one page you can filter and sort. Now I pick a drama by what viewers say about it, not just by its name or its poster.
+It puts every drama with its ratings, reviews and comments on one page that you can filter and sort. You pick your next drama by what other viewers say about it.
 
 1. **Filter** by country, genre, status, year and number of episodes.
-2. **Sort** by rating, review score, number of comments, number of reviewers or views, so the dramas people loved come first.
-3. **Every drama shows its poster**, and it works on desktop and on a phone.
+2. **Sort** by rating, review score, comments, number of reviewers or views, so the most loved dramas come first.
+3. **See every poster** at a glance, on your computer or your phone.
 
-## How I built it
+## Who it is for
 
-I scraped KissAsian with an automated browser, collecting each drama's country, genre, year, status, episode count, views, ratings, reviews and comments. Then I made a Next.js website from that data and hosted it on Vercel. It uses no server, so the whole list loads in the browser. This was a personal project, made to solve my own problem.
+1. K-drama fans looking for what to watch next.
+2. New viewers who don't know where to start.
+3. Anyone who wants a short drama, a finished series or a certain genre.

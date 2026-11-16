@@ -8,8 +8,8 @@ screenshots:
   - screenshots/breakingmars/4.png
   - screenshots/breakingmars/5.png
 category: Business
-summary: Finding and following up with clients on LinkedIn eats hours. Breaking Mars automated invites and follow-ups to win more leads and sales
-tags: [LinkedIn, Lead generation, Sales, Automation, B2B, Social selling]
+summary: LinkedIn automation tool for lead generation. Automated invites, profile visits and follow-ups to win more leads, clients and sales without ads
+tags: [LinkedIn automation, Lead generation, Sales, Outreach, B2B, Social selling]
 
 platforms:
   Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/unavailable.png
@@ -17,12 +17,26 @@ platforms:
 
 > **Company project.** This is not a personal project. I worked on it at a company, and the product was owned and run by that company.
 
+**Breaking Mars was a LinkedIn automation tool for lead generation. It found the right people, connected with them and followed up for you.**
+
 ## The problem
 
-Everyone knows LinkedIn is full of future clients. The hard part is reaching them: finding the right people, sending the invites, following up again and again, week after week, while real work waits.
+Everyone knows LinkedIn is full of future clients. The hard part is reaching them: finding the right people, sending the invites, and following up again and again, week after week, while real work waits.
 
 ## How Breaking Mars solved it
 
-**Breaking Mars was a LinkedIn automation tool that made connecting easier and brought in more leads, clients and sales.** You picked one of eight campaign strategies, chose your audience by company, country, gender and more (or imported a CSV, or pasted a LinkedIn search link), and it viewed profiles, liked posts, endorsed skills, sent connection invites and followed up with messages. Sequences could mix LinkedIn messages, InMails, emails and Twitter DMs, and a dashboard showed your connections, replies and conversion at a glance.
+You chose who you wanted to reach, and it did the outreach for you, without spending a cent on ads.
 
-It followed the same funnel ads use, awareness then engagement then conversion, without spending a cent on ads. It came with a 30-day free trial, no credit card needed, and a small calculator that showed how many days a month you would save.
+1. **Eight ready campaign strategies** to pick from.
+2. **Pick your audience** by company, country, gender and more, or import a CSV, or paste a LinkedIn search link.
+3. **Warm people up automatically.** It viewed profiles, liked posts and endorsed skills.
+4. **Connection invites and follow-ups** sent for you.
+5. **Mix channels** in one sequence: LinkedIn messages, InMails, emails and Twitter DMs.
+6. **One dashboard** for your connections, replies and conversion.
+7. **30-day free trial,** no credit card needed, and a calculator showing how many days a month you would save.
+
+## Who it was for
+
+1. Freelancers and agencies looking for clients.
+2. Sales teams doing B2B outreach.
+3. Founders who sell on LinkedIn.

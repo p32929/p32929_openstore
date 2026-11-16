@@ -8,30 +8,36 @@ screenshots:
   - screenshots/sh0sh0/4.png
   - screenshots/sh0sh0/5.png
 category: Utilities
-summary: Long links look messy and most self-hosted shorteners are hard to set up. Sh0Sh0 makes short links with click stats and needs only Netlify and Firebase
-tags: [URL shortener, Short links, Analytics, Self-hosted, React, Firebase, Netlify]
+summary: Free URL shortener with click analytics. Custom short links, password-protected links and HTML page hosting, with no limit on links
+tags: [URL shortener, Link shortener, Short links, Click analytics, Custom links, Self-hosted]
 website: https://sh0sh0.netlify.app/
 
 platforms:
   Web: https://sh0sh0.netlify.app/
 ---
 
-**Long links are messy and you can't see who opens them. Sh0Sh0 shortens them, shows you the clicks, and is easy to run yourself.**
+**Sh0Sh0 is a free URL shortener with click analytics. Make short custom links, protect them with a password, and see who clicks.**
 
 ## The problem
 
-A long link is hard to share and tells you nothing about who opened it. I wanted a simple way to create and manage short links. Almost every self-hosted shortener I found was hard to set up and needed a lot of things running before it worked.
+Long links look messy when you share them, and they tell you nothing about who opened them. Many link shorteners limit how many links you can make, or charge for stats. And most self-hosted shorteners are hard to set up.
 
 ## How Sh0Sh0 solves it
 
-Create an account, paste a long link, get a short one, then watch the clicks come in. It is a plain React app that needs only **Netlify and Firebase**, and nothing else, so it is easy to run yourself.
+Sign up for free, paste a long link and get a short one. Then see every click: where it came from and on what device.
 
-1. Make short links with your own custom codes.
-2. See clicks, places, devices and behaviour for every link.
-3. Host your own HTML pages on a short link, with the same click tracking.
-4. Protect a link with a password.
-5. Sign up for free, with no credit card and no limit on links.
+1. **Short links with your own custom codes.**
+2. **Click analytics:** clicks, places, devices and behaviour for every link.
+3. **Password-protected links** for things only some people should see.
+4. **Host an HTML page** on a short link, with the same click tracking.
+5. **Free, no credit card, no limit on links.**
 
-## Want your own copy?
+## Who it is for
 
-The source code is not public. But if you would like to host Sh0Sh0 yourself, I am happy to sell it to you. You can reach me through my portfolio: https://p32929.github.io
+1. Marketers and creators who want to know which links people click.
+2. Anyone sharing links on social media, in messages or on print.
+3. People who want a link shortener they can run themselves.
+
+## Host your own copy
+
+Sh0Sh0 needs only Netlify and Firebase to run. The source code is not public, but I'm happy to sell it if you want to host it yourself. Reach me through my portfolio: https://p32929.github.io

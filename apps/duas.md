@@ -10,8 +10,8 @@ screenshots:
   - screenshots/duas/phone-1.png
   - screenshots/duas/phone-2.png
 category: Books & Reference
-summary: Duas scattered across screenshots and notes? Keep them in one calm place, find more in four trusted books, and read their meaning in your own language
-tags: [Duas, Islam, Quran, Hisn al-Muslim, Supplications, Arabic, Translation, Offline]
+summary: Free dua app for Muslims. Keep your daily duas in one place, find more from Hisn al-Muslim and other trusted books, and read the meaning in your language
+tags: [Dua app, Duas, Islam, Muslim, Hisn al-Muslim, Daily adhkar, Supplications, Arabic, Translation]
 website: https://p32929.github.io/duas/
 source: https://github.com/p32929/duas
 license: MIT
@@ -38,7 +38,7 @@ platforms:
       url: https://github.com/p32929/duas/releases/tag/v2.0.0
 ---
 
-**Find the right dua at the right moment, with its meaning and its source, in one place.**
+**Duas is a free dua app that keeps your daily duas in one place, finds new ones in trusted books, and shows their meaning in your own language.**
 
 ## The problem
 
@@ -46,12 +46,21 @@ Many of us keep the duas we recite scattered across screenshots, notes and old m
 
 ## How Duas solves it
 
-Duas keeps all your duas in one calm place, and finds new ones for you in trusted books.
+Duas keeps all your duas in one calm place, and finds new ones for you by topic in trusted books.
 
-1. **Your own list.** It starts with a ready-made set, and you add your own by tapping **Add dua** and pasting the Arabic, the meaning and the source. Delete the ones you don't need, and bring them back from Settings if you change your mind.
-2. **Search trusted books by topic.** Type a topic like *anxiety*, *travelling* or *before sleeping*, and Duas searches four collections at once: **Hisn al-Muslim**, **Dua & Dhikr**, **DeenOne** and **Majmu' al-Adhkar**. Tick the duas you want and add them in one go, each with its source. The Arabic and the references come straight from the books; where a meaning had to be translated by AI, it says so.
-3. **The meaning in your language.** Tap translate, pick from over 60 languages (or type any other), and compare the translation with the English before you keep it. Translations are clearly marked as made by AI.
-4. **Easy to read and share.** Copy or share any dua, choose from eight Arabic fonts, adjust text sizes, and switch between light and dark themes.
-5. **Private.** Your duas stay on your device, with no account needed.
+1. **Your own dua list:** it starts with a ready-made set, and you can add your own with the Arabic, the meaning and the source.
+2. **Search trusted books by topic:** type *anxiety*, *travelling* or *before sleeping*, and it searches **Hisn al-Muslim**, **Dua & Dhikr**, **DeenOne** and **Majmu' al-Adhkar** at once. Add the duas you want in one go, each with its source.
+3. **The meaning in your language:** translate into over 60 languages. Translations made by AI are clearly marked.
+4. **Easy to read and share:** eight Arabic fonts, adjustable text size, light and dark themes, and copy or share any dua.
+5. **Private:** your duas stay on your device, with no account.
+6. **Works everywhere:** in the browser, on Android, Windows, macOS, Linux and iPhone. Linux, Chromebook and older Android files are on the [releases page](https://github.com/p32929/duas/releases/latest).
 
-Runs in the browser, on Android, Windows, macOS and iPhone. For **Linux**, older Android phones (armv7) and Chromebooks (x86_64), see all the files on the [releases page](https://github.com/p32929/duas/releases/latest).
+## Who it is for
+
+1. Muslims who want their daily duas and adhkar in one place.
+2. Anyone looking for a dua for a certain moment, like travel, worry or sleep.
+3. People who want to understand the meaning of what they recite.
+
+## Install
+
+Open it in your browser, or download it for your device from the releases page.

@@ -8,8 +8,8 @@ screenshots:
   - screenshots/thamao/4.png
   - screenshots/thamao/5.png
 category: Tools
-summary: A stolen phone meant lost data and often blackmail. Thamao let you find, lock and wipe a stolen phone by SMS, and check if a used phone was stolen
-tags: [Anti-theft, Security, Phone, SMS, IMEI, Bangladesh, Bangla, Android]
+summary: Free anti-theft app for Android phones in Bangladesh. Find, lock or wipe a stolen phone with one SMS, and check if a used phone was stolen by IMEI
+tags: [Anti-theft, Stolen phone, Find my phone, Phone tracker, IMEI check, Bangladesh, Bangla, Android]
 website: https://web.archive.org/web/20180814152442/https://thamao.com/
 
 platforms:
@@ -20,23 +20,29 @@ platforms:
 
 **চোরের উপর বাটপারি: স্মার্টফোন চুরি হলেও নিরাপত্তা দেবে থামাও।**
 
-**A stolen phone means losing your photos, messages and accounts, and sometimes blackmail. Thamao let you find it, lock it or wipe it with one SMS.**
+**Thamao was a free anti-theft app for Android in Bangladesh. If your phone was stolen, one SMS let you find it, lock it or wipe it. Before buying a used phone, you could check if it was stolen.**
 
 ## The problem
 
-When a phone is stolen, the thief also gets the owner's photos, messages and accounts, and blackmail often follows. And people buying a second-hand phone had no easy way to know if it was stolen.
+When a phone is stolen, the thief also gets your photos, messages and accounts, and blackmail often follows. And when buying a second-hand phone, there was no easy way to know if it was stolen.
 
 ## How Thamao solved it
 
-Thamao (থামাও, "stop it") was Bangladesh's first database-based, completely free smartphone anti-theft service. With one SMS from any number, you could find, lock or wipe your stolen phone. Before buying a used phone, you could check if it had been reported stolen.
+Thamao (থামাও, "stop it") was Bangladesh's first database-based, completely free phone anti-theft service.
 
-1. **Check a phone before you buy it.** Search a second-hand phone's IMEI to see if it was reported stolen, and who the real owner is.
-2. **One SMS is enough.** If your phone is stolen, send a code from any number to your own number. Mobile data turns on by itself and the phone's location comes back to you.
-3. **SIM change alert.** If someone puts a new SIM in your phone, a message goes to the number you trusted.
-4. **Thamao Lock.** A message with your code locks the phone so it can't be switched off with the power button.
-5. **Wipe your data.** Remove photos, messages, files and email from a stolen phone before the thief can use them.
-6. **Smart alerts.** A loud siren if someone takes the phone out of your pocket on a bus and doesn't unlock it in time, plus headphone and charging protection.
-7. **Bangla first,** with guides on what to do when a phone is stolen.
+1. **Find your stolen phone with one SMS.** Send a code from any number to your own number. Mobile data turns on by itself and the phone's location comes back to you.
+2. **Lock it.** A message with your code locks the phone, and it can't be switched off with the power button.
+3. **Wipe your data.** Remove photos, messages, files and email before the thief can use them.
+4. **SIM change alert.** If someone puts a new SIM in your phone, a message goes to the number you trusted.
+5. **Check a used phone by IMEI** before you buy it, to see if it was reported stolen and who the real owner is.
+6. **Anti-pickpocket alarm.** A loud siren if someone takes the phone from your pocket on a bus and doesn't unlock it in time, plus headphone and charging protection.
+7. **In Bangla,** with guides on what to do when a phone is stolen.
+
+## Who it was for
+
+1. Anyone in Bangladesh worried about phone theft.
+2. People buying a second-hand phone.
+3. Bus and street commuters, where pickpocketing is common.
 
 ## The story
 
@@ -46,4 +52,4 @@ We don't work together any more, but I'm proud of what came out of it. Somehow I
 
 ## Good to know
 
-The app's old website is saved on the Internet Archive (link above). The screenshots here are the app's own screenshots from 2018.
+The app's old website is saved on the Internet Archive (link above). The screenshots are the app's own screenshots from 2018.

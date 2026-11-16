@@ -10,20 +10,20 @@ screenshots:
   - screenshots/i-am-free/6.png
   - screenshots/i-am-free/7.png
 category: Business
-summary: Need someone for a small job, or looking for work in Bangladesh? Post or find jobs and gigs, apply, call and rate. বেকার মুক্ত বাংলাদেশ গড়ার লক্ষ্যে
-tags: [Jobs, Gigs, Freelance, Work, Bangladesh, Bangla, Android]
+summary: Job and gig app for Bangladesh. Find work, hire people for small jobs, offer your skills, apply, call and rate. বেকার মুক্ত বাংলাদেশ গড়ার লক্ষ্যে
+tags: [Jobs, Part-time jobs, Gigs, Freelance, Hiring, Bangladesh, Bangla, Android]
 
 platforms:
   Android:
     - version: "2.0.0"
       date: 2026-11-15
-      changelog: Rebuilt in Kotlin and Jetpack Compose as a showcase with sample posts, new design, light and dark mode, no ads
+      changelog: Rebuilt with a new design as a showcase with sample posts, new design, light and dark mode, no ads
       url: https://github.com/p32929/p32929_openstore/releases/tag/i-am-free
 ---
 
-> **An old app, revived as a showcase.** This app was first made around 2019 and its online service has since closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, using sample data instead of a server, so you can see how it worked. Anything you post stays on your phone. Please don't expect it to be actively maintained.
+> **An old app, revived as a showcase.** This app was first made around 2019 and its online service has since closed. In 2026 it was rebuilt for modern Android phones with a new design, using sample data instead of a server, so you can see how it worked. Anything you post stays on your phone. Please don't expect it to be actively maintained.
 
-**Need someone for a small job, or looking for work? I am FREE puts both sides in one place. বেকার মুক্ত বাংলাদেশ গড়ার লক্ষ্যে: towards an unemployment-free Bangladesh.**
+**I am FREE is a job and gig app for Bangladesh. Find work, hire someone for a small job, or offer your skills, all in one place. বেকার মুক্ত বাংলাদেশ গড়ার লক্ষ্যে: towards an unemployment-free Bangladesh.**
 
 ## The problem
 
@@ -31,14 +31,21 @@ In Bangladesh, lots of people need small jobs done: tuition, delivery, driving, 
 
 ## How I am FREE solves it
 
-It is one job and gig board for both sides. People who need help post a job, and people who want work post the skills they offer. Everyone can search by category and area, check ratings, and apply, call or send an SMS in one tap.
+It is one job board for both sides. People who need help post a job, and people who want work post the skills they offer. Everyone can search by category and area, check ratings, and apply, call or send an SMS in one tap.
 
-1. **Two sides:** "Hiring" (লোক চাই) for jobs, and "Available" (কাজ চাই) for people offering their skills.
-2. **54 sample posts** across 24 categories and all 8 divisions, with pay in Taka and deadlines.
-3. **Search and filter** by type, category, division and open posts, and sort by newest, deadline, pay or rating.
-4. **Post details** with the poster's profile, ratings and reviews. Apply, send a hire request, call or SMS, share, save or report.
-5. **My jobs:** your applications, your own posts with sample applicants, and saved posts.
-6. **Your profile** with skills, CV and portfolio links, plus a light, dark or system theme.
+1. **Hire or get hired:** "Hiring" (লোক চাই) for jobs, and "Available" (কাজ চাই) for people offering their skills.
+2. **24 job categories across all 8 divisions,** with pay in Taka and deadlines.
+3. **Search and filter** by category, division and open posts, and sort by newest, deadline, pay or rating.
+4. **Check before you hire** with each person's profile, ratings and reviews.
+5. **Apply, call or SMS in one tap,** or save a post for later.
+6. **Your profile** with skills, CV and portfolio links.
+7. **Light and dark mode.**
+
+## Who it is for
+
+1. Students and job seekers looking for part-time work, tuition or gigs.
+2. Freelancers who want to show their skills.
+3. Families and small businesses who need someone for a small job.
 
 ## The story
 
@@ -48,4 +55,4 @@ We don't work together any more, but I'm proud of what came out of it. Somehow I
 
 ## Install
 
-Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards. It needs no internet and no account.
+Download the APK from the download page and open it to install. This showcase works without internet or an account.
