@@ -29,13 +29,13 @@ platforms:
 
 ## The story
 
-This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+This was a personal project, not a group one. I was a huge fan of Tzuyu at the time, honestly a bit crazy about her, and I had just started learning Android development. It was her birthday, so I made this app for her.
 
-We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
+After that I kept reusing it. Whenever I wanted to wish someone a happy birthday, I made a new branch with their name, photos and wishes, built the app and sent it to them. They were always really happy with it, and they loved it.
 
 **A little birthday surprise, made for one special person.**
 
-BirthdayBot was made as a personal gift: open it, and it wishes happy birthday to one person, Tzuyu, with photos, kind words, balloons and the birthday song.
+BirthdayBot is a personal birthday gift: open it, and it wishes happy birthday to one person, Tzuyu, with photos, kind words, balloons and the birthday song.
 
 ## What it does
 
