@@ -18,7 +18,7 @@ platforms:
     - version: "2.0.0"
       date: 2026-11-16
       changelog: Rebuilt in Kotlin and Jetpack Compose, with topics, search, favourites, auto change, quality options, light and dark mode, no ads
-      url: https://github.com/p32929/p32929_openstore/releases/download/desplash-2.0.0/Desplash-2.0.0.apk
+      url: https://github.com/p32929/p32929_openstore/releases/tag/desplash-2.0.0
 ---
 
 > **An old app, revived.** This app was first made around 2019 and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Please don't expect it to be actively maintained.

@@ -22,20 +22,20 @@ platforms:
     - version: "2.0.0"
       date: 2026-11-12
       changelog: Add your own duas, search 4 dua collections, translate meanings, new design
-      url: https://github.com/p32929/duas/releases/download/v2.0.0/Duas-v2.0.0-android-arm64.apk
+      url: https://github.com/p32929/duas/releases/tag/v2.0.0
   Windows:
     - version: "2.0.0"
       date: 2026-11-12
-      url: https://github.com/p32929/duas/releases/download/v2.0.0/Duas-v2.0.0-windows-x64.zip
+      url: https://github.com/p32929/duas/releases/tag/v2.0.0
   MacOS:
     - version: "2.0.0"
       date: 2026-11-12
-      url: https://github.com/p32929/duas/releases/download/v2.0.0/Duas-v2.0.0-macos.zip
+      url: https://github.com/p32929/duas/releases/tag/v2.0.0
   iOS:
     - version: "2.0.0"
       date: 2026-11-12
       changelog: Unsigned, install with a sideloading tool such as AltStore or Sideloadly
-      url: https://github.com/p32929/duas/releases/download/v2.0.0/Duas-v2.0.0-ios-unsigned.ipa
+      url: https://github.com/p32929/duas/releases/tag/v2.0.0
 ---
 
 Many of us keep the duas we recite scattered across screenshots, notes and old messages. Finding the right one at the right moment, with its meaning and where it comes from, is harder than it should be.

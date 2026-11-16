@@ -18,11 +18,11 @@ platforms:
     - version: "2.0.0"
       date: 2026-11-15
       changelog: Rebuilt in Kotlin and Jetpack Compose, with timer ring, result screen with review, stats, categories, light and dark mode
-      url: https://github.com/p32929/p32929_openstore/releases/download/iqquiz-2.0.0/IQQuiz-2.0.0.apk
+      url: https://github.com/p32929/p32929_openstore/releases/tag/iqquiz-2.0.0
     - version: "1.0.0"
       date: 2019-10-14
       changelog: First release
-      url: https://github.com/p32929/p32929_openstore/releases/download/iqquiz-1.0.0/IQQuiz-1.0.0.5A.apk
+      url: https://github.com/p32929/p32929_openstore/releases/tag/iqquiz-1.0.0
 ---
 
 > **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures, videos or links may not work. Please don't expect it to be actively maintained.

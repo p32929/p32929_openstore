@@ -26,22 +26,22 @@ platforms:
     - version: "2.0.1"
       date: 2026-11-12
       changelog: New icon, much smaller download (15 MB instead of 59 MB), tested on every platform
-      url: https://github.com/p32929/quran_flutter/releases/download/v2.0.1/Quran-v2.0.1-android-arm64.apk
+      url: https://github.com/p32929/quran_flutter/releases/tag/v2.0.1
   Windows:
     - version: "2.0.1"
       date: 2026-11-12
       changelog: Sound now works on Windows; installer (a no-install zip is on the releases page)
-      url: https://github.com/p32929/quran_flutter/releases/download/v2.0.1/Quran-v2.0.1-windows-x64-setup.exe
+      url: https://github.com/p32929/quran_flutter/releases/tag/v2.0.1
   MacOS:
     - version: "2.0.1"
       date: 2026-11-12
       changelog: Tested on macOS
-      url: https://github.com/p32929/quran_flutter/releases/download/v2.0.1/Quran-v2.0.1-macos.zip
+      url: https://github.com/p32929/quran_flutter/releases/tag/v2.0.1
   iOS:
     - version: "2.0.1"
       date: 2026-11-12
       changelog: Unsigned, install with a sideloading tool such as AltStore or Sideloadly
-      url: https://github.com/p32929/quran_flutter/releases/download/v2.0.1/Quran-v2.0.1-ios-unsigned.ipa
+      url: https://github.com/p32929/quran_flutter/releases/tag/v2.0.1
 ---
 
 A simple, clean Quran app: free, with no ads and no account.

@@ -24,22 +24,22 @@ platforms:
     - version: "2.0.0"
       date: 2026-11-12
       changelog: New icon, works offline, small download (7 MB), now on every platform
-      url: https://github.com/p32929/mathfinity/releases/download/v2.0.0/MathFinity-v2.0.0-android-arm64.apk
+      url: https://github.com/p32929/mathfinity/releases/tag/v2.0.0
   Windows:
     - version: "2.0.0"
       date: 2026-11-12
       changelog: First Windows version
-      url: https://github.com/p32929/mathfinity/releases/download/v2.0.0/MathFinity-v2.0.0-windows-x64.zip
+      url: https://github.com/p32929/mathfinity/releases/tag/v2.0.0
   MacOS:
     - version: "2.0.0"
       date: 2026-11-12
       changelog: First macOS version
-      url: https://github.com/p32929/mathfinity/releases/download/v2.0.0/MathFinity-v2.0.0-macos.zip
+      url: https://github.com/p32929/mathfinity/releases/tag/v2.0.0
   iOS:
     - version: "2.0.0"
       date: 2026-11-12
       changelog: Unsigned, install with a sideloading tool such as AltStore or Sideloadly
-      url: https://github.com/p32929/mathfinity/releases/download/v2.0.0/MathFinity-v2.0.0-ios-unsigned.ipa
+      url: https://github.com/p32929/mathfinity/releases/tag/v2.0.0
 ---
 
 A quick math game you can play any time: free, with no ads and no account.

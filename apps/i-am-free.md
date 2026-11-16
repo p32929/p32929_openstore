@@ -18,7 +18,7 @@ platforms:
     - version: "2.0.0"
       date: 2026-11-15
       changelog: Rebuilt in Kotlin and Jetpack Compose as a showcase with sample posts, new design, light and dark mode, no ads
-      url: https://github.com/p32929/p32929_openstore/releases/download/i-am-free-2.0.0/I-am-FREE-2.0.0.apk
+      url: https://github.com/p32929/p32929_openstore/releases/tag/i-am-free-2.0.0
 ---
 
 > **An old app, revived as a showcase.** This app was first made around 2019 and its online service has since closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, using sample data instead of a server, so you can see how it worked. Anything you post stays on your phone. Please don't expect it to be actively maintained.

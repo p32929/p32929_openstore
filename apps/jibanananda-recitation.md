@@ -17,11 +17,11 @@ platforms:
     - version: "2.0.0"
       date: 2026-11-15
       changelog: Rebuilt in Kotlin and Jetpack Compose, with new player with speed and sleep timer, background playback, reading controls, light and dark mode
-      url: https://github.com/p32929/p32929_openstore/releases/download/jibanananda-recitation-2.0.0/Jibanananda-Recitation-2.0.0.apk
+      url: https://github.com/p32929/p32929_openstore/releases/tag/jibanananda-recitation-2.0.0
     - version: "1.0.0"
       date: 2019-10-03
       changelog: First release. 50+ poems with audio recitation
-      url: https://github.com/p32929/p32929_openstore/releases/download/jibanananda-recitation-1.0.0/Jibanananda-Recitation-1.0.0.11A.apk
+      url: https://github.com/p32929/p32929_openstore/releases/tag/jibanananda-recitation-1.0.0
 ---
 
 > **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures, videos or links may not work. Please don't expect it to be actively maintained.
