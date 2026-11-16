@@ -1,11 +1,14 @@
 ---
-title: Home
-icon: screenshots/home/icon.png
+title: Home - Clean New Tab
+icon: screenshots/home/icon-v1.png
 screenshots:
-  - screenshots/home/shot-1.png
+  - screenshots/home/v1-1.png
+  - screenshots/home/v1-2.png
+  - screenshots/home/v1-3.png
+  - screenshots/home/v1-4.png
 category: Productivity
-summary: Minimal new tab page extension for Chrome and Firefox. Put your own links on a clean, dark homepage and open any of them in one click
-tags: [New tab extension, Homepage extension, Chrome extension, Firefox add-on, Bookmarks, Speed dial, Start page, Open source]
+summary: Clean new tab page extension for Chrome and Edge. A clock, a search box and your favourite sites one click away, in light or dark mode
+tags: [New tab extension, Homepage extension, Chrome extension, Edge extension, Speed dial, Start page, Bookmarks, Open source]
 website: https://github.com/p32929/Home
 source: https://github.com/p32929/Home
 
@@ -13,14 +16,17 @@ platforms:
   Extension: https://github.com/p32929/Home/releases/latest
 ---
 
-Home is a minimal new tab and homepage extension for Chrome and Firefox. Instead of whatever your browser shows on a new tab, you get a clean, dark page with only the links you use every day, each with its own icon. Your favourite sites are one click away, without digging through bookmarks.
+Home is a clean new tab page extension for Chrome and Edge. Instead of a busy page full of news and suggestions, every new tab shows the time, a search box and the sites you actually use, each with its own icon. Your favourite sites are one click away, without digging through bookmarks.
 
-1. **Your own links:** add any website with the + button.
-2. **One click to open:** click to open a link in the same tab, or Ctrl + click to open it in a new tab.
-3. **Easy to change:** right-click a link to edit it, delete it, change its icon or copy the icon link.
-4. **Clean and simple,** with nothing else on the page.
-5. **Works in Chrome and Firefox.** Free.
+1. **Your sites, one click away:** add any site as a tile. Drag tiles to reorder them, or sort by name or by how often you use them.
+2. **Search or go:** type a search or a web address right on the new tab.
+3. **Save the page you are on:** click the toolbar button to add the current page in one click.
+4. **Light, dark or follow your system.**
+5. **Starter tiles:** an empty page offers Google, YouTube, Gmail and Wikipedia to add in one click.
+6. **Back up your links:** export them to a file and import them on another computer.
+7. **Private and fast:** your links stay only in your browser, nothing is sent anywhere, and the page opens instantly.
+8. **Free and open source.**
 
-Great for anyone who opens the same few sites all day and wants a tidy start page.
+Great for anyone who opens many tabs a day and wants a calm, tidy start page.
 
-Download `dist.zip` from the download page, unzip it, and load it in Chrome from `chrome://extensions` (turn on Developer mode, then Load unpacked) or in Firefox from `about:debugging`.
+To install, download `Home.zip` from the download page and unzip it. Open `chrome://extensions` (or `edge://extensions`), turn on Developer mode, click **Load unpacked** and pick the `Home` folder. To update later, unzip the new version over the same folder and your links stay.
