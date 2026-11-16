@@ -5,7 +5,7 @@ screenshots:
   - screenshots/obsidotion/shot-1.png
   - screenshots/obsidotion/shot-2.png
 category: Productivity
-summary: Obsidian Notion sync plugin. Upload your whole Obsidian vault to Notion, or download your Notion database into Obsidian. Works on every platform
+summary: Obsidian Notion sync plugin. Send your vault to a Notion database and pull Notion edits back, on desktop and mobile. Only touches pages it made
 tags: [Obsidian plugin, Notion, Obsidian to Notion, Notion sync, Notes sync, Markdown, Android, Open source]
 website: https://github.com/p32929/obsidotion
 source: https://github.com/p32929/obsidotion
@@ -14,13 +14,18 @@ platforms:
   Extension: https://github.com/p32929/obsidotion/releases/latest
 ---
 
-obsidotion is an Obsidian plugin that syncs your notes with Notion. If you write in Obsidian but share or read your notes in Notion, copying them over by hand gets old fast. With obsidotion you move everything across in one go, in either direction.
+obsidotion is an Obsidian plugin that syncs your notes with a Notion database. If you write in Obsidian but share or read your notes in Notion, copying them over by hand gets old fast. With two buttons you send your notes to Notion and bring changes made in Notion back.
 
-1. **Upload to Notion:** send your whole Obsidian vault to a Notion database.
-2. **Download from Notion:** bring the whole Notion database back into Obsidian.
-3. **Works everywhere Obsidian runs,** including Windows and Android.
-4. **Free.**
+1. **Upload to Notion:** sends new and changed notes to your Notion database. Unchanged notes are skipped, so it is quick.
+2. **Pull from Notion:** brings edits made in Notion back into your notes, and adds new Notion pages as notes. It asks once before changing anything.
+3. **Safe with your Notion:** it only updates or removes pages it made itself. Pages you created in Notion are never touched.
+4. **Keeps your note properties,** like tags and other frontmatter, as they are.
+5. **Long notes work too,** with headings, lists, checkboxes, quotes, code and tables.
+6. **Works everywhere Obsidian runs,** on Windows, Mac, Linux, Android and iPhone.
+7. **Free and open source.**
 
 Great for people who keep notes in Obsidian but also need them in Notion.
 
-Download `obsidotion-plugin.zip` from the download page, extract it into `your_vault/.obsidian/plugins/obsidotion`, then enable it in Obsidian. Uploading replaces what is already in Notion, and downloading replaces local files with the same name.
+Version 1.1.0 (2026) fixed a bug where uploading could remove pages you made in Notion, and added the pulling of new Notion pages. To set it up, you create a Notion integration and connect it to a database. The project page has the steps.
+
+Download `obsidotion-plugin.zip` from the download page. In your vault, make the folder `.obsidian/plugins/obsidotion`, put the 3 files from the zip in it, then turn the plugin on in Obsidian's Community plugins.
