@@ -1,24 +1,27 @@
 ---
 title: Sleepy - Addiction Controller
-icon: screenshots/sleepy/icon.png
+icon: screenshots/sleepy/icon-new.png
 screenshots:
-  - screenshots/sleepy/1.png
-  - screenshots/sleepy/2.png
-  - screenshots/sleepy/3.png
-  - screenshots/sleepy/4.png
+  - screenshots/sleepy/new-1.png
+  - screenshots/sleepy/new-2.png
+  - screenshots/sleepy/new-3.png
+  - screenshots/sleepy/new-4.png
+  - screenshots/sleepy/new-5.png
+  - screenshots/sleepy/new-6.png
+  - screenshots/sleepy/new-7.png
 category: Productivity
-summary: Cut down on your phone use. Set a timer, and Sleepy locks the phone until it ends, so you stay away from it. For Android
+summary: Really put your phone down. Pick a rest time and Sleepy sends you back to rest every time you reach for the phone. Easy one-tap uninstall
 tags: [Phone addiction, Digital wellbeing, Focus, Timer, Productivity, Android]
 
 platforms:
   Android:
-    - version: "1.0.2"
-      date: 2022-06-17
-      changelog: Latest version
+    - version: "2.0.0"
+      date: 2026-11-16
+      changelog: Rebuilt in Kotlin and Jetpack Compose with a gentle mode, a one-tap Uninstall button, quiet hours, stats, light and dark mode, no ads
       url: https://github.com/p32929/p32929_openstore/releases/tag/sleepy
 ---
 
-> **This app used to be on Google Play.** It was taken down when the developer account was closed, so this is the original APK.
+> **An old app, revived.** This app was first made around 2019 and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Please don't expect it to be actively maintained.
 
 ## The story
 
@@ -26,20 +29,28 @@ This was a group project, built with friends. I had a Google Play account, and w
 
 We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
 
-**A simple phone addiction controller that actually reduces your phone use.**
+**A phone addiction controller that actually helps you use your phone less.**
 
-Many apps only track how much you use your phone. Sleepy helps you use it less: you set a timer, and the phone stays locked until the timer ends.
+Many apps only track how much you use your phone. Sleepy helps you put it down: you pick a rest time, and until it ends, every time you reach for the phone Sleepy sends you back to rest.
 
 ## What it does
 
-1. **Locks the phone** while the timer runs, so you keep away from it.
-2. **You can still answer phone calls,** you just cannot unlock the phone.
-3. **Useful for parents** who want to help a child cut down on phone use.
+1. **Pick a rest time:** 15, 30 or 60 minutes, a custom length, or until a set time.
+2. **Two modes:** Gentle shows a calm full-screen "Time to rest" screen and needs no special permission. Lock locks the screen again every time you wake the phone.
+3. **Calls still work,** and restarting the phone always ends a session in an emergency.
+4. **Daily quiet hours,** a notification when your rest ends, and stats saved on your phone.
+5. **Light, dark or system theme.** No ads.
 
-## Good to know
+## Easy to uninstall
 
-Sleepy uses the Device Administrator permission to lock the phone. Because of how Android works, you must switch that permission off first before you can uninstall the app: go to Settings, Security, Device Administrators, choose Sleepy and disable it. In an emergency, restarting the phone lets you use it again.
+Lock mode uses Android's Device Administrator permission, and Android blocks uninstalling any app that has it. Earlier versions made people dig through Settings. Now it is one tap:
+
+1. Open Sleepy and tap **Uninstall Sleepy** (on the home screen, in Settings or in Help).
+2. Sleepy ends any running session, turns off its own lock permission, and opens Android's uninstall screen.
+3. Tap **OK**.
+
+You can also just turn the lock permission off with **Turn off** on the home screen. The home screen always shows whether it is on.
 
 ## Install
 
-Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards.
+Download the APK and open it. Android will ask you to allow installs from this source. You can turn that permission off again afterwards. If you have the old version installed, uninstall it first (Settings, Security, Device admin apps, Sleepy, Deactivate, then uninstall), because the new one is signed with a different key. Older versions are on the same download page.
