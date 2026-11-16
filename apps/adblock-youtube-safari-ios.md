@@ -6,7 +6,7 @@ screenshots:
   - screenshots/adblock-youtube-safari-ios/2.png
   - screenshots/adblock-youtube-safari-ios/3.png
 category: Utilities
-summary: Removes ads from YouTube videos, embedded videos on other websites and streams, in Safari on iPhone and iPad
+summary: Tired of ads cutting into YouTube videos on your iPhone? This Safari extension removes them, in videos, embeds on other sites and streams
 tags: [Client project, Ad blocker, YouTube, Safari, iOS, Privacy]
 
 platforms:
@@ -15,25 +15,23 @@ platforms:
 
 > **Client project.** I built this app for a client. It is not my personal app.
 
+**Ads keep cutting into YouTube videos on your iPhone. This Safari extension removes them.**
+
+## The problem
+
+You open a YouTube video in Safari on your iPhone or iPad and have to sit through an ad before it starts, then more ads in the middle, and banners on top. It breaks music, tutorials and lessons, and it is worse for kids who tap on things they shouldn't.
+
+## How Adblock for YT solves it
+
+It is a Safari extension. Once it is turned on, it blocks YouTube ads in Safari, so videos just play.
+
+1. **Blocks pre-roll, mid-roll and banner ads** on YouTube videos.
+2. **Works on embedded YouTube videos** on other websites and on streams too.
+3. **Easy to set up,** with a simple screen to turn it on.
+4. **Keeps your browsing private and safe.**
+
+
+
 ## The story
 
 This was a client project, and building it was a small adventure. I didn't have a Mac, so I borrowed my cousin's MacBook over TeamViewer: I worked from Bangladesh while the computer sat in the UAE. There were no AI helpers back then. Apple had just started allowing extensions in Safari on iPhone, so it was all brand new and there was very little to learn from. I failed again and again before it finally worked. It was a real roller coaster, and one of the most fascinating projects I have done.
-
-🚫 AdBlock for YouTube – Enjoy Ad-Free Videos! 🎥✨
-
-📱 Watch YouTube Without Distractions!
-AdBlock for YouTube is a must-have app for anyone who wants to remove ads and enjoy uninterrupted video streaming on YouTube. Say goodbye to annoying pop-ups and pre-roll ads, and focus on what really matters—your content! 📺🔥
-
-🌟 Top Features
-🔹 Ad-Free Video Playback 🎬 – No more interruptions while watching your favorite videos.
-🔹 Smooth & Fast Performance ⚡ – Improves your YouTube experience with seamless ad-blocking.
-🔹 Blocks All Types of Ads 🚫 – Including pre-roll, mid-roll, and banner ads.
-🔹 Easy to Use 🎯 – Simple setup and intuitive interface for a hassle-free experience.
-🔹 Privacy Protection 🔒 – Keeps your browsing safe and secure.
-
-💡 Perfect For:
-✔️ Content Lovers 🎵 – Enjoy music, tutorials, and entertainment without disruptions.
-✔️ Students & Professionals 📚 – Focus on educational content and presentations without distractions.
-✔️ Families & Kids 🏡 – Create a cleaner viewing environment for all ages.
-
-🌟 Take control of your YouTube experience and enjoy videos the way they’re meant to be—ad-free! 🚀🎥🚫

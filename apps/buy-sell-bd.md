@@ -10,7 +10,7 @@ screenshots:
   - screenshots/buy-sell-bd/6.png
   - screenshots/buy-sell-bd/7.png
 category: Shopping
-summary: A free classifieds marketplace for Bangladesh. Browse phones, cars, bikes, flats and more by category and division, post ads and call the seller in one tap
+summary: Selling something in Bangladesh shouldn't need an account and a long form. Post an ad free, no signup, and buyers call you in one tap
 tags: [Classifieds, Marketplace, Buy and sell, Bangladesh, Bangla, Android]
 
 platforms:
@@ -23,17 +23,15 @@ platforms:
 
 > **An old app, revived as a showcase.** This app was first made around 2019 and its online service has since closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, using sample data instead of a server, so you can see how it worked. Anything you post stays on your phone. Please don't expect it to be actively maintained.
 
-## The story
+**Selling your old phone or bike in Bangladesh shouldn't need an account and a long form. Buy Sell BD makes it quick.**
 
-This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+## The problem
 
-We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
+When you want to sell something you no longer need, or buy something used, the big marketplaces like Bikroy.com ask you to register, fill in long forms and wait. Buyers then have to dig through ads from all over the country to find something near them.
 
-**Buy and sell anything in Bangladesh, the easy way.**
+## How Buy Sell BD solves it
 
-Buy Sell BD was made as a simpler, more reliable alternative to Bikroy.com: a free marketplace for new and used goods, with no registration needed to post.
-
-## What it does
+It is a free marketplace where anyone can post an ad without signing up, and buyers can filter by their division and call the seller with one tap. It was made as a simpler, more reliable alternative to Bikroy.com.
 
 1. **Browse 52 sample ads** in 10 categories: mobiles, electronics, computers, cars, motorbikes, property, home, fashion, hobbies and pets.
 2. **Filter by division** (Dhaka, Chittagong, Sylhet, Khulna, Rajshahi, Rangpur, Barisal, Mymensingh), by new or used, and sort by newest or price.
@@ -43,6 +41,12 @@ Buy Sell BD was made as a simpler, more reliable alternative to Bikroy.com: a fr
 6. **Light, dark or system theme.**
 
 Sample photos are from Wikimedia Commons; credits are inside the app.
+
+## The story
+
+This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+
+We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
 
 ## Install
 

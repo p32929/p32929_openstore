@@ -8,7 +8,7 @@ screenshots:
   - screenshots/notes-offline/4.png
   - screenshots/notes-offline/5.png
 category: Productivity
-summary: A fast, clean note app that works offline in your browser. Tabs for your notes, rich text, search and keyboard shortcuts. No account, no ads
+summary: Built-in note apps are bad and browser ones are full of ads. A clean note app in your browser that works offline, with tabs, rich text and search. No account
 tags: [Notes, Offline, PWA, Rich text, Keyboard shortcuts, React, Open source]
 website: https://p32929.github.io/notes/
 source: https://github.com/p32929/notes
@@ -18,13 +18,15 @@ platforms:
   Web: https://p32929.github.io/notes/
 ---
 
-**A simple note app that lives in your browser, works offline, and stays out of your way.**
+**Need to jot something down fast? A clean note app in your browser that works offline, with no ads and no account.**
 
-I made this after I saw one of my mentors jotting down quick notes in an offline note app in the browser. The note app that came with his computer was bad, so he used a browser one instead. That one was full of ads and other junk, but he kept using it anyway. So I thought: why not make a better one?
+## The problem
 
-It started as a very small note app. Over time I added tabs and more features, and I still plan to make it better.
+I saw one of my mentors jotting down quick notes in an offline note app in the browser. The note app that came with his computer was bad, so he used a browser one instead. That one was full of ads and other junk, but he kept using it anyway. So I thought: why not make a better one?
 
-## What you can do
+## How 9Notes solves it
+
+9Notes opens in your browser, works with no internet, and has nothing in your way: no ads, no account and no sign-up. It started as a very small note app. Over time I added tabs and more features, and I still plan to make it better.
 
 1. Keep each note in its own tab on the left, and drag them to put them in the order you like.
 2. Write with a rich text editor: headings, bold, italic, strikethrough, lists, quotes, code and code blocks.

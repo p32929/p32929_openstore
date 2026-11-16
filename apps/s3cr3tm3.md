@@ -10,7 +10,7 @@ screenshots:
   - screenshots/s3cr3tm3/phone-1.png
   - screenshots/s3cr3tm3/phone-2.png
 category: Communication
-summary: Write a private note, send someone the link, and they read it once and delete it. No account, free, made for my own freelance work
+summary: Need to pass a client private info without it sitting in a chat forever? Write a note, send the link, they read it and delete it. No account, free
 tags: [Secret Messages, Private Notes, Share Link, Freelance, No Sign-up]
 website: https://s3cr3tm3.netlify.app/
 
@@ -18,11 +18,20 @@ platforms:
   Web: https://s3cr3tm3.netlify.app/
 ---
 
-I built this for myself when I worked as a freelancer. On sites like Fiverr and Upwork, you and your client are meant to talk inside the app, and I wanted an easy way for me and my client to share information back and forth, especially contact information. One of us writes a message, sends the link, and the other opens it, reads it and deletes it.
+**Need to share a bit of private info without leaving it lying around? Write a note, send the link, and delete it once it's read.**
 
-**So I made the simplest thing that works.** You type a message (up to 1000 characters) and press **Save**. You get a link. Send it to the other person. They open it, read the message, and press **Delete** when they're done. Either of you can delete it, from any device.
+## The problem
 
-There's nothing to sign up for, nothing to install, and it's free. The page is one box and two buttons, so it takes a few seconds to use.
+I built this for myself when I worked as a freelancer. On sites like Fiverr and Upwork, you and your client are meant to talk inside the app, and I wanted an easy way for me and my client to share information back and forth, especially contact information, without it staying where other people could see it.
+
+## How s3cr3tm3 solves it
+
+So I made the simplest thing that works. One of you writes a message and sends the link. The other opens it, reads it and deletes it.
+
+1. **Write** a message (up to 1000 characters) and press **Save**. You get a link.
+2. **Send** the link to the other person.
+3. **They read it** and press **Delete** when they're done. Either of you can delete it, from any device.
+4. **Nothing to sign up for,** nothing to install, and it's free. The page is one box and two buttons, so it takes a few seconds to use.
 
 **What it's for.** My goal was simple: other people shouldn't be able to see what my client and I shared. Each message gets a long, random link that nobody can guess, and most people aren't hackers, so for me that was good enough.
 

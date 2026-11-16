@@ -8,7 +8,7 @@ screenshots:
   - screenshots/al-quran/4.png
   - screenshots/al-quran/5.png
 category: Books & Reference
-summary: The most comprehensive Muslim app. Read, listen and memorize the Quran with translations, tafsir, many reciters and offline audio
+summary: Want to read, understand and memorize the Quran in one place? Read with translations and tafsir, listen to famous reciters, and loop ayat to memorize
 tags: [Client project, Quran, Islam, Recitation, Memorization, Translation, iOS]
 
 platforms:
@@ -17,27 +17,28 @@ platforms:
 
 > **Client project.** I built this app for a client. It is not my personal app.
 
+**Reading, understanding and memorizing the Quran usually takes several apps. This one does it all in one place.**
+
+## The problem
+
+To read the Quran properly you want the Arabic text, a translation and tafsir. To memorize, you want to hear a good reciter and repeat the same verses again and again. Usually that means jumping between a book, a translation app and audio files, and nothing works when you are offline.
+
+## How Al Quran by Quran Touch solves it
+
+It puts the text, the meaning and the recitation together, and helps you memorize by looping verses.
+
+1. **The full Quran** in clear Uthmani Arabic script.
+2. **Audio recitation** by many reciters, including Al-Sudais and Al-Afasy.
+3. **Translations in many languages and tafsir** to understand what you read.
+4. **Memorization mode** repeats and loops verses for you.
+5. **Bookmarks and notes** for the verses you want to come back to.
+6. **Offline audio.** Download surahs and listen anywhere.
+7. **Night mode** for reading in the dark.
+
+It works for beginners and advanced learners alike.
+
+
+
 ## The story
 
 This was also a client project. One of my mentors wanted me to work with him, but I was busy with something else and couldn't say yes. He knew I had always wanted to build a Quran app, so he used that as the bait, and it worked: I agreed, and we started working together again. A Quran app was exactly what I wanted to make, so it was a happy reason to say yes.
-
-**📖 Al Quran by Quran Touch – Your Complete Digital Quran Companion! 🌙✨**
-
-## 📱 Read, Listen, and Memorize the Quran Anytime, Anywhere!
-Al Quran by Quran Touch is a beautifully designed mobile app that offers an immersive Quran reading experience with a focus on recitation, translation, and memorization. Ideal for both beginners and advanced learners. 📜🎧
-
-## 🌟 Top Features
-- Full Quran Text 🕌 – Easy-to-read Arabic script with clear Uthmani text.
-- Audio Recitation 🎧 – Listen to multiple reciters, including famous Qaris like Al-Sudais and Al-Afasy.
-- Translations & Tafsir 🌐 – Access translations in multiple languages and tafsir for a deeper understanding.
-- Memorization Mode 🧠 – Repeat and loop verses to help you memorize easily.
-- Bookmark & Notes 📌 – Mark your favorite verses and add personal notes for reflection.
-- Offline Access 🔋 – Download surahs and listen offline wherever you go.
-- Night Mode 🌙 – Comfortable reading experience at night.
-
-## 💡 Perfect For:
-- Students of the Quran 📚 – Learn and memorize verses step by step.
-- Everyday Reading 📖 – Enhance your spiritual connection with the Quran.
-- Global Muslim Community 🌍 – Available in multiple languages for easy access and understanding.
-
-🌟 Carry the Quran with you everywhere and strengthen your faith with Al Quran by Quran Touch! 🙏📖✨

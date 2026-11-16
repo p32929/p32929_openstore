@@ -10,7 +10,7 @@ screenshots:
   - screenshots/desplash/6.png
   - screenshots/desplash/7.png
 category: Personalization
-summary: Beautiful free wallpapers from Unsplash. Browse by topic, search, save favourites, and let the wallpaper change by itself on a timer or every lock
+summary: Bored of the same wallpaper? Get free high quality Unsplash photos by topic or search, and let the wallpaper change by itself on a timer or every lock
 tags: [Wallpapers, Unsplash, Photos, Personalization, Android]
 
 platforms:
@@ -23,17 +23,15 @@ platforms:
 
 > **An old app, revived.** This app was first made around 2019 and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Please don't expect it to be actively maintained.
 
-## The story
+**Tired of the same wallpaper? Desplash gives you a fresh, high quality one whenever you like, by itself.**
 
-This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+## The problem
 
-We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
+You look at your phone's wallpaper many times a day, and the same picture gets boring fast. Finding a good, high quality photo, downloading it and setting it again and again takes effort, so most people never change it.
 
-**Beautiful, free, high quality wallpapers, gifted by the photographers of Unsplash.com.**
+## How Desplash solves it
 
-Desplash was featured on XDA Developers in 2018. It gives you a new wallpaper whenever you like, with proper credit to every photographer.
-
-## What it does
+Desplash brings you free, high quality photos from the photographers of Unsplash.com, with proper credit to each one. Pick one in a tap, or let the app change your wallpaper by itself. It was featured on XDA Developers in 2018.
 
 1. **Explore** featured photos or topics like nature, mountains, ocean and space, or **search** any word.
 2. **Preview** a photo, see who took it, and open it on Unsplash.
@@ -41,6 +39,12 @@ Desplash was featured on XDA Developers in 2018. It gives you a new wallpaper wh
 4. **Auto change:** a fresh wallpaper on a timer (every 15 minutes to daily) or every time you lock the phone.
 5. **Favourites** and **photo quality** choices (original, balanced or data saver).
 6. **Light, dark or system theme.**
+
+## The story
+
+This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+
+We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
 
 ## Install
 

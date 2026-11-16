@@ -10,7 +10,7 @@ screenshots:
   - screenshots/lantern/6.png
   - screenshots/lantern/7.png
 category: Developer Tools
-summary: One web page to watch and control everything on your Linux box. Status, CPU, logs, one-click buttons and a terminal. Two files, no install
+summary: Checking a home server means SSH and remembered commands. One web page to see and control everything on your Linux box, with logs, buttons and a terminal
 tags: [Self-hosted, Linux, Server, Monitoring, Dashboard, Terminal, Logs, Homelab, Open source]
 website: https://github.com/p32929/lantern
 source: https://github.com/p32929/lantern
@@ -19,15 +19,15 @@ platforms:
   Web: https://github.com/p32929/lantern
 ---
 
-**One page to watch and control everything running on your Linux box.**
+**Checking on your home server means SSH, remembered commands and hunting for logs. Lantern puts it all on one web page.**
 
-Lantern is two files: a bash script and an HTML page. There is nothing to install, no database and no Docker. Run the script, open the address on your phone or laptop, and you can see and fix everything on that machine.
+## The problem
 
-## Why I made it
+I have a small server at home (an old laptop, a Raspberry Pi, a mini PC) running a handful of things: a few containers, a couple of services, a script or two. To check on them I had to SSH in, try to remember the service name, read logs with one command, restart with another, and forget which port it used. None of that works well from a phone.
 
-I have a small server at home (an old laptop, a Raspberry Pi, a mini PC) running a handful of things: a few containers, a couple of services, a script or two. To check on them I had to SSH in, try to remember the service name, read logs with one command, restart with another, and forget which port it used. I wanted all of that on one page I can open from my phone.
+## How Lantern solves it
 
-## What it does
+Lantern puts everything on one page you can open from your phone or laptop. Lantern is two files: a bash script and an HTML page. There is nothing to install, no database and no Docker. Run the script, open the address, and you can see and fix everything on that machine.
 
 1. **See everything at a glance.** Each service is a row: green or red, its link, and how much CPU and memory it uses. The top shows the machine itself: CPU, memory, disk, uptime, Wi-Fi and battery.
 2. **Fix things in one click.** Put a Restart, Deploy or any other button right on the row. Click it, a spinner turns, and you get "done" or the error.

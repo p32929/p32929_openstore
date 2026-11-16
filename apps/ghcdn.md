@@ -4,7 +4,7 @@ icon: screenshots/ghcdn/icon.png
 screenshots:
   - screenshots/ghcdn/1.png
 category: Developer Tools
-summary: Paste a GitHub file or Gist link and get a CDN link for a script, a stylesheet or fetch(). A jsDelivr-style tool you can host yourself
+summary: Browsers won't run a script or stylesheet straight from a GitHub link. Paste the file or Gist link and get a CDN link that works. Host it yourself
 tags: [CDN, GitHub, Gist, Self-hosted, jsDelivr Alternative, Next.js, Developer Tools]
 website: https://ghcdn.vercel.app/
 source: https://github.com/p32929/ghcdn
@@ -14,9 +14,15 @@ platforms:
   Web: https://ghcdn.vercel.app/
 ---
 
-**Turn a GitHub file or a Gist into a link you can use straight in your web page.**
+**Your file is on GitHub, but your web page can't load it. ghcdn gives you a link that works.**
 
-GitHub shows your files on its own pages, which a browser won't run as a script or a stylesheet. ghcdn fixes that. Paste the address of a file in a GitHub repository, or of a Gist, press **Generate CDN URL**, and you get a link that works in a `<script>`, a `<link>` or a `fetch()`.
+## The problem
+
+You keep a script, a stylesheet or a JSON file in a GitHub repo or a Gist, and you want to use it on a web page. But GitHub shows files on its own pages, and a browser won't run those as a script or a stylesheet. Public CDNs like jsDelivr help, but you can't run your own copy of them.
+
+## How ghcdn solves it
+
+Paste the address of a file in a GitHub repository, or of a Gist, press **Generate CDN URL**, and you get a link that works in a `<script>`, a `<link>` or a `fetch()`. You can host ghcdn yourself.
 
 ## How to use it
 
@@ -25,16 +31,17 @@ GitHub shows your files on its own pages, which a browser won't run as a script 
 3. Copy the link and drop it into your page.
 
 It's useful for things like:
-- loading a JavaScript file or a CSS stylesheet from one of your repos,
-- reading a JSON settings file with `fetch()`,
-- showing a Gist's code on a page,
-- serving plain text or documentation from a repo.
+
+1. Loading a JavaScript file or a CSS stylesheet from one of your repos.
+2. Reading a JSON settings file with `fetch()`.
+3. Showing a Gist's code on a page.
+4. Serving plain text or documentation from a repo.
 
 ## What it does for you
 
-- Serves files from GitHub repositories and Gists through a normal web link.
-- Keeps recently used files in memory, so repeat requests are faster.
-- Lets you clear (purge) the saved copy when a file changes.
+1. Serves files from GitHub repositories and Gists through a normal web link.
+2. Keeps recently used files in memory, so repeat requests are faster.
+3. Lets you clear (purge) the saved copy when a file changes.
 
 ## Host it yourself
 
@@ -42,9 +49,9 @@ It's the same idea as jsDelivr, but you can run your own copy. It's a small Next
 
 ## Good to know
 
-- It isn't made for large files, apps or pictures. Use a proper image host for those.
-- Without a GitHub token, it's limited by GitHub's request limits.
-- Private repositories aren't supported unless you give it a token.
-- If a file changes often, you may need to purge the saved copy.
+1. It isn't made for large files, apps or pictures. Use a proper image host for those.
+2. Without a GitHub token, it's limited by GitHub's request limits.
+3. Private repositories aren't supported unless you give it a token.
+4. If a file changes often, you may need to purge the saved copy.
 
 It's free and open source (MIT).

@@ -9,7 +9,7 @@ screenshots:
   - screenshots/hopper/5.png
   - screenshots/hopper/6.png
 category: Developer Tools
-summary: A self-hosted web file manager with no dependencies. Browse, upload, download, preview and organise files on any machine from any browser, phone included
+summary: Moving files to or from a machine without FTP or a cloud drive is a chore. Run one command and browse, upload, download and preview its files from any browser
 tags: [File manager, Self-hosted, Node.js, Upload, Download, Zero dependencies, Password, Open source]
 website: https://github.com/p32929/hopper
 source: https://github.com/p32929/hopper
@@ -19,15 +19,15 @@ platforms:
   Web: https://github.com/p32929/hopper
 ---
 
-**Run one command on a machine, and manage its files from any browser.**
+**Need to get files on or off a machine without setting up FTP or a cloud drive? Run one command and manage its files from any browser.**
 
-Hopper is a small file manager that lives on a computer or server. Start it with Node.js, open its address on your laptop or phone, and you can look through folders, move files in and out, and tidy things up. There is nothing to install: no packages, no database, just `node server.js`.
+## The problem
 
-## Why I made it
+Moving files to and from a computer or server is often a chore. You have to set up FTP or SFTP, install a client, or upload everything to a cloud drive first. On a phone it is even harder. I just wanted a quick way to move files to and from a machine.
 
-I wanted a quick way to move files to and from a machine without setting up FTP, SFTP or a full cloud drive. It started as a tiny upload page and grew into a proper file manager that also works well on a phone.
+## How Hopper solves it
 
-## What you can do
+Hopper is a small file manager that runs on the machine itself. Start it with `node server.js`, open its address on your laptop or phone, and you can look through folders, move files in and out, and tidy things up. There is nothing to install: no packages and no database. It started as a tiny upload page and grew into a proper file manager that also works well on a phone.
 
 1. Browse folders in a list or a grid, sort them, and filter by name. Hidden files are shown faded when you turn them on.
 2. Upload files or whole folders by button or drag and drop. Big files go up in pieces and carry on after a network hiccup. You see the speed, the time left, and can cancel.

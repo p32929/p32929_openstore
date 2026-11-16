@@ -8,7 +8,7 @@ screenshots:
   - screenshots/breakingmars/4.png
   - screenshots/breakingmars/5.png
 category: Business
-summary: A LinkedIn automation tool that helped people connect faster and win more leads, clients and sales
+summary: Finding and following up with clients on LinkedIn eats hours. Breaking Mars automated invites and follow-ups to win more leads and sales
 tags: [LinkedIn, Lead generation, Sales, Automation, B2B, Social selling]
 
 platforms:
@@ -17,7 +17,11 @@ platforms:
 
 > **Company project.** This is not a personal project. I worked on it at a company, and the product was owned and run by that company.
 
+## The problem
+
 Everyone knows LinkedIn is full of future clients. The hard part is reaching them: finding the right people, sending the invites, following up again and again, week after week, while real work waits.
+
+## How Breaking Mars solved it
 
 **Breaking Mars was a LinkedIn automation tool that made connecting easier and brought in more leads, clients and sales.** You picked one of eight campaign strategies, chose your audience by company, country, gender and more (or imported a CSV, or pasted a LinkedIn search link), and it viewed profiles, liked posts, endorsed skills, sent connection invites and followed up with messages. Sequences could mix LinkedIn messages, InMails, emails and Twitter DMs, and a dashboard showed your connections, replies and conversion at a glance.
 

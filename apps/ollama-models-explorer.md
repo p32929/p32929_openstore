@@ -14,7 +14,7 @@ screenshots:
   - screenshots/ollama-models-explorer/10.png
   - screenshots/ollama-models-explorer/11.png
 category: Developer Tools
-summary: Find the right Ollama model. Search 17,000+ models, see which run on your computer and how fast, compare them, and copy the install command
+summary: Not sure which Ollama model your computer can run? Search 17,000+ models, see which fit your computer and how fast, compare them, and copy the install command
 tags: [Ollama, AI models, LLM, Model browser, Compare, Search, Mobile friendly, Next.js, Dark mode]
 website: https://ollama-models-explorer.vercel.app/
 source: https://github.com/p32929/ollama_models_explorer
@@ -23,11 +23,15 @@ platforms:
   Web: https://ollama-models-explorer.vercel.app/
 ---
 
-**Find the right Ollama model for your computer.**
+**Not sure which AI model your computer can run? This app tells you, for every model on Ollama.**
 
-Ollama's own website does not show what you need to choose a model when you do not have high-end hardware. This app was built to fix that. It lists every model, says which ones can run on your computer and how fast, and lets you narrow 17,000+ models down to the few worth trying.
+## The problem
 
-## What it does
+Ollama has more than 17,000 models, and its own website does not show what you need to choose one when you do not have high-end hardware. You can't tell if a model fits your computer or how fast it will be until you download it and try.
+
+## How Ollama Models Explorer solves it
+
+It lists every model, works out your computer by itself, says which models can run on it and how fast, and lets you narrow 17,000+ models down to the few worth trying.
 
 1. **Every model on Ollama.** The 270 official models, plus more than 17,000 community models uploaded by other people (named `user/model`). Switch between **All**, **Official** and **Community**.
 2. **Will it run on my computer, and how fast?** The page works out your graphics card or Apple chip by itself, so you type nothing. Each model is marked **Can run well**, **Barely fits**, **Too big to run** or **Cloud**, with an estimate of **tokens per second** (about three quarters of a word each). If the guess is off, one tap picks the closest computer. One switch hides every model that cannot run, and you can sort or filter by speed.

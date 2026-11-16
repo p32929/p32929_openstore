@@ -10,7 +10,7 @@ screenshots:
   - screenshots/animal-lover/new-6.png
   - screenshots/animal-lover/new-7.png
 category: Education
-summary: Learn about 580+ animals in 25 classes, with pictures, maps, facts and a video for each. Save favourites, works offline. No ads
+summary: Want to learn about an animal but facts are scattered across sites? 580+ animals with pictures, maps, facts and a video each, in one offline app. No ads
 tags: [Animals, Wildlife, Learning, Android]
 source: https://github.com/richinfotech/rich_android_apps
 
@@ -24,15 +24,15 @@ platforms:
 
 > **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures, videos or links may not work. Please don't expect it to be actively maintained.
 
-## The story
+**Facts about an animal are scattered across many websites. Animal Lover puts 580+ animals in one place, with pictures, maps and videos.**
 
-A friend of mine made this one. He didn't study computer science, but he works in software now, writing C#, and I'm really happy for him. It was a group project: I had a Google Play account, and we published whatever we could build together. Most of us hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+## The problem
 
-We don't work together any more, but somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
+When you or your kids want to learn about an animal, you end up searching many websites: one for a picture, one for where it lives, one for facts, and YouTube for a video. Many of those pages are full of ads and need the internet every time.
 
-**Learn about more than 580 animals, with pictures, maps, facts and videos.**
+## How Animal Lover solves it
 
-## What it does
+It gives every animal one tidy page with everything together, and it keeps working offline.
 
 1. **Explore** all animals or pick one of 25 classes from the chips under the search bar.
 2. **Search** any animal by name.
@@ -42,6 +42,12 @@ We don't work together any more, but somehow I made them curious about programmi
 6. **Share** an animal's picture, text and video link.
 7. **Works offline** after the first load.
 8. **Light, dark or system theme,** your choice.
+
+## The story
+
+A friend of mine made this one. He didn't study computer science, but he works in software now, writing C#, and I'm really happy for him. It was a group project: I had a Google Play account, and we published whatever we could build together. Most of us hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+
+We don't work together any more, but somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
 
 ## Install
 

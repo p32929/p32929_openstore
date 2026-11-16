@@ -10,7 +10,7 @@ screenshots:
   - screenshots/github-trending-repos/phone-1.png
   - screenshots/github-trending-repos/phone-2.png
 category: Developer Tools
-summary: GitHub's daily trending repositories for many languages, all on one page instead of one tab per language. Sort by stars, today's stars or forks
+summary: GitHub trending shows one language at a time, so you open a tab for each. This puts 29 languages on one page, sorted by stars, today's stars or forks
 tags: [GitHub, Trending, Open Source, Repositories, Developers, Next.js]
 website: https://ghtr.fly.dev/
 source: https://github.com/p32929/github-trending-repos
@@ -20,17 +20,21 @@ platforms:
   Web: https://ghtr.fly.dev/
 ---
 
-A simple site that shows GitHub's daily trending repositories for the languages I care about, all on one page instead of one tab per language.
+**See what's trending on GitHub in all your languages at once, on one page.**
 
-GitHub's own trending page shows one language at a time. If you follow several, that means opening a tab for each and flipping between them. This puts them together in one table: open the page and it collects the day's trending repositories for every language at once, with a progress bar while it works.
+## The problem
 
-## What you see
+GitHub's own trending page shows one language at a time. If you follow several languages, you have to open a tab for each one and flip between them, and the same repo shows up again and again.
 
-- One table with the **language**, the **repository** (click to open it on GitHub), its **stars**, the **stars it gained today**, and its **forks**.
-- Repositories that trend in more than one list are shown once, and the page tells you how many duplicates it removed.
-- Click **Stars**, **Today** or **Forks** to sort. It starts sorted by what's gaining the most stars today.
-- A **Refresh** button fetches the latest list, and the page shows when it was last updated.
-- It covers 29 languages, from Python, JavaScript, TypeScript, Rust and Go to Dart, Kotlin, Swift, Zig and more, plus GitHub's overall trending list.
+## How it solves it
+
+Open the page and it collects the day's trending repositories for every language at once, with a progress bar while it works, and puts them together in one table.
+
+1. **One table** with the **language**, the **repository** (click to open it on GitHub), its **stars**, the **stars it gained today**, and its **forks**.
+2. **No repeats.** Repositories that trend in more than one list are shown once, and the page tells you how many duplicates it removed.
+3. **Sort** by **Stars**, **Today** or **Forks**. It starts sorted by what's gaining the most stars today.
+4. **Refresh** fetches the latest list, and the page shows when it was last updated.
+5. **29 languages,** from Python, JavaScript, TypeScript, Rust and Go to Dart, Kotlin, Swift, Zig and more, plus GitHub's overall trending list.
 
 It's free, needs no sign-up, and works on a phone, a tablet and a computer.
 

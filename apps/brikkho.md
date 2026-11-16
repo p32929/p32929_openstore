@@ -10,7 +10,7 @@ screenshots:
   - screenshots/brikkho/new-6.png
   - screenshots/brikkho/new-7.png
 category: Education
-summary: A pocket field guide to trees, flowers, medicinal plants and spices in Bengali. Search, read about each plant, save favourites. Works offline, no ads
+summary: See a tree or plant and don't know its name or use? A Bengali pocket guide to 49 trees, flowers, medicinal plants and spices. Works offline, no ads
 tags: [Trees, Plants, Flowers, Nature, Bangla, Offline, Android]
 
 platforms:
@@ -23,15 +23,15 @@ platforms:
 
 > **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures or links may not work. Please don't expect it to be actively maintained.
 
-## The story
+**You see a tree or plant every day but don't know its name or what it is good for. Brikkho (বৃক্ষ) tells you, in Bengali.**
 
-This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+## The problem
 
-We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
+Most plant guides are in English and use names people in Bangladesh don't know. If you want to know a tree's Bengali name, its scientific name, or which plants are medicinal or used as spices, the answers are spread across books and websites, and often need the internet.
 
-**Know your trees. Brikkho (বৃক্ষ) is made for people who love trees and plants.**
+## How Brikkho solves it
 
-## What it does
+It is a small field guide on your phone, written in Bengali, that you can search by any name and use offline.
 
 1. **49 plants** with Bengali descriptions: trees, flowers, medicinal plants, spices, fruit, vegetables and more.
 2. **Category tiles** and a **plant of the day.**
@@ -40,6 +40,12 @@ We don't work together any more, but I'm proud of what came out of it. Somehow I
 5. **Favourites** saved on your phone.
 6. **Works offline** from the first start; new plants are added when the online list grows.
 7. **Light, dark or system theme.**
+
+## The story
+
+This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+
+We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
 
 ## Install
 

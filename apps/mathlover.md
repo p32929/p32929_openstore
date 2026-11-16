@@ -10,7 +10,7 @@ screenshots:
   - screenshots/mathlover/6.png
   - screenshots/mathlover/7.png
 category: Education
-summary: A simple, endless maths game for everyone. Classic, time attack, survival and practice modes, with stats and best scores. Works offline
+summary: Maths needs practice, but sums on paper get boring fast. An endless maths game with four modes, a clock on every sum and stats per sign. Works offline
 tags: [Math, Game, Brain training, Kids, Offline, Android]
 
 platforms:
@@ -23,15 +23,15 @@ platforms:
 
 > **An old app, revived.** This app was first made around 2019 and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Please don't expect it to be actively maintained.
 
-## The story
+**Want maths practice that doesn't feel like homework? MathLover is an endless maths game for everyone.**
 
-This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+## The problem
 
-We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
+You only get better at maths with lots of practice, but doing the same sums on paper gets boring fast. And on paper you can't easily see which kind of sum you are slow or weak at.
 
-**MathLover is a simple, infinite maths problem solving game for everyone.**
+## How MathLover solves it
 
-## What it does
+It gives you endless sums as a game, with a clock on each one and four ways to play. Your stats show how you do with each sign, so you know what to practise.
 
 1. **Four modes:** Classic (the original game), Time attack (60 seconds), Survival (3 lives, gets harder) and Practice.
 2. **Add, subtract, multiply and divide,** with a clock on every sum.
@@ -39,6 +39,12 @@ We don't work together any more, but I'm proud of what came out of it. Somehow I
 4. **A results screen** with right, wrong, too slow and your best combo.
 5. **Stats and best scores** saved on your phone, including how you do with each sign.
 6. **Works fully offline.** Light, dark or system theme.
+
+## The story
+
+This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
+
+We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
 
 ## Install
 

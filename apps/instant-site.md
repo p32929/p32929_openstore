@@ -6,7 +6,7 @@ screenshots:
   - screenshots/instant-site/2.png
   - screenshots/instant-site/3.png
 category: Developer Tools
-summary: Describe a website in plain English and get a complete, deployable site with its database, on your own domain, in minutes
+summary: Getting a business online takes a designer, a developer, hosting and weeks. Describe the site in plain English and get it built with its database, in minutes
 tags: [AI, Website builder, No-code, Full stack, Domains, Landing pages]
 
 platforms:
@@ -15,8 +15,17 @@ platforms:
 
 > **Company project.** This is not a personal project. I worked on it at a company, and the product was owned and run by that company.
 
+**Getting a business online took weeks and a whole team. Instant.site built the full website from one prompt.**
+
+## The problem
+
 Getting a business online still means a designer, a developer, a database, a hosting account and a domain to wire up, and weeks of waiting before anyone can see the result.
 
-**Instant.site was an AI website builder that did all of that from one prompt.** You described what you wanted, like a dental clinic, a restaurant, a shop or a portfolio, and the AI built a complete website with the design, the functionality and the database behind it. You could connect your own domain or start on a free subdomain, then launch it right away or download the source code and keep building.
+## How Instant.site solved it
 
-From idea to a live site in three steps: describe it, let the AI build it, deploy and customize.
+Instant.site was an AI website builder that did all of that from one prompt. You described what you wanted, like a dental clinic, a restaurant, a shop or a portfolio, and the AI built the whole site.
+
+1. **Describe it** in plain English.
+2. **The AI builds it:** the design, the functionality and the database behind it.
+3. **Deploy and customize:** connect your own domain or start on a free subdomain, then launch right away or download the source code and keep building.
+

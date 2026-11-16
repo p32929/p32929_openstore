@@ -5,7 +5,7 @@ screenshots:
   - screenshots/bytebroom/1.png
   - screenshots/bytebroom/2.png
 category: Utilities
-summary: Finds what is safe to delete on your Mac, like build folders, caches and leftover app files, sorted by size with a reason for each
+summary: Mac disk full and no idea what is safe to delete? ByteBroom finds build folders, caches and leftover app files, sorted by size with a reason for each
 tags: [macOS, Disk cleaner, Developer tools, Cache cleaner, node_modules, Xcode, Rust, Open source]
 website: https://github.com/p32929/bytebroom
 source: https://github.com/p32929/bytebroom
@@ -14,11 +14,15 @@ platforms:
   MacOS: https://github.com/p32929/bytebroom/releases/latest
 ---
 
-**Find what is safe to delete on your Mac, and free the space.**
+**Your Mac is full, but you don't know what is safe to delete. ByteBroom shows you, and frees the space.**
 
-ByteBroom scans your whole disk and lists everything over 50 MB that it knows how to judge, sorted by size. Every item says why it is there, so you decide with the facts in front of you.
+## The problem
 
-## What it does
+Your Mac says the disk is almost full. Most of that space is hidden: old `node_modules` and build folders, package manager caches, Xcode data, simulators, and files left behind by apps you already removed. Finding them by hand takes hours, and deleting the wrong folder can break a project or lose your work.
+
+## How ByteBroom solves it
+
+ByteBroom scans your whole disk and lists everything over 50 MB that it knows how to judge, sorted by size. Every item says why it is there and whether it comes back by itself, so you decide with the facts in front of you and free the space in a few clicks.
 
 1. **Safe to delete.** Things that come back by themselves, or with a rebuild or reinstall: project build folders (`node_modules`, `target`, `build`, `.dart_tool`, `Pods`, `.venv` and more, for many languages), package manager caches (npm, Yarn, pnpm, Cargo, Gradle, pip and others), Xcode build data, and app caches and logs.
 2. **Look first.** Things where you lose what is inside, so you should check before deleting: the Trash, iOS simulators, Android emulators, Docker and VM data, Downloads, temporary files, and backups.

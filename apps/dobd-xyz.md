@@ -7,15 +7,24 @@ screenshots:
   - screenshots/dobd-xyz/3.png
   - screenshots/dobd-xyz/4.png
 category: Utilities
-summary: Paste a link from YouTube, Instagram, Facebook, TikTok, Pinterest or Twitter and save the video or picture, with nothing to install
+summary: Social apps let you watch a video but not keep it. Paste a YouTube, Instagram, Facebook, TikTok, Pinterest or Twitter link and save it, nothing to install
 tags: [Downloader, Video, Social media, Instagram, YouTube, TikTok]
 
 platforms:
   Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/unavailable.png
 ---
 
+**You want to keep a video from social media, but the app won't let you. Dobd.xyz saved it from just the link.**
+
+## The problem
+
 You find a video on Instagram, a reel on Facebook or a clip on TikTok, and you want to keep it. The apps only let you watch it there, and the tools that promise to save it usually mean installing something first.
 
-**Dobd.xyz was an online downloader for social media.** Copy the link, paste it into the box on the page, and it fetched the video or picture so you could save it to your device. There was nothing to install. It worked with YouTube, Instagram, Facebook, TikTok, Pinterest and Twitter, each with its own downloader page, and the home page showed what other people were downloading.
+## How Dobd.xyz solved it
 
-Copy, paste, download. That was the whole idea.
+Dobd.xyz was an online downloader for social media. Copy, paste, download. That was the whole idea.
+
+1. **Paste the link** into the box on the page, and it fetched the video or picture so you could save it to your device.
+2. **Nothing to install.** It worked in the browser.
+3. **Many sites:** YouTube, Instagram, Facebook, TikTok, Pinterest and Twitter, each with its own downloader page.
+4. **See what's popular.** The home page showed what other people were downloading.

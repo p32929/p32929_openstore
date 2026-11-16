@@ -8,7 +8,7 @@ screenshots:
   - screenshots/sh0sh0/4.png
   - screenshots/sh0sh0/5.png
 category: Utilities
-summary: A free URL shortener with click analytics, custom short codes, password-protected links and HTML page hosting. Easy to self-host
+summary: Long links look messy and most self-hosted shorteners are hard to set up. Sh0Sh0 makes short links with click stats and needs only Netlify and Firebase
 tags: [URL shortener, Short links, Analytics, Self-hosted, React, Firebase, Netlify]
 website: https://sh0sh0.netlify.app/
 
@@ -16,21 +16,21 @@ platforms:
   Web: https://sh0sh0.netlify.app/
 ---
 
-**A free URL shortener that is easy to run yourself.**
+**Long links are messy and you can't see who opens them. Sh0Sh0 shortens them, shows you the clicks, and is easy to run yourself.**
 
-I wanted a simple way to create and manage short links. Almost every self-hosted shortener I found was hard to set up and needed a lot of things running before it worked. So I made one that is easy: it is a plain React app that needs only **Netlify and Firebase**, and nothing else.
+## The problem
 
-## What you can do
+A long link is hard to share and tells you nothing about who opened it. I wanted a simple way to create and manage short links. Almost every self-hosted shortener I found was hard to set up and needed a lot of things running before it worked.
+
+## How Sh0Sh0 solves it
+
+Create an account, paste a long link, get a short one, then watch the clicks come in. It is a plain React app that needs only **Netlify and Firebase**, and nothing else, so it is easy to run yourself.
 
 1. Make short links with your own custom codes.
 2. See clicks, places, devices and behaviour for every link.
 3. Host your own HTML pages on a short link, with the same click tracking.
 4. Protect a link with a password.
 5. Sign up for free, with no credit card and no limit on links.
-
-## How it works
-
-Create an account, paste a long link, get a short one, then watch the clicks come in.
 
 ## Want your own copy?
 
