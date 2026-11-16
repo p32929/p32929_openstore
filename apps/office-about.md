@@ -2,10 +2,12 @@
 title: Office About
 icon: screenshots/office-about/icon.svg
 screenshots:
-  - screenshots/office-about/shot-1.png
+  - screenshots/office-about/v2-1.png
+  - screenshots/office-about/v2-2.png
+  - screenshots/office-about/v2-3.png
 category: Developer Tools
-summary: Android About Us screen library for teams. Show your company logo, links and team members from a JSON file, in two lines of code
-tags: [About screen, About us page, Android library, Team page, Company profile, Java, JitPack, Open source]
+summary: Android About Us screen library for teams. Show your company, links and team members from one JSON file, and update them without a new release
+tags: [About screen, About us page, Team page, Android library, Company profile, Kotlin, JitPack, Open source]
 website: https://github.com/p32929/OfficeAbout
 source: https://github.com/p32929/OfficeAbout
 
@@ -13,23 +15,40 @@ platforms:
   Library: https://github.com/p32929/OfficeAbout
 ---
 
-Office About is a ready-made "About us" screen for Android apps built by a team. Every app needs one, and it is boring to build again and again. Put your company logo, links and team members in a JSON file, and the library shows a clean About screen in two lines of code. Change the team later by editing the JSON, with no app update.
+Office About is a ready-made "About us" screen for Android apps made by a team. Every app needs one, and building it again for each app is a chore. Put your company name, logo, links and team in one JSON file, and the library shows a clean About screen. Host the JSON online and you can change the team later without shipping an app update. It was revamped in 2026: rewritten in Kotlin, with a Material 3 look that follows light and dark mode, and it still works from Java.
 
-1. **Company logo and links:** Play Store, Facebook page and group, YouTube, GitHub and website.
-2. **Team list** with a photo, name, role and contact link for each person.
-3. **Update without a new release:** edit the JSON and every install shows the change.
-4. **Two lines to add:** create the helper and call `showAboutActivity()`.
+1. **Team cards** with a photo (or initials), name, role and a Contact button.
+2. **Company links** as buttons: Google Play, Facebook page and group, YouTube, GitHub and website. Empty links are hidden.
+3. **JSON from a URL or a string,** for example from your app's assets.
+4. **Loading and error screens** with a Try again button.
+5. **Your own colours** if you want them.
+6. **Small:** no image or JSON library added, Android 5.0 and newer.
 
-Great for small studios and teams that publish several apps. A newer version is [MaterialOfficeAbout](https://github.com/p32929/MaterialOfficeAbout).
+Great for small studios and teams that publish several apps.
 
 ## Install
 
-Add JitPack to your root `build.gradle`, then the dependency:
+Add JitPack to your repositories, then the dependency:
 
-```gradle
-allprojects { repositories { maven { url 'https://jitpack.io' } } }
-
-dependencies {
-    implementation 'com.github.p32929:OfficeAbout:1.0.0.7'
+```kotlin
+// settings.gradle.kts
+dependencyResolutionManagement {
+    repositories {
+        google()
+        mavenCentral()
+        maven("https://jitpack.io")
+    }
 }
 ```
+
+```kotlin
+dependencies {
+    implementation("com.github.p32929:OfficeAbout:2.0.0")
+}
+```
+
+```kotlin
+OfficeAboutHelper(this, "https://example.com/team.json").showAboutActivity()
+```
+
+Upgrading from 1.x? Your old JSON still works. See "Migrating from 1.x" on the GitHub page.
