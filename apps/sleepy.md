@@ -15,7 +15,7 @@ platforms:
     - version: "1.0.2"
       date: 2022-06-17
       changelog: Latest version
-      url: https://github.com/p32929/p32929_openstore/releases/tag/sleepy-1.0.2
+      url: https://github.com/p32929/p32929_openstore/releases/tag/sleepy
 ---
 
 > **This app used to be on Google Play.** It was taken down when the developer account was closed, so this is the original APK.

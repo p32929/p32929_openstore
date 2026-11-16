@@ -18,11 +18,7 @@ platforms:
     - version: "2.0.0"
       date: 2026-11-15
       changelog: Rebuilt in Kotlin and Jetpack Compose with a botanical design, categories, plant of the day, working pictures, light and dark mode
-      url: https://github.com/p32929/p32929_openstore/releases/tag/brikkho-2.0.0
-    - version: "1.0.1"
-      date: 2019-10-03
-      changelog: Updated version with a bigger database
-      url: https://github.com/p32929/p32929_openstore/releases/tag/brikkho-1.0.1
+      url: https://github.com/p32929/p32929_openstore/releases/tag/brikkho
 ---
 
 > **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures or links may not work. Please don't expect it to be actively maintained.

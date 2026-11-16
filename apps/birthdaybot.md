@@ -18,10 +18,6 @@ platforms:
     - version: "2.0.0"
       date: 2026-11-16
       changelog: Rebuilt in Kotlin and Jetpack Compose with a festive new design, swipeable wish cards, balloons and confetti, music toggle, light and dark mode, no ads
-      url: https://github.com/p32929/p32929_openstore/releases/tag/birthdaybot-2.0.0
-    - version: "1.0.0"
-      date: 2022-06-17
-      changelog: Original APK
       url: https://github.com/p32929/p32929_openstore/releases/tag/birthdaybot
 ---
 
