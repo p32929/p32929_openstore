@@ -18,15 +18,9 @@ platforms:
   Web: https://p32929.github.io/notes/
 ---
 
-**9Notes is a free offline notes app that runs in your browser. Write quick notes with rich text, tabs and search, with no ads, no account and no internet needed.**
+9Notes is a free offline notes app that runs in your browser. Open it and start typing. It works with no internet, saves as you type, and keeps your notes on your own device, with no ads and no account.
 
-## The problem
-
-The note app that comes with many computers is basic, and many browser note apps are full of ads and junk. You just want somewhere clean and fast to jot something down.
-
-## How 9Notes solves it
-
-Open it in your browser and start typing. It works with no internet, saves as you type, and keeps your notes on your own device.
+I made it after I saw one of my mentors jotting down quick notes in a browser note app because the one on his computer was bad. That one was full of ads and junk, but he kept using it anyway. So I thought: why not make a better one?
 
 1. **Tabs for your notes,** in any order you like.
 2. **Rich text:** headings, bold, italic, lists, quotes and code.
@@ -36,9 +30,3 @@ Open it in your browser and start typing. It works with no internet, saves as yo
 6. **Install it like an app** on your phone, tablet or computer.
 7. **Private:** no account, no sign-up, and your notes stay on your device.
 8. **Light and dark mode,** with 8 colours to choose from.
-
-## Who it is for
-
-1. Anyone who wants a simple notepad without ads.
-2. Students and developers who take quick notes all day.
-3. People who don't want their notes on someone else's server.

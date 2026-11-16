@@ -38,15 +38,7 @@ platforms:
       url: https://github.com/p32929/duas/releases/tag/v2.0.0
 ---
 
-**Duas is a free dua app that keeps your daily duas in one place, finds new ones in trusted books, and shows their meaning in your own language.**
-
-## The problem
-
-Many of us keep the duas we recite scattered across screenshots, notes and old messages. Finding the right one at the right moment, with its meaning and where it comes from, is harder than it should be. And when you need a dua for something new, you don't always know where to look or whether the source is trusted.
-
-## How Duas solves it
-
-Duas keeps all your duas in one calm place, and finds new ones for you by topic in trusted books.
+Duas is a free dua app that keeps the duas you recite in one calm place. Many of us keep them scattered across screenshots, notes and old messages, and when we need a dua for something new, we don't always know where to look or whether the source is trusted. Duas keeps your list together and finds new duas for you by topic in trusted books, with their meaning in your own language.
 
 1. **Your own dua list:** it starts with a ready-made set, and you can add your own with the Arabic, the meaning and the source.
 2. **Search trusted books by topic:** type *anxiety*, *travelling* or *before sleeping*, and it searches **Hisn al-Muslim**, **Dua & Dhikr**, **DeenOne** and **Majmu' al-Adhkar** at once. Add the duas you want in one go, each with its source.
@@ -54,13 +46,5 @@ Duas keeps all your duas in one calm place, and finds new ones for you by topic 
 4. **Easy to read and share:** eight Arabic fonts, adjustable text size, light and dark themes, and copy or share any dua.
 5. **Private:** your duas stay on your device, with no account.
 6. **Works everywhere:** in the browser, on Android, Windows, macOS, Linux and iPhone. Linux, Chromebook and older Android files are on the [releases page](https://github.com/p32929/duas/releases/latest).
-
-## Who it is for
-
-1. Muslims who want their daily duas and adhkar in one place.
-2. Anyone looking for a dua for a certain moment, like travel, worry or sleep.
-3. People who want to understand the meaning of what they recite.
-
-## Install
 
 Open it in your browser, or download it for your device from the releases page.

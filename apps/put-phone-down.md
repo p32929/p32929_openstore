@@ -23,37 +23,18 @@ platforms:
 
 > **An old app, revived.** This app was first made around 2019 and was on Google Play until the account was closed. In 2026 it was rebuilt for modern Android phones with a new design, mainly to show it again. Please don't expect it to be actively maintained.
 
-**Put Phone Down is a phone addiction app that locks your phone for as long as you choose, so you stop checking it while you study, work or sleep.**
+You put your phone down to study, work or sleep, and a minute later it's back in your hand. Put Phone Down helps you actually stay away from it. Choose how long you want a break, say 30 minutes or until 7 in the morning, and your phone stays locked until then. Pick it up for "just a quick look" and it locks again.
 
-## The problem
+Most screen time apps only tell you how much you used your phone. This one stops you from using it, which is what makes it work.
 
-You put your phone away to study, finish some work or go to sleep. A minute later it is back in your hand, scrolling social media, and an hour is gone. Willpower alone rarely works. Most screen time apps only show you how long you used your phone. They don't stop you from picking it up again.
-
-## How Put Phone Down solves it
-
-You set how long you want to stay off your phone, for example 30 minutes or until 7 in the morning. Until that time is over, your phone stays locked. Each time you pick it up and try to use it, it locks again. There is no "just one quick look". When the time is up, your phone is yours again.
-
-1. **Lock your phone for a set time:** 15, 30 or 60 minutes, any length you want, or until a set time.
-2. **Lock mode:** the screen locks again every time you turn it on, until your break is over.
-3. **Gentle mode:** a calm full-screen "Time to rest" reminder instead of a hard lock, if you want a softer push.
-4. **Daily quiet hours:** your phone locks by itself at the same time every day, for example every night at bedtime, so you sleep instead of scrolling.
+1. **Lock your phone for a set time:** 15, 30 or 60 minutes, any length you like, or until a set time.
+2. **Lock mode** locks the screen again every time you turn it on, until your break is over.
+3. **Gentle mode** shows a calm full-screen reminder instead, if you prefer a softer push.
+4. **Daily quiet hours** lock your phone by itself at the same time every day, like every night at bedtime.
 5. **Calls still come through,** so you never miss something important.
-6. **See your progress:** how long you stayed off your phone and how many times you reached for it.
-7. **Free, no ads, no account.** Light and dark mode.
+6. **Track your progress:** see how long you stayed off your phone and how often you reached for it.
+7. **Free, no ads, no account,** with light and dark mode.
 
-## Who it is for
+Great for studying without distractions, sleeping instead of scrolling in bed, focusing at work, or a simple digital detox.
 
-1. Students who keep checking their phone while studying.
-2. Anyone who scrolls in bed instead of sleeping.
-3. People who want to focus at work without notifications pulling them away.
-4. Anyone trying a digital detox, even for an hour a day.
-
-## The story
-
-This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
-
-We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
-
-## Install
-
-Download the APK from the download page and open it to install. Put Phone Down used to be called "Sleepy - Addiction Controller".
+Put Phone Down used to be called "Sleepy - Addiction Controller". Download the APK from the download page and open it to install.

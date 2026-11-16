@@ -42,26 +42,14 @@ platforms:
       url: https://github.com/p32929/mathfinity/releases/tag/v2.0.0
 ---
 
-**MathFinity is a free mental maths game. Solve sums against the clock, then see exactly which ones slowed you down.**
-
-## The problem
-
-Getting fast at sums takes a lot of practice, and worksheets are slow and boring. Children learning their sums, and anyone who wants to be quicker with numbers, need practice that is short, fun, and shows what to work on.
-
-## How MathFinity solves it
-
-It turns maths practice into a quick game you can play any time, with no ads and no account.
+MathFinity is a free mental maths game. Worksheets are slow and boring, so this turns practice into a quick game: solve sums against the clock, then see exactly which ones slowed you down. No ads and no account.
 
 1. **Answer fast:** a sum appears (add, subtract, multiply or divide) and you pick the right answer from the grid.
 2. **Know right away** if you were right. New sums keep coming until the time runs out.
-3. **See where you were slow:** your score, accuracy and time, plus every sum with how long you took on it.
+3. **See where you were slow:** your score, accuracy and time, plus every sum with how long you took.
 4. **Make it easier or harder:** choose the number range, the game length and how many answers to pick from.
 5. **Play offline,** in light or dark mode, with eight colours to choose from.
 
-## Who it is for
-
-1. Children learning addition, subtraction, multiplication and division.
-2. Parents and teachers who want a fun way to practise sums.
-3. Adults who want to keep their mental maths sharp.
+Great for children learning their sums, for parents and teachers, and for adults who want to keep their mental maths sharp.
 
 Play it in the browser, or install it on Android, Windows, macOS or iPhone. Linux and Chromebook files are on the [download page](https://github.com/p32929/mathfinity/releases/latest).

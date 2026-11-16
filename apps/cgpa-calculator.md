@@ -21,33 +21,13 @@ platforms:
 
 > **This app used to be on Google Play.** It was taken down when the developer account was closed, so this is the original APK.
 
-**CGPA Calculator is a free Android app that works out your CGPA in seconds, and lets you fix a mistake without starting over.**
-
-## The problem
-
-University students check their CGPA all the time: after results, before applying for jobs or scholarships, or to see what grades they need next term. Doing it by hand with credits and grade points is slow, and one wrong number means doing it all again.
-
-## How CGPA Calculator solves it
-
-Enter your courses, credits and grades, and the app shows your CGPA right away. Got one wrong? Just edit it. Save the result and check it again any time.
+CGPA Calculator is a free Android app for university students who want to know their CGPA fast. Working it out by hand with credits and grade points is slow, and one wrong number means starting again. Here you just enter your courses, credits and grades, and your CGPA shows up right away. Got one wrong? Edit it and carry on.
 
 1. **Fast and simple:** your CGPA as soon as you enter your grades.
-2. **Fix mistakes easily:** edit any entry instead of starting again.
-3. **Save your results** and open them later, even offline.
+2. **Fix mistakes easily:** edit any entry instead of starting over.
+3. **Save your results** and open them again later, even offline.
 4. **Small download.**
 
-## Who it is for
-
-1. University students tracking their results.
-2. Students planning what grades they need next term.
-3. Anyone applying for jobs or scholarships that ask for a CGPA.
-
-## The story
-
-This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
-
-We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
-
-## Install
+Handy after results come out, when planning the grades you need next term, or when a job or scholarship form asks for your CGPA.
 
 Download the APK and open it to install.

@@ -43,31 +43,16 @@ platforms:
       changelog: Unsigned, install with a sideloading tool such as AltStore or Sideloadly
       url: https://github.com/p32929/quran_flutter/releases/tag/v2.0.1
 ---
+Quran is a free Quran app with no ads and no account. Read the Quran with a translation you understand, even offline, listen to 42 famous reciters, and memorize ayat without replaying them again and again by hand. The app repeats them for you.
 
-**A free Quran app with no ads and no account. Read the Quran with translation, listen to 42 famous reciters, and memorize ayat with repeating audio.**
-
-## The problem
-
-You want to read the Quran with a translation you understand, listen to a reciter you love, and memorize a few ayat at a time. Many Quran apps get in the way with ads, sign-ups or the need to be online. And to memorize, you have to replay the same ayat again and again by hand.
-
-## How Quran solves it
-
-Everything you need is in one simple app. Read with translation even without internet, listen with the screen off, and let the app repeat the ayat you are memorizing for you.
-
-1. **Read the Quran with translation.** Every surah ayah by ayah in clear IndoPak Arabic script, with the translation right under each ayah.
+1. **Read with translation.** Every surah ayah by ayah in clear IndoPak Arabic script, with the translation right under each ayah.
 2. **Works offline.** English, Bengali and Urdu translations come with the app. Download more from over 250 translations in 95 languages.
 3. **Listen to 42 reciters.** Play a whole surah or a single ayah. Audio keeps playing with the screen off, with controls on the lock screen.
 4. **Memorize (hifz) with repeat.** Pick a surah and a range of ayat, and the recitation repeats as many times as you need.
 5. **Never lose your place.** Bookmark ayat and pick up where you left off.
 6. **Search** surahs by name or number, and words in English or Bengali.
-7. **Easy to read.** Change the Arabic and translation text size, and use light or dark theme. Share any ayah.
+7. **Easy to read.** Change the text size, use light or dark theme, and share any ayah.
 
-## Who it is for
-
-1. Anyone who wants to read the Quran daily and understand its meaning.
-2. Students of hifz memorizing the Quran ayah by ayah.
-3. People who like to listen to the Quran while travelling or before sleep.
-
-## Download
+Good for daily reading, for students of hifz, and for listening while travelling or before sleep.
 
 Use it in the browser, or install it on Android, Windows, macOS or iPhone. For Linux, older Android phones and Chromebooks, see the [releases page](https://github.com/p32929/quran_flutter/releases/latest).

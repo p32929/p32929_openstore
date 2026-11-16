@@ -13,22 +13,10 @@ platforms:
   Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/unavailable.png
 ---
 
-**DramaDB helps you find the best Korean and Asian dramas to watch, ranked by what viewers actually loved.**
-
-## The problem
-
-There are thousands of Korean and Asian dramas, and it is hard to tell the good ones from the bad ones. Most drama sites have almost no way to filter or rank them, so you pick by the poster or the name and often waste evenings on a drama that turns out to be bad.
-
-## How DramaDB solves it
-
-It puts every drama with its ratings, reviews and comments on one page that you can filter and sort. You pick your next drama by what other viewers say about it.
+DramaDB helps you find the best Korean and Asian dramas to watch. There are thousands of them, and most drama sites give you almost no way to tell the good ones from the bad ones, so you end up picking by the poster and wasting evenings. DramaDB puts every drama with its ratings, reviews and comments on one page, so you can pick your next one by what other viewers loved.
 
 1. **Filter** by country, genre, status, year and number of episodes.
 2. **Sort** by rating, review score, comments, number of reviewers or views, so the most loved dramas come first.
 3. **See every poster** at a glance, on your computer or your phone.
 
-## Who it is for
-
-1. K-drama fans looking for what to watch next.
-2. New viewers who don't know where to start.
-3. Anyone who wants a short drama, a finished series or a certain genre.
+I love watching Korean dramas, but I could never tell which ones were worth my time. So I built DramaDB for myself, and now I choose a drama by what viewers say about it, not just by its name.

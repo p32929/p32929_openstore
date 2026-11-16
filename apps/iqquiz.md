@@ -23,31 +23,15 @@ platforms:
 
 > **An old app, revived.** This app was first made around 2019 at Rich IT (Rich Information Technology) and was on Google Play until the account was closed. In 2026 it was rebuilt for modern Android phones with a new design, mainly to show it again. Some content still comes from old online sources, so a few pictures, videos or links may not work. Please don't expect it to be actively maintained.
 
-**IQQuiz is a free IQ test and brain game with timed pattern, logic and word puzzles. Train how fast you think, anywhere, even offline.**
+IQQuiz is a free IQ test and brain game with timed pattern, logic and word puzzles. Each round gives you 10 puzzles with 25 seconds for each. When it ends, you see what you got wrong, so you can do better next time. It's a nice quick brain workout for a spare few minutes, and it works offline.
 
-Each round gives you 10 puzzles with 25 seconds for each. When it ends, you see what you got wrong, so you can do better next time.
-
-## What you can do
-
-1. **Solve three kinds of puzzles:** patterns, logic and words. Play them mixed or pick one.
+1. **Three kinds of puzzles:** patterns, logic and words. Play them mixed or pick one.
 2. **Beat the clock:** 10 questions per round, 25 seconds each.
 3. **Learn from mistakes** with a review of every question you got wrong.
 4. **Track your progress:** best score, streak and accuracy.
-5. **Read tips** to improve your thinking.
+5. **Tips** to improve your thinking.
 6. **Play offline,** in light or dark mode.
 
-## Who it is for
-
-1. Anyone who enjoys puzzles and brain teasers.
-2. Students preparing for aptitude or IQ-style tests.
-3. Anyone who wants a quick brain workout in a spare few minutes.
-
-## The story
-
-This was a group project, built with friends. I had a Google Play account, and we published whatever we could build together. Most of my friends hadn't studied computer science; some came from electrical and telecommunication engineering. I was teaching them how to make apps, so we kept each app as simple as possible and as nice as we could, so people would want to download it.
-
-We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
-
-## Install
+Fun for anyone who enjoys puzzles, and useful practice for aptitude or IQ-style tests.
 
 Download the APK from the download page and open it to install.

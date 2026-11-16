@@ -23,15 +23,7 @@ platforms:
   Web: https://ollama-models-explorer.vercel.app/
 ---
 
-**Ollama Models Explorer helps you find the best Ollama model for your computer. Search more than 17,000 local AI models, see which ones will run on your PC or Mac and how fast, and copy the install command.**
-
-## The problem
-
-Ollama has more than 17,000 models, and its website does not tell you which ones your computer can actually run. You only find out if a model fits, and how slow it is, after a big download.
-
-## How Ollama Models Explorer solves it
-
-It checks your computer by itself and marks every model as able to run well, barely fitting or too big, with a speed estimate. You narrow thousands of models down to the few worth trying.
+Ollama Models Explorer helps you find the best Ollama model for your computer. Ollama has more than 17,000 models, and normally you only find out whether one fits, and how slow it is, after a big download. This app checks your computer by itself and tells you which models will run well, which barely fit and which are too big, with a speed estimate for each.
 
 1. **Every model on Ollama:** the official models and more than 17,000 community ones.
 2. **Will it run, and how fast?** Your graphics card or Apple chip is detected for you, and each model shows a speed estimate. Hide everything that won't run with one switch.
@@ -43,11 +35,5 @@ It checks your computer by itself and marks every model as able to run well, bar
 8. **Search and filter** by size, context window, capabilities, publisher and more.
 9. **Share a link** to your search or comparison.
 10. **Works well on phones,** with light and dark mode.
-
-## Who it is for
-
-1. Anyone running AI models locally with Ollama.
-2. People with a normal laptop or PC who need models that fit.
-3. Developers comparing models for a project.
 
 Speeds are estimates. The public site is on a free host, so for the fastest experience you can run your own copy from the [source code](https://github.com/p32929/ollama_models_explorer).

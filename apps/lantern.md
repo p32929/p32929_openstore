@@ -19,15 +19,9 @@ platforms:
   Web: https://github.com/p32929/lantern
 ---
 
-**Lantern is a free, self-hosted dashboard for your Linux server or homelab. See every service, its CPU, memory and logs, restart things in one click, and open a terminal, all from one web page on your phone or laptop.**
+Lantern is a free, self-hosted dashboard for your Linux server or homelab. If you run a few containers, services or scripts on an old laptop, a Raspberry Pi or a mini PC, checking on them usually means SSH, remembering service names and commands, and digging through logs. Lantern puts all of it on one web page you can open from your phone or laptop.
 
-## The problem
-
-Many people run a small server at home on an old laptop, a Raspberry Pi or a mini PC, with a few containers, services and scripts. To check on them you have to SSH in, remember the service name, read logs with one command, restart with another, and forget which port it used. None of that works well from a phone.
-
-## How Lantern solves it
-
-Lantern puts everything on one page. Run one script, open the address, and you can see and fix everything on that machine. There is no database and no Docker to set up.
+I made it for my own small home server. I wanted to see and fix everything from my phone, without SSH-ing in every time.
 
 1. **See everything at a glance:** each service is green or red, with its CPU and memory. The machine's CPU, memory, disk and uptime are at the top.
 2. **Fix things in one click:** put a Restart, Deploy or any other button right on a service.
@@ -37,13 +31,7 @@ Lantern puts everything on one page. Run one script, open the address, and you c
 6. **Works with anything:** Docker containers, system services, plain processes, cron jobs or a game server.
 7. **Made for phones,** with light and dark mode.
 
-## Who it is for
-
-1. Homelab and self-hosting fans.
-2. Raspberry Pi and home server owners.
-3. Developers who run a few apps on one Linux machine.
-
-## Get it running
+## Run it
 
 ```bash
 git clone https://github.com/p32929/lantern.git
@@ -51,4 +39,4 @@ cd lantern
 ./lantern.sh
 ```
 
-It asks for a port and a PIN, then prints the address to open. It runs on Ubuntu, Debian and most Linux machines, even very small ones. Use it on your home network only, not open to the internet; from outside, connect through a VPN such as Tailscale.
+It asks for a port and a PIN, then prints the address to open. It runs on Ubuntu, Debian and most Linux machines, even very small ones. Use it on your home network only; from outside, connect through a VPN such as Tailscale.

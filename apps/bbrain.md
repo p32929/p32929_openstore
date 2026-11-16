@@ -17,18 +17,11 @@ platforms:
 
 > **Company project.** This is not a personal project. I worked on its initial stage, and the product is owned and run by its company.
 
-**BBrain is a free AI character chat app where you talk with characters from the YouTube channel MyStory Animated.**
-
-You watch a story on MyStory Animated, and a character stays in your head long after the video ends. With BBrain you can just talk to them.
-
-## What you can do
+BBrain is a free AI character chat app where you talk with characters from the YouTube channel MyStory Animated. When a character stays in your head long after the video ends, now you can just talk to them.
 
 1. **Pick a character and start chatting.**
 2. **Characters stay in character.** Magnus, the stoic vampire from *I'm Turning into a Vampire*, is cold on the outside, and maybe you can make him fall for you.
 3. **Meet extra characters** made just for the app.
 4. **Free** on **iOS** and **Android**.
 
-## Who it is for
-
-1. Fans of MyStory Animated.
-2. Anyone who enjoys AI roleplay and story chats.
+Made for MyStory Animated fans and anyone who enjoys AI roleplay and story chats.

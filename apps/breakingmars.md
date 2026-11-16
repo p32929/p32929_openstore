@@ -17,15 +17,7 @@ platforms:
 
 > **Company project.** This is not a personal project. I worked on it at a company, and the product was owned and run by that company.
 
-**Breaking Mars was a LinkedIn automation tool for lead generation. It found the right people, connected with them and followed up for you.**
-
-## The problem
-
-Everyone knows LinkedIn is full of future clients. The hard part is reaching them: finding the right people, sending the invites, and following up again and again, week after week, while real work waits.
-
-## How Breaking Mars solved it
-
-You chose who you wanted to reach, and it did the outreach for you, without spending a cent on ads.
+Breaking Mars was a LinkedIn automation tool for lead generation. LinkedIn is full of future clients, but finding the right people and following up week after week takes time away from real work. You chose who you wanted to reach, and Breaking Mars did the outreach for you, without spending a cent on ads.
 
 1. **Eight ready campaign strategies** to pick from.
 2. **Pick your audience** by company, country, gender and more, or import a CSV, or paste a LinkedIn search link.
@@ -35,8 +27,4 @@ You chose who you wanted to reach, and it did the outreach for you, without spen
 6. **One dashboard** for your connections, replies and conversion.
 7. **30-day free trial,** no credit card needed, and a calculator showing how many days a month you would save.
 
-## Who it was for
-
-1. Freelancers and agencies looking for clients.
-2. Sales teams doing B2B outreach.
-3. Founders who sell on LinkedIn.
+It was built for freelancers, agencies, sales teams and founders who sell on LinkedIn.

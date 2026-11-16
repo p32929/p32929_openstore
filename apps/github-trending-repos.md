@@ -20,15 +20,7 @@ platforms:
   Web: https://ghtr.fly.dev/
 ---
 
-**Github Trending Repos shows GitHub's trending repositories for 29 languages on one page, so you can see what's popular in open source at a glance.**
-
-## The problem
-
-GitHub's own trending page shows one language at a time. If you follow several languages, you have to open a tab for each one and flip between them, and the same repo keeps showing up again and again.
-
-## How it solves it
-
-Open the page and it collects today's trending repositories for every language at once and puts them in one table.
+Github Trending Repos shows GitHub's daily trending repositories for 29 languages on one page. GitHub's own trending page shows one language at a time, so if you follow several, you end up opening a tab for each one and seeing the same repos again and again. Here you open one page and see what's popular across all of them.
 
 1. **One table** with the language, the repository, its stars, the stars it gained today and its forks. Click a repo to open it on GitHub.
 2. **No repeats:** a repo trending in several languages is shown once.
@@ -36,8 +28,4 @@ Open the page and it collects today's trending repositories for every language a
 4. **29 languages,** from Python, JavaScript, TypeScript, Rust and Go to Dart, Kotlin, Swift and Zig, plus GitHub's overall list.
 5. **Free, no sign-up,** and it works on a phone, a tablet and a computer.
 
-## Who it is for
-
-1. Developers who want to keep up with new open source projects.
-2. People who work in more than one programming language.
-3. Anyone looking for a useful tool or library to try.
+I made it because I wanted the trending repos for the languages I care about, all on one page instead of one tab per language.

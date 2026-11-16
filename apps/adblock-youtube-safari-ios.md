@@ -15,27 +15,13 @@ platforms:
 
 > **Client project.** I built this app for a client. It is not my personal app.
 
-**Adblock for YT is a YouTube ad blocker for Safari on iPhone and iPad, so your videos play without ads.**
-
-## The problem
-
-You open a YouTube video in Safari on your iPhone or iPad and have to sit through an ad before it starts. Then more ads cut in halfway, and banners cover the video. It breaks music, tutorials and lessons. Kids tap on ads they shouldn't.
-
-## How Adblock for YT solves it
-
-Turn the extension on in Safari once. From then on, YouTube ads are blocked and videos just play.
+Adblock for YT is a YouTube ad blocker for Safari on iPhone and iPad. No more sitting through an ad before every video, or having a song or a tutorial cut off halfway. Turn the extension on in Safari once, and YouTube videos just play.
 
 1. **No ads before or during videos.** Pre-roll, mid-roll and banner ads are blocked.
 2. **Works on YouTube videos inside other websites** and on live streams too.
 3. **Quick to set up,** with a simple screen that shows you how to turn it on.
 4. **Keeps your browsing private and safe.**
 
-## Who it is for
+Handy for music, lessons and tutorials, and for parents who don't want kids tapping on ads.
 
-1. Anyone who watches YouTube in Safari on an iPhone or iPad.
-2. Parents who don't want kids tapping on video ads.
-3. People who listen to music or follow tutorials on YouTube and hate the interruptions.
-
-## The story
-
-This was a client project, and building it was a small adventure. I didn't have a Mac, so I borrowed my cousin's MacBook over TeamViewer: I worked from Bangladesh while the computer sat in the UAE. There were no AI helpers back then. Apple had just started allowing extensions in Safari on iPhone, so it was all brand new and there was very little to learn from. I failed again and again before it finally worked. It was a real roller coaster, and one of the most fascinating projects I have done.
+This was a client project, and a real adventure to build. I didn't have a Mac, so I worked from Bangladesh on my cousin's MacBook in the UAE over TeamViewer. Apple had only just allowed extensions in Safari on iPhone, there was very little to learn from, and I failed again and again before it finally worked.
