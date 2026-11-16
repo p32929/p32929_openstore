@@ -1,24 +1,24 @@
 ---
-title: Sleepy - Addiction Controller
-icon: screenshots/sleepy/icon-new.png
+title: Put Phone Down
+icon: screenshots/put-phone-down/icon.png
 screenshots:
-  - screenshots/sleepy/new-1.png
-  - screenshots/sleepy/new-2.png
-  - screenshots/sleepy/new-3.png
-  - screenshots/sleepy/new-4.png
-  - screenshots/sleepy/new-5.png
-  - screenshots/sleepy/new-6.png
-  - screenshots/sleepy/new-7.png
+  - screenshots/put-phone-down/1.png
+  - screenshots/put-phone-down/2.png
+  - screenshots/put-phone-down/3.png
+  - screenshots/put-phone-down/4.png
+  - screenshots/put-phone-down/5.png
+  - screenshots/put-phone-down/6.png
+  - screenshots/put-phone-down/7.png
 category: Productivity
-summary: Really put your phone down. Pick a rest time and Sleepy sends you back to rest every time you reach for the phone. Easy one-tap uninstall
+summary: Really put your phone down. Pick a rest time and the app sends you back to rest every time you reach for the phone. Easy one-tap uninstall
 tags: [Phone addiction, Digital wellbeing, Focus, Timer, Productivity, Android]
 
 platforms:
   Android:
-    - version: "2.0.0"
+    - version: "2.0.1"
       date: 2026-11-16
-      changelog: Rebuilt in Kotlin and Jetpack Compose with a gentle mode, a one-tap Uninstall button, quiet hours, stats, light and dark mode, no ads
-      url: https://github.com/p32929/p32929_openstore/releases/tag/sleepy
+      changelog: New name (was Sleepy - Addiction Controller). Rebuilt in Kotlin and Jetpack Compose with a gentle mode, a one-tap Uninstall button, quiet hours, stats, light and dark mode, no ads
+      url: https://github.com/p32929/p32929_openstore/releases/tag/put-phone-down
 ---
 
 > **An old app, revived.** This app was first made around 2019 and was on Google Play until the account was closed. In 2026 it was rebuilt with modern Android (Kotlin and Jetpack Compose) and a new design, mainly to show it again. Please don't expect it to be actively maintained.
@@ -29,9 +29,9 @@ This was a group project, built with friends. I had a Google Play account, and w
 
 We don't work together any more, but I'm proud of what came out of it. Somehow I made them curious about programming, and after just a few days of building they loved it. Alhamdulillah, many of them still work in software development today, even though they didn't come from that background.
 
-**A phone addiction controller that actually helps you use your phone less.**
+**A phone addiction controller that actually helps you use your phone less.** It used to be called "Sleepy - Addiction Controller".
 
-Many apps only track how much you use your phone. Sleepy helps you put it down: you pick a rest time, and until it ends, every time you reach for the phone Sleepy sends you back to rest.
+Many apps only track how much you use your phone. Put Phone Down helps you put it down: you pick a rest time, and until it ends, every time you reach for the phone the app sends you back to rest.
 
 ## What it does
 
@@ -45,8 +45,8 @@ Many apps only track how much you use your phone. Sleepy helps you put it down: 
 
 Lock mode uses Android's Device Administrator permission, and Android blocks uninstalling any app that has it. Earlier versions made people dig through Settings. Now it is one tap:
 
-1. Open Sleepy and tap **Uninstall Sleepy** (on the home screen, in Settings or in Help).
-2. Sleepy ends any running session, turns off its own lock permission, and opens Android's uninstall screen.
+1. Open the app and tap **Uninstall app** (on the home screen, in Settings or in Help).
+2. The app ends any running session, turns off its own lock permission, and opens Android's uninstall screen.
 3. Tap **OK**.
 
 You can also just turn the lock permission off with **Turn off** on the home screen. The home screen always shows whether it is on.
