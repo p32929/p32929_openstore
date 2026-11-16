@@ -56,5 +56,19 @@ node validate.mjs
 
 ## Links
 
-- [OpenStore](https://openstore.pfay.workers.dev) · [My listing](https://openstore.pfay.workers.dev/dev/p32929)
-- [Join the list](https://github.com/p32929/openstore_maintainers) · [Bugs, ideas and questions](https://github.com/p32929/openstore_feedback)
+1. [OpenStore](https://openstore.pfay.workers.dev) and [my listing](https://openstore.pfay.workers.dev/dev/p32929)
+2. [Join the list](https://github.com/p32929/openstore_maintainers)
+3. [Bugs, ideas and questions](https://github.com/p32929/openstore_feedback)
+
+## Contributing
+
+Ideas and fixes are very welcome, thank you! Before you start on a pull request, please open an issue in [openstore_feedback](https://github.com/p32929/openstore_feedback) and tell me what you would like to add or change. That way we can agree on it first, and your time is not wasted on something that might not fit.
+
+## Share
+
+<a href="https://p32929.github.io/share/?repo=p32929_openstore"><img src="https://p32929.github.io/readme/share.svg" alt="Share this with your friends in just a click" width="420"></a>
+
+## Support
+
+<a href="https://p32929.github.io/support/"><img src="https://p32929.github.io/readme/support.svg" alt="If you like my works and want to support me, feel free to support" width="420"></a>
+
