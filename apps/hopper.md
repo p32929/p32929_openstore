@@ -9,8 +9,8 @@ screenshots:
   - screenshots/hopper/5.png
   - screenshots/hopper/6.png
 category: Developer Tools
-summary: Self-hosted web file manager. Browse, upload, download and preview files on any computer or server from your browser or phone, with one command
-tags: [File manager, Web file manager, Self-hosted, File upload, File sharing, Home server, Raspberry Pi, Open source]
+summary: Zero-dependency self-hosted file manager. Manage any server's files from your browser or phone, with no npm packages that could be hijacked
+tags: [Zero dependencies, Supply chain safe, File manager, Web file manager, Self-hosted, File upload, File sharing, Home server, Raspberry Pi, Open source]
 website: https://github.com/p32929/hopper
 source: https://github.com/p32929/hopper
 license: MIT
@@ -19,7 +19,9 @@ platforms:
   Web: https://github.com/p32929/hopper
 ---
 
-Hopper is a free, self-hosted web file manager. Getting files on or off a computer or server usually means setting up FTP, installing a client or going through a cloud drive, and it's even harder from a phone. With Hopper you run one command on the machine, open its address in any browser, and manage its files right there.
+Hopper is a free, self-hosted web file manager with zero dependencies. Getting files on or off a computer or server usually means setting up FTP, installing a client or going through a cloud drive, and it's even harder from a phone. With Hopper you run one command on the machine, open its address in any browser, and manage its files right there.
+
+What makes it different: other web file managers pull in dozens or hundreds of npm packages, and one hijacked package is all it takes to read every file on your server. Hopper uses only Node.js itself. There is nothing to `npm install`, no CDN scripts, and every line that touches your files is in one small repo you can read.
 
 1. **Browse folders** in a list or a grid, sort them and filter by name.
 2. **Upload files or whole folders** with a button or drag and drop. Big uploads carry on after a network hiccup.

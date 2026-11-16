@@ -29,4 +29,11 @@ Home is a clean new tab page extension for Chrome and Edge. Instead of a busy pa
 
 Great for anyone who opens many tabs a day and wants a calm, tidy start page.
 
-To install, download `Home.zip` from the download page and unzip it. Open `chrome://extensions` (or `edge://extensions`), turn on Developer mode, click **Load unpacked** and pick the `Home` folder. To update later, unzip the new version over the same folder and your links stay.
+Home is a browser extension for Chrome, Edge and other Chromium browsers. It is not on the Chrome Web Store, so you add it yourself in four quick steps:
+
+1. Download `Home.zip` from the download page and unzip it.
+2. Open `chrome://extensions` (or `edge://extensions`).
+3. Turn on **Developer mode** (top right).
+4. Click **Load unpacked** and pick the `Home` folder. Open a new tab and it is there.
+
+To update later, unzip the new version over the same folder and your links stay.

@@ -10,10 +10,10 @@ summary: YouTube ad blocker for Safari on iPhone and iPad. Removes pre-roll, mid
 tags: [Client project, YouTube ad blocker, Ad blocker, Safari extension, iPhone, iPad, iOS, Privacy]
 
 platforms:
-  iOS: https://apps.apple.com/gb/app/al-quran-by-quran-touch/id585240351
+  iOS: https://raw.githubusercontent.com/p32929/p32929_openstore/main/unavailable.png
 ---
 
-> **Client project.** I built this app for a client. It is not my personal app.
+> **Client project, no longer on the App Store.** I built this app for a client. It is not my personal app. It was on the App Store as "Adblock for YouTube" (apps.apple.com/au/app/adblock-for-youtube/id1592568016), but Apple no longer lists it, so there is no download. This page is kept to show the project.
 
 Adblock for YT is a YouTube ad blocker for Safari on iPhone and iPad. No more sitting through an ad before every video, or having a song or a tutorial cut off halfway. Turn the extension on in Safari once, and YouTube videos just play.
 
