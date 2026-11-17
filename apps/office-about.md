@@ -52,3 +52,5 @@ OfficeAboutHelper(this, "https://example.com/team.json").showAboutActivity()
 ```
 
 Upgrading from 1.x? Your old JSON still works. See "Migrating from 1.x" on the GitHub page.
+
+The older 2019 Java version is [MaterialOfficeAbout](https://openstore.pfay.workers.dev/app/p32929/material-office-about).
