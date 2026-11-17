@@ -16,6 +16,8 @@ platforms:
 
 tabrider example is a complete Chrome extension that shows how to use tabrider, a browser automation library with a Playwright-style API that runs inside a Chrome extension. Tools like Playwright and Puppeteer start a separate browser and need Node.js running in the background. With tabrider, your automation lives in the extension itself and works in the browser you already use.
 
+I made tabrider because I was writing browser automation with Playwright, and a lot of websites could tell it was an automated browser. I tried many things, but they kept detecting it. So I thought: what if it ran as a Chrome extension? Websites usually treat extensions as normal, not as bots, and so far it works.
+
 What makes it different: you write automations with the familiar commands from Playwright (`click`, `fill`, `waitFor`, `goto`), but they run as part of a normal Manifest V3 extension. There is no separate server, no driver to install, and no second browser to manage, and you can ship your automation to others as an extension.
 
 1. **Playwright-style commands:** open and close tabs, click, double-click, right-click, hover, type, fill, select, check, drag and drop, press keys and wait for elements.

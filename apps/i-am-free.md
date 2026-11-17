@@ -27,6 +27,8 @@ I am FREE is a job and gig app for Bangladesh. বেকার মুক্ত �
 
 Lots of people need small jobs done, like tuition, delivery, driving, repairs, design or cooking, and lots of people are looking for exactly that kind of work. Usually they only find each other by word of mouth. I am FREE puts both sides in one place. Post a job if you need help, or post your skills if you want work, then search by category and area and contact each other in one tap.
 
+My younger brother gave me the idea: what if there was a marketplace where people could post the jobs they can do, others could say what kind of person they need, and people could apply? I tried building it. Back then I didn't know a lot of things yet, and I was bad at marketing, so in the end it just got left behind.
+
 1. **Hire or get hired:** "Hiring" (লোক চাই) for jobs, and "Available" (কাজ চাই) for people offering their skills.
 2. **24 job categories across all 8 divisions,** with pay in Taka and deadlines.
 3. **Search and filter** by category and division, and sort by newest, deadline, pay or rating.
