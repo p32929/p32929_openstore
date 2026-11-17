@@ -37,3 +37,5 @@ Good for children learning their sums, students who want to be faster in exams, 
 This was a group project. Someone else made it, and I guided them on how to build an Android app. It was published on my account.
 
 Download the APK from the download page and open it to install.
+
+Want a learning game for your child or your students? Contact me through my portfolio: https://p32929.github.io

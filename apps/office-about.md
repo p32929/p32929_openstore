@@ -57,4 +57,4 @@ Upgrading from 1.x? Your old JSON still works. See "Migrating from 1.x" on the G
 
 The older 2019 Java version is [MaterialOfficeAbout](https://openstore.pfay.workers.dev/app/p32929/material-office-about).
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want a clean About screen for your team's apps? Contact me through my portfolio: https://p32929.github.io

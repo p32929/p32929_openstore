@@ -40,4 +40,4 @@ db.set('name', 'Fayaz')
 db.get('name') // 'Fayaz'
 ```
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want simple storage for your bot, script or automation? Contact me through my portfolio: https://p32929.github.io

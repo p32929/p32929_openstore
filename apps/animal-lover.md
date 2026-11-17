@@ -39,3 +39,5 @@ A nice, ad-free animal guide for kids, students, parents, teachers and anyone wh
 A friend of mine made this one. He didn't study computer science, but today he works in software, writing C#. It was a group project: I guided him on how to build an Android app, and it was published on my account.
 
 Download the APK from the download page and open it to install. Older versions are on the same page.
+
+Want an app like this for your school, zoo or nature club? Contact me through my portfolio: https://p32929.github.io

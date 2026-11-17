@@ -35,4 +35,4 @@ I made CodePresent because I wanted to make explainer videos like the No Boilerp
 
 Open the web version, make a new presentation or paste a repo link, then press play or Export MP4. You can make and present slides without any API key; the keys are only needed for the AI writing and the voice.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want your code or product explained in a clean video? Contact me through my portfolio: https://p32929.github.io

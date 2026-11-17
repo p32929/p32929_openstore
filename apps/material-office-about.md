@@ -33,4 +33,4 @@ Great for teams and small companies that publish several Android apps and want t
 
 How to use it: add JitPack to your repositories and `implementation 'com.github.p32929:MaterialOfficeAbout:1.0.6'` to your dependencies. Then create `new OfficeAboutHelper(this, "your JSON link")` and call `showAboutActivity()`. If you use ProGuard, add the keep rule from the README. For new apps, Office About 2.0.0 is the better choice.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want a clean About screen for your team's apps? Contact me through my portfolio: https://p32929.github.io

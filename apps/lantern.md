@@ -41,4 +41,4 @@ cd lantern
 
 It asks for a port and a PIN, then prints the address to open. It runs on Ubuntu, Debian and most Linux machines, even very small ones. Use it on your home network only; from outside, connect through a VPN such as Tailscale.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want a dashboard that shows your servers and services at a glance? Contact me through my portfolio: https://p32929.github.io

@@ -48,4 +48,4 @@ Great for anyone who wants to understand their days better, not just tick off ha
 
 To install, open the download page and get the APK for your phone. Most phones need the `arm64-v8a` file, older phones the `armeabi-v7a` one. Open it and allow installs from this source when Android asks.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want to find the patterns in your own life, your team or your business? Contact me through my portfolio: https://p32929.github.io

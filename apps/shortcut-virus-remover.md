@@ -28,4 +28,4 @@ It does not remove the virus itself, so scan your computer with an antivirus too
 
 To use it, download `Shortcut Virus Remover 1.0.bat` from the GitHub page, double-click it, and type the drive letter (for example `D`).
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Still stuck with a drive that won't show your files? Contact me through my portfolio: https://p32929.github.io

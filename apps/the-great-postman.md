@@ -38,4 +38,4 @@ Useful for backend and mobile developers, testers, and students learning how RES
 
 Download the APK from the download page and open it to install.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want to test or build your APIs faster? Contact me through my portfolio: https://p32929.github.io

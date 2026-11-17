@@ -56,4 +56,4 @@ Great for children learning their sums, for parents and teachers, and for adults
 
 Play it in the browser, or install it on Android, Windows, macOS or iPhone. Linux and Chromebook files are on the [download page](https://github.com/p32929/mathfinity/releases/latest).
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want a learning game for your child or your students? Contact me through my portfolio: https://p32929.github.io

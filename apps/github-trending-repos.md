@@ -30,4 +30,4 @@ Github Trending Repos shows GitHub's daily trending repositories for 29 language
 
 I made it because I wanted my own list of trending repos in the languages I care about. The more I used it, the more I enjoyed seeing what people are building, without going through GitHub's trending page one language at a time. I also wanted numbers like stars per day, to see which ones are really doing well.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want a tracker like this for the topics you care about? Contact me through my portfolio: https://p32929.github.io

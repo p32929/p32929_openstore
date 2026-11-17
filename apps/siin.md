@@ -27,4 +27,4 @@ Great for setting up a new or freshly reset Windows PC, or the same apps on many
 
 Download the `.exe` from the download page and run it as administrator, or install it with `cargo install siin`. Then paste the link to your app list and press Enter.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want a new computer ready with all your apps in one go? Contact me through my portfolio: https://p32929.github.io

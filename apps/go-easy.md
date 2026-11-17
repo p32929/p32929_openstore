@@ -29,4 +29,4 @@ Great for quick experiments, learning Go and work in progress.
 
 Download the build for your system from the releases page, or build it yourself from the source.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want the tools you use every day to get out of your way? Contact me through my portfolio: https://p32929.github.io

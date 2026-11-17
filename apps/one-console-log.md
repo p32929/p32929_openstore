@@ -27,4 +27,4 @@ Great for JavaScript and TypeScript developers who debug with `console.log` all 
 
 Install it from the VS Code Marketplace, or run `ext install p32929.one-console-log`. Then open the command palette and pick "Add console.log in this line". It only adds logs for now; for commenting or deleting all logs, use Turbo Console Log.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want a VS Code extension that fits the way you code? Contact me through my portfolio: https://p32929.github.io

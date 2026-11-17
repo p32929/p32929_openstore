@@ -38,3 +38,5 @@ For students, gardeners, nature lovers and anyone curious about medicinal plants
 This was a group project. Someone else made it, and I guided them on how to build an Android app. It was published on my account.
 
 Download the APK from the download page and open it to install.
+
+Want a guide app like this for your own subject? Contact me through my portfolio: https://p32929.github.io

@@ -29,4 +29,4 @@ Great for anyone who lives in Google Calendar and wants it always visible while 
 
 Download the installer for Windows, Mac or Linux from the download page, open the app and sign in with Google. This is an unofficial app and is not made by Google. The Mac version is for Apple Silicon Macs.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want your calendar, tasks or numbers right on your desktop? Contact me through my portfolio: https://p32929.github.io

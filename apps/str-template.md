@@ -34,4 +34,4 @@ npm install str-template-ts
 StrTemplate.format('Hello {name}!', { name: 'Fayaz' }) // Hello Fayaz!
 ```
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want help tidying up how your app handles text and messages? Contact me through my portfolio: https://p32929.github.io

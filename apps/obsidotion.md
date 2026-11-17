@@ -32,4 +32,4 @@ Version 1.1.0 (2026) fixed a bug where uploading could remove pages you made in 
 
 Download `obsidotion-plugin.zip` from the download page. In your vault, make the folder `.obsidian/plugins/obsidotion`, put the 3 files from the zip in it, then turn the plugin on in Obsidian's Community plugins.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want your notes synced with the tools your team already uses? Contact me through my portfolio: https://p32929.github.io

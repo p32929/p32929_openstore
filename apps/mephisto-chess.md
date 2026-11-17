@@ -43,4 +43,4 @@ I loved the original Mephisto game. To play it on Android I needed an emulator, 
 
 Download the APK for Android (about 8 MB; the arm64 file fits almost every phone, the armeabi-v7a file is for older ones), or play it right away in your browser. The source code is private, but the app is free.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Have an old game you love and wish you could play on your phone again? Contact me through my portfolio: https://p32929.github.io

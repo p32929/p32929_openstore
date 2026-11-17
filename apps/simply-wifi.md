@@ -33,4 +33,4 @@ It is an older package, marked as discontinued on pub.dev, and works with apps t
 flutter pub add simply_wifi
 ```
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Building something with WiFi in Flutter and stuck? Contact me through my portfolio: https://p32929.github.io

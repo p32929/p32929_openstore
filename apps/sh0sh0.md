@@ -29,4 +29,4 @@ Handy for marketers, creators, and anyone who shares links on social media or in
 
 Want to host your own copy? Sh0Sh0 needs only Netlify and Firebase to run.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want short links on your own domain, with your own brand? Contact me through my portfolio: https://p32929.github.io

@@ -29,4 +29,4 @@ I made it for myself when I worked on Fiverr and Upwork. Sharing contact details
 
 Because it was made for my own use, it is simple. Delete stops the link from working, but the text isn't erased from the database, and messages aren't encrypted. Don't use it for bank details or passwords. It's fine for everyday info.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a private way to share things with your clients or team? Contact me through my portfolio: https://p32929.github.io

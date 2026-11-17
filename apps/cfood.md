@@ -27,4 +27,4 @@ I made it because I was thinking about making my own complete food. I felt I mig
 
 Great for eating healthy on a small budget, or for busy people who don't want to cook every meal.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a recipe or food finder made for your own diet or business? Contact me through my portfolio: https://p32929.github.io

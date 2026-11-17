@@ -26,4 +26,4 @@ Great for Vim and Neovim users who live in VS Code and keep getting caught in in
 
 Install it from the VS Code Marketplace, or search for "vscode-nvim-leave-insertmode" in the Extensions panel.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want VS Code to work the way your fingers do? Contact me through my portfolio: https://p32929.github.io

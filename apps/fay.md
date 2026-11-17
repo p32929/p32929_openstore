@@ -32,4 +32,4 @@ cargo install fay
 
 Then type `fay` and press Enter.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want your daily commands to run themselves? Contact me through my portfolio: https://p32929.github.io

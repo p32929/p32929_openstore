@@ -38,4 +38,4 @@ FayFetch.get(url, params, headers, (status, jsonData, ok) => {
 })
 ```
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want a clean API layer for your JavaScript project? Contact me through my portfolio: https://p32929.github.io

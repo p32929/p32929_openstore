@@ -44,4 +44,4 @@ FM_PASSWORD='something long' node server.js
 
 Then open `http://<your-machine>:3999`. It needs Node.js 18 or newer. Always set a password, or anyone on your network can change your files.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want an easy way for your team to move files to and from your servers? Contact me through my portfolio: https://p32929.github.io

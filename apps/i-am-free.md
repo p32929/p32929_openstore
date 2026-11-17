@@ -41,4 +41,4 @@ Good for students looking for tuition or part-time work, freelancers, and famili
 
 Download the APK from the download page and open it to install. This showcase works without internet or an account.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a job or service marketplace for your own community? Contact me through my portfolio: https://p32929.github.io

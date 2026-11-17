@@ -30,4 +30,4 @@ To use it, copy `ManufacturerBatteryOptimization.kt` or `ManufacturerBatteryOpti
 ManufacturerBatteryOptimization.showDialogIfNeeded(this)
 ```
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Is your Android app getting stopped in the background? Contact me through my portfolio: https://p32929.github.io

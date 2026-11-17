@@ -35,4 +35,4 @@ I was a huge fan of Tzuyu at the time, honestly a bit crazy about her, and I had
 
 Download the APK from the download page and open it to install.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want to wish your favourite person a happy birthday in a way they won't forget? Contact me through my portfolio: https://p32929.github.io

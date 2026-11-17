@@ -41,4 +41,4 @@ Great for studying without distractions, sleeping instead of scrolling in bed, f
 
 Put Phone Down used to be called "Sleepy - Addiction Controller". Download the APK from the download page and open it to install.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want your phone time under control, or an app like this for your family? Contact me through my portfolio: https://p32929.github.io

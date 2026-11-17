@@ -29,4 +29,4 @@ Great for Android developers adding Facebook Login who just want the key hash an
 
 I made it because I needed an easy way to get this value for Facebook Login. Every other way meant adding a log inside the Android app and running it, which took too long, so I wanted something easier.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want the boring parts of your Android setup done for you? Contact me through my portfolio: https://p32929.github.io

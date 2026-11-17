@@ -36,4 +36,4 @@ From my first portfolio on, my goal has been the same: anybody should be able to
 
 How to use it: fork the repository and rename the fork to `your-github-username.github.io`. Clone it, edit `src/Others/GlobalVars.ts`, then run `npm run predeploy` and `npm run deploy`. In your repository settings, point GitHub Pages at the `master` branch. Your portfolio shows up at `https://your-github-username.github.io/` within a few minutes.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want a portfolio of your own that's easy to keep up to date? Contact me through my portfolio: https://p32929.github.io

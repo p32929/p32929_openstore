@@ -37,3 +37,5 @@ Fun for anyone who enjoys puzzles, and useful practice for aptitude or IQ-style 
 This was a group project. Someone else made it, and I guided them on how to build an Android app. It was published on my account.
 
 Download the APK from the download page and open it to install.
+
+Want a quiz or brain game for your students or brand? Contact me through my portfolio: https://p32929.github.io

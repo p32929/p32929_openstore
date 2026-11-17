@@ -34,3 +34,5 @@ A Jibanananda Das poetry app for anyone who loves Bangla poetry. Read 49 of his 
 This was a group project. Someone else made it, and I guided them on how to build an Android app. It was published on my account.
 
 Recitations need the internet. Download the APK from the download page and open it to install.
+
+Want your favourite poems, stories or recitations in an app like this? Contact me through my portfolio: https://p32929.github.io

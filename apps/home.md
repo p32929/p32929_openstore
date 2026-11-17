@@ -40,4 +40,4 @@ Home is a browser extension for Chrome, Edge and other Chromium browsers. It is 
 
 To update later, unzip the new version over the same folder and your links stay.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want a new tab page made for you or your team? Contact me through my portfolio: https://p32929.github.io

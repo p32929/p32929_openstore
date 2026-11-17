@@ -36,4 +36,4 @@ I made Desplash because I didn't really like the wallpapers on my phone. There w
 
 Download the APK and open it to install.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a wallpaper or photo app with your own collection? Contact me through my portfolio: https://p32929.github.io

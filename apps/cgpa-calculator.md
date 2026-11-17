@@ -38,4 +38,4 @@ This was my very first Android app made public for everyone. I was at university
 
 Download the APK from the download page and open it to install.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a handy app like this for your university or students? Contact me through my portfolio: https://p32929.github.io

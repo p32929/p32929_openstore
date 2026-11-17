@@ -32,4 +32,4 @@ Even with this first one, my goal was that anybody could make their own portfoli
 
 How to use it: fork the repository and clone your fork, then run `npm install`. Edit the files in `src/vars/` (home, skills, projects, contact and the side menu). Set `homepage` in `package.json` to your own address, run `npm run deploy`, and set GitHub Pages to the `gh-pages` branch in your repository settings.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want a portfolio of your own that's easy to keep up to date? Contact me through my portfolio: https://p32929.github.io

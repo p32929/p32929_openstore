@@ -32,4 +32,4 @@ I made this when I had just started learning React a bit. I have always been a s
 
 How to use it: open the page and set it as your browser's homepage or startup page in the browser settings. Then add your links with the Add button.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want a start page that keeps your team's important links in one place? Contact me through my portfolio: https://p32929.github.io

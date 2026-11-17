@@ -36,4 +36,4 @@ Back then, Bangladesh's main marketplace for old stuff was bikroy.com, and it as
 
 Download the APK from the download page and open it to install. It needs no internet and no account. Sample photos are from Wikimedia Commons; credits are inside the app.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a marketplace app for your own city or community? Contact me through my portfolio: https://p32929.github.io

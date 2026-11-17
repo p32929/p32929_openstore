@@ -34,4 +34,4 @@ npm install
 npm run setup
 ```
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want your terminal to tell you more, like sending a message to your phone? Contact me through my portfolio: https://p32929.github.io

@@ -38,3 +38,5 @@ Made for school students in Bangladesh, and handy for parents, teachers and tuto
 This was a group project. Someone else made it, and I guided them on how to build an Android app. It was published on my account.
 
 Download the APK from the download page and open it to install. Older versions are on the same page.
+
+Want your books or study material in an easy reading app like this? Contact me through my portfolio: https://p32929.github.io

@@ -41,4 +41,4 @@ npm install -g heartcode
 
 Then run `heart` in your project folder and type `/settings` to add your providers.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want an AI agent that automates your own work? Contact me through my portfolio: https://p32929.github.io

@@ -51,4 +51,4 @@ I made it because my duas were scattered everywhere, and I wanted my own collect
 
 Open it in your browser, or download it for your device from the releases page.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want an app like this for your masjid, community or your own collection? Contact me through my portfolio: https://p32929.github.io

@@ -37,4 +37,4 @@ ccheckpoints
 
 You can also use the short name `ccp`.
 
-Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
+Want a tool that fits the way you work with AI coding agents? Contact me through my portfolio: https://p32929.github.io
