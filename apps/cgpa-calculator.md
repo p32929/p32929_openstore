@@ -34,4 +34,6 @@ CGPA Calculator is a free Android app for university students who want to know t
 
 Handy when results come out, when planning the grades you need next term, or when a form asks for your CGPA.
 
+This was my very first Android app made public for everyone. I was at university and just learning Android development, and a friend who lived in my building asked if I could build him something like this. Having one person to show my progress to and get feedback from kept me going, and he loved it. I didn't have a Google Play account then, or the money for one, around 2015. So I asked in some Facebook groups if anyone would let me publish on their account, and offered to put their name in the app. A person from America replied that he would pay for it, and he actually bought me my first Google Play account. I was super happy.
+
 Download the APK from the download page and open it to install.

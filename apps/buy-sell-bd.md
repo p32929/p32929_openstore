@@ -32,4 +32,6 @@ Buy Sell BD is a free buy and sell app for Bangladesh. Selling your old phone or
 5. **Post an ad with no signup,** with up to 5 photos. Edit it, mark it sold or delete it.
 6. **Light and dark mode.** No ads.
 
+Back then, Bangladesh's main marketplace for old stuff was bikroy.com, and it asked for money for some things, which felt unfair to me. So I made this, just to rebel a little. Later Facebook started its own marketplace for free :P I was happy :P
+
 Download the APK from the download page and open it to install. It needs no internet and no account. Sample photos are from Wikimedia Commons; credits are inside the app.

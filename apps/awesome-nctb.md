@@ -35,4 +35,6 @@ NCTB is the National Curriculum and Textbook Board of Bangladesh, which makes th
 
 Made for school students in Bangladesh, and handy for parents, teachers and tutors too.
 
+This was a group project. Someone else made it, and I guided them on how to build an Android app. It was published on my account.
+
 Download the APK from the download page and open it to install. Older versions are on the same page.

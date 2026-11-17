@@ -31,4 +31,6 @@ A Jibanananda Das poetry app for anyone who loves Bangla poetry. Read 49 of his 
 5. **A short biography** of Jibanananda Das, with its own recitation.
 6. **Light and dark mode.**
 
+This was a group project. Someone else made it, and I guided them on how to build an Android app. It was published on my account.
+
 Recitations need the internet. Download the APK from the download page and open it to install.

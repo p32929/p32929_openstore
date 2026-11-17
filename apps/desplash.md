@@ -32,4 +32,6 @@ Desplash is a free HD wallpaper app for Android. You look at your phone many tim
 5. **Save favourites** and choose the photo quality to save mobile data.
 6. **Free, no ads,** with light and dark mode.
 
+I made Desplash because I didn't really like the wallpapers on my phone. There were lots of wallpaper apps, but I wanted my wallpapers from Unsplash, and a new one each time I locked or unlocked my phone.
+
 Download the APK and open it to install.
