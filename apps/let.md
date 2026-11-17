@@ -47,3 +47,5 @@ What makes it different: it looks for patterns across everything you track, not 
 Great for anyone who wants to understand their days better, not just tick off habits.
 
 To install, open the download page and get the APK for your phone. Most phones need the `arm64-v8a` file, older phones the `armeabi-v7a` one. Open it and allow installs from this source when Android asks.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

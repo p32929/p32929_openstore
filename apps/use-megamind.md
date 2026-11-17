@@ -34,3 +34,5 @@ npm install use-megamind
 ```tsx
 const { data, error, isLoading } = useMegamind(myAsyncFunction)
 ```
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

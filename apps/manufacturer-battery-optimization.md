@@ -29,3 +29,5 @@ To use it, copy `ManufacturerBatteryOptimization.kt` or `ManufacturerBatteryOpti
 ```kotlin
 ManufacturerBatteryOptimization.showDialogIfNeeded(this)
 ```
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

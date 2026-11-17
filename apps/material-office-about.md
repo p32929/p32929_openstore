@@ -32,3 +32,5 @@ What makes it different: two lines of code add the whole screen, and all the con
 Great for teams and small companies that publish several Android apps and want the same About screen in all of them.
 
 How to use it: add JitPack to your repositories and `implementation 'com.github.p32929:MaterialOfficeAbout:1.0.6'` to your dependencies. Then create `new OfficeAboutHelper(this, "your JSON link")` and call `showAboutActivity()`. If you use ProGuard, add the keep rule from the README. For new apps, Office About 2.0.0 is the better choice.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

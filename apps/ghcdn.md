@@ -28,3 +28,5 @@ It is made for small files like scripts, styles and JSON, not big files or pictu
 ## Host it yourself
 
 Deploy it to Vercel, Netlify, Railway, Docker or most other hosts. Add a GitHub token if you need private repositories or a higher request limit.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

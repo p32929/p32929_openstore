@@ -31,3 +31,5 @@ Great for people who keep notes in Obsidian but also need them in Notion.
 Version 1.1.0 (2026) fixed a bug where uploading could remove pages you made in Notion, and added the pulling of new Notion pages. To set it up, you create a Notion integration and connect it to a database. The project page has the steps.
 
 Download `obsidotion-plugin.zip` from the download page. In your vault, make the folder `.obsidian/plugins/obsidotion`, put the 3 files from the zip in it, then turn the plugin on in Obsidian's Community plugins.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

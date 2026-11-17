@@ -28,3 +28,5 @@ I made it because I really hated that Go wouldn't build a project until you remo
 Great for quick experiments, learning Go and work in progress.
 
 Download the build for your system from the releases page, or build it yourself from the source.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

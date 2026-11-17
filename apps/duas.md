@@ -50,3 +50,5 @@ I made it because my duas were scattered everywhere, and I wanted my own collect
 6. **Works everywhere:** in the browser, on Android, Windows, macOS, Linux and iPhone. Linux, Chromebook and older Android files are on the [releases page](https://github.com/p32929/duas/releases/latest).
 
 Open it in your browser, or download it for your device from the releases page.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

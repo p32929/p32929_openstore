@@ -20,3 +20,5 @@ DramaDB helps you find the best Korean and Asian dramas to watch. There are thou
 3. **See every poster** at a glance, on your computer or your phone.
 
 I used to watch Korean dramas on a site called KissAsian, which is gone now. It didn't have many filters, so I built my own. The irony is that I built something to save time, so I could spend more time watching dramas 😅
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

@@ -36,3 +36,5 @@ ccheckpoints
 ```
 
 You can also use the short name `ccp`.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

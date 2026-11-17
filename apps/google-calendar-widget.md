@@ -28,3 +28,5 @@ I made it because Google has no desktop app for Calendar, and I was tired of hun
 Great for anyone who lives in Google Calendar and wants it always visible while they work.
 
 Download the installer for Windows, Mac or Linux from the download page, open the app and sign in with Google. This is an unofficial app and is not made by Google. The Mac version is for Apple Silicon Macs.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

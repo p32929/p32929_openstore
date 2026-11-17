@@ -57,3 +57,5 @@ onBackPressedDispatcher.addCallback(this) { houseAds.showInterAds() }
 ```
 
 Upgrading from 1.x? The main calls are the same, so most apps only need the new version number.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

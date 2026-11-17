@@ -35,3 +35,5 @@ This one is still one of my favourites, even though I don't use it myself any mo
 From my first portfolio on, my goal has been the same: anybody should be able to make their own portfolio without changing much. All my portfolio versions are built the same way, with the content kept apart from the layout. Here everything sits in one file, `src/Others/GlobalVars.ts`, so you fork it, put in your own details, and you're done.
 
 How to use it: fork the repository and rename the fork to `your-github-username.github.io`. Clone it, edit `src/Others/GlobalVars.ts`, then run `npm run predeploy` and `npm run deploy`. In your repository settings, point GitHub Pages at the `master` branch. Your portfolio shows up at `https://your-github-username.github.io/` within a few minutes.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

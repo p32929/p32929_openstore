@@ -31,3 +31,5 @@ What makes it different: you write automations with the familiar commands from P
 Great for developers who want to automate repetitive work in the browser, like filling forms or collecting data, and share it as an extension.
 
 To try it, you need Node.js. Clone the repository and run `./run_prod.sh`, then open `chrome://extensions`, turn on Developer mode, click **Load unpacked** and pick the `dist` folder. To use tabrider in your own extension, run `npm install tabrider`.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

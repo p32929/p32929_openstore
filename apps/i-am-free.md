@@ -40,3 +40,5 @@ My younger brother gave me the idea: what if there was a marketplace where peopl
 Good for students looking for tuition or part-time work, freelancers, and families or small businesses who need someone for a small job.
 
 Download the APK from the download page and open it to install. This showcase works without internet or an account.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

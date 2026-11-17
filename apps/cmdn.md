@@ -33,3 +33,5 @@ cd cmdn
 npm install
 npm run setup
 ```
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

@@ -43,3 +43,5 @@ FM_PASSWORD='something long' node server.js
 ```
 
 Then open `http://<your-machine>:3999`. It needs Node.js 18 or newer. Always set a password, or anyone on your network can change your files.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

@@ -32,3 +32,5 @@ Boom is inspired by xkill on Linux, where you press a shortcut and click a froze
 ## Install
 
 Download `Boom-1.2.zip` from the download page, unzip it and move Boom to your Applications folder. The first time, right-click it and choose Open. It needs macOS 13 or newer, and macOS may ask you to allow it to control other apps (System Settings, Privacy & Security, Automation).
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

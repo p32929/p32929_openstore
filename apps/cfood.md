@@ -26,3 +26,5 @@ I made it because I was thinking about making my own complete food. I felt I mig
 5. **Save favourites,** on your computer or your phone.
 
 Great for eating healthy on a small budget, or for busy people who don't want to cook every meal.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

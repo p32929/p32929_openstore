@@ -42,3 +42,5 @@ Great for beginners who want to get better at chess, and for anyone who wants a 
 I loved the original Mephisto game. To play it on Android I needed an emulator, where touch didn't work and I had to use the up, down, left and right keys, which was hard. So I rewrote it properly, with the original game engine, so it plays just like the original.
 
 Download the APK for Android (about 8 MB; the arm64 file fits almost every phone, the armeabi-v7a file is for older ones), or play it right away in your browser. The source code is private, but the app is free.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

@@ -34,3 +34,5 @@ BirthdayBot is a birthday wish app, made as a personal birthday surprise for one
 I was a huge fan of Tzuyu at the time, honestly a bit crazy about her, and I had just started learning Android development. It was her birthday, so I made this app for her. After that I kept reusing it. Whenever I wanted to wish someone a happy birthday, I made a new version with their name, photos and wishes and sent it to them. They always loved it.
 
 Download the APK from the download page and open it to install.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

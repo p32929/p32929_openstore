@@ -27,3 +27,5 @@ I made it because the Pomodoro apps I used never forced me to take a break. I ke
 Great for students, developers and anyone who loses track of time at the computer.
 
 Download the installer for Windows, Mac or Linux from the download page and run it.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

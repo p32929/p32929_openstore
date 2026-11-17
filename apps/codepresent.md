@@ -34,3 +34,5 @@ Great for developers who explain code in tutorials, YouTube videos, team onboard
 I made CodePresent because I wanted to make explainer videos like the No Boilerplate YouTube channel, whose way of explaining I love. I thought about starting a channel like that, but never did. I used it once or twice, then life happened and I got busy.
 
 Open the web version, make a new presentation or paste a repo link, then press play or Export MP4. You can make and present slides without any API key; the keys are only needed for the AI writing and the voice.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

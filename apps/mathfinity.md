@@ -55,3 +55,5 @@ I made it for my little cousin. He wasn't studying and was playing games all the
 Great for children learning their sums, for parents and teachers, and for adults who want to keep their mental maths sharp.
 
 Play it in the browser, or install it on Android, Windows, macOS or iPhone. Linux and Chromebook files are on the [download page](https://github.com/p32929/mathfinity/releases/latest).
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

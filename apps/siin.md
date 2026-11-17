@@ -26,3 +26,5 @@ I made it because setting up a new PC meant clicking through one installer after
 Great for setting up a new or freshly reset Windows PC, or the same apps on many computers.
 
 Download the `.exe` from the download page and run it as administrator, or install it with `cargo install siin`. Then paste the link to your app list and press Enter.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

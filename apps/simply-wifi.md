@@ -32,3 +32,5 @@ It is an older package, marked as discontinued on pub.dev, and works with apps t
 ```bash
 flutter pub add simply_wifi
 ```
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

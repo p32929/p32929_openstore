@@ -28,3 +28,5 @@ s3cr3tm3 lets you share a private note with a link. Sometimes you need to send a
 I made it for myself when I worked on Fiverr and Upwork. Sharing contact details in their chats can get your account banned, so I looked for a way around it and built one, because I love building.
 
 Because it was made for my own use, it is simple. Delete stops the link from working, but the text isn't erased from the database, and messages aren't encrypted. Don't use it for bank details or passwords. It's fine for everyday info.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

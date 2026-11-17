@@ -33,3 +33,5 @@ npm install str-template-ts
 ```ts
 StrTemplate.format('Hello {name}!', { name: 'Fayaz' }) // Hello Fayaz!
 ```
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

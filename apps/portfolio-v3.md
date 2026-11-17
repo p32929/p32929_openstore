@@ -34,3 +34,5 @@ Great for developers who want a portfolio that is easy to keep up to date.
 From my first portfolio on, my goal has been the same: anybody should be able to make their own portfolio without changing much. All three versions are built the same way, with the content kept apart from the layout. In v1 it sits in five small files, in v2 and v3 in a single file. Fork it, put in your own details, and you're done.
 
 How to use it: fork the repository and rename the fork to `your-github-username.github.io`. Clone it, put your own data in `src/lib/DynamicValues.ts`, then run `npm run predeploy` and `npm run deploy`. In the repository settings, under Pages, set the source to the `master` branch.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

@@ -37,3 +37,5 @@ I made it because I wanted to test APIs from my phone. I didn't like the other a
 Useful for backend and mobile developers, testers, and students learning how REST APIs work.
 
 Download the APK from the download page and open it to install.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

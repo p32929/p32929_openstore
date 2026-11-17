@@ -27,3 +27,5 @@ Great for anyone whose pen drive or memory card suddenly shows only shortcuts.
 It does not remove the virus itself, so scan your computer with an antivirus too. Run it only on the infected drive, not on your C: drive. It deletes every shortcut on that drive, so move any real shortcuts off it first.
 
 To use it, download `Shortcut Virus Remover 1.0.bat` from the GitHub page, double-click it, and type the drive letter (for example `D`).
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

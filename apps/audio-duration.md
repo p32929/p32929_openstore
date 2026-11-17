@@ -32,3 +32,5 @@ flutter pub add audio_duration
 ```dart
 var ms = await AudioDuration.getAudioDuration('/path/to/file.mp3');
 ```
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

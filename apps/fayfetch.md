@@ -37,3 +37,5 @@ FayFetch.get(url, params, headers, (status, jsonData, ok) => {
   if (ok) console.log(jsonData)
 })
 ```
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

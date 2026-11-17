@@ -17,7 +17,7 @@ platforms:
 ---
 Sh0Sh0 is a free URL shortener with click analytics. Long links look messy when you share them, and they tell you nothing about who opened them. Paste a link, get a short one with your own custom code, and see every click: where it came from and on what device. There is no limit on links and no credit card needed.
 
-I made it because I was looking for a URL shortener I could host myself, and almost all of them needed a lot of things to self-host. So I made one that is just a client-side React app and nothing else, so it's simple and easy to set up. If you'd like to buy its source code, contact me.
+I made it because I was looking for a URL shortener I could host myself, and almost all of them needed a lot of things to self-host. So I made one that is just a client-side React app and nothing else, so it's simple and easy to set up.
 
 1. **Short links** with your own custom codes.
 2. **Click analytics** for every link: clicks, places, devices and behaviour.

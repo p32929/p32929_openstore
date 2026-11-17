@@ -38,3 +38,5 @@ curl -fsSL https://raw.githubusercontent.com/p32929/oaifai/master/install.sh | s
 ```
 
 Then run `oaifai`. It asks for your sudo password, because scanning and changing network settings need it. On other systems, build it from source with `cargo build --release`.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

@@ -39,3 +39,5 @@ Ollama Models Explorer helps you find the best Ollama model for your computer. O
 I made this because on Ollama's own site it took too many clicks to see a model's parameters and size. I wanted to see them at a glance and compare models easily.
 
 Speeds are estimates. The public site is on a free host, so for the fastest experience you can run your own copy from the [source code](https://github.com/p32929/ollama_models_explorer).
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

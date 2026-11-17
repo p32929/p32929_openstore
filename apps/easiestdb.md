@@ -31,3 +31,5 @@ This is an older package and is marked as discontinued on pub.dev.
 ```bash
 flutter pub add easiestdb
 ```
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

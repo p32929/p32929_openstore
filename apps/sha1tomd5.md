@@ -28,3 +28,5 @@ Sha1ToMd5 gives you the key hash that Facebook Login asks for when you add an An
 Great for Android developers adding Facebook Login who just want the key hash and move on.
 
 I made it because I needed an easy way to get this value for Facebook Login. Every other way meant adding a log inside the Android app and running it, which took too long, so I wanted something easier.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

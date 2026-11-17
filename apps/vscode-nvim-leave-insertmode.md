@@ -25,3 +25,5 @@ I made it because I was using Vim keys inside VS Code and kept getting stuck bet
 Great for Vim and Neovim users who live in VS Code and keep getting caught in insert mode.
 
 Install it from the VS Code Marketplace, or search for "vscode-nvim-leave-insertmode" in the Extensions panel.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

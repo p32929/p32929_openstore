@@ -30,3 +30,5 @@ Great for developers whose Mac keeps filling up, and for anyone who wants to rem
 I made ByteBroom because my Mac kept running out of space and I couldn't tell which apps or files were eating it. I was writing scripts to find out, so I turned that into an easy app instead.
 
 Download the `.dmg`, open it and drag ByteBroom onto Applications. It works on Apple Silicon Macs. The first time, macOS may block it: open System Settings, Privacy & Security, and click Open Anyway. Give it Full Disk Access so it can find every folder.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

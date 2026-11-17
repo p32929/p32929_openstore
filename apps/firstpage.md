@@ -31,3 +31,5 @@ Great for anyone who opens the same few sites every day.
 I made this when I had just started learning React a bit. I have always been a solution-centric person: when something bothers me, I like to build a fix for it. I kept losing my important links, like a direct link to a Slack conversation, and finding them again was costing me time. So I made one page that keeps them all in one place.
 
 How to use it: open the page and set it as your browser's homepage or startup page in the browser settings. Then add your links with the Add button.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

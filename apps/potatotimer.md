@@ -24,3 +24,5 @@ I made it because the Pomodoro apps I used never forced me to take a break. I ke
 Great for anyone who sits at a computer for hours and forgets to rest their eyes and back.
 
 Download the installer for Windows from the download page and run it.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

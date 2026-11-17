@@ -39,3 +39,5 @@ Home is a browser extension for Chrome, Edge and other Chromium browsers. It is 
 4. Click **Load unpacked** and pick the `Home` folder. Open a new tab and it is there.
 
 To update later, unzip the new version over the same folder and your links stay.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io

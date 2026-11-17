@@ -31,3 +31,5 @@ Great for developers who want a simple portfolio online in about ten minutes.
 Even with this first one, my goal was that anybody could make their own portfolio without changing much. So the content is kept apart from the layout: everything you need to change sits in five small files in `src/vars/`, one per section. My later versions kept the same idea, with everything in a single file.
 
 How to use it: fork the repository and clone your fork, then run `npm install`. Edit the files in `src/vars/` (home, skills, projects, contact and the side menu). Set `homepage` in `package.json` to your own address, run `npm run deploy`, and set GitHub Pages to the `gh-pages` branch in your repository settings.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
