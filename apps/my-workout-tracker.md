@@ -17,9 +17,9 @@ source: https://github.com/p32929/home_workout_react_native
 
 platforms:
   Android:
-    - version: "1.0.0"
+    - version: "1.0.1"
       date: 2026-11-17
-      changelog: First public version
+      changelog: Much smaller download, about 17 MB instead of 54 MB. Pick the arm64 file for most phones
       url: https://github.com/p32929/p32929_openstore/releases/tag/my-workout-tracker
   Web: https://p32929.github.io/home_workout_react_native/
 ---
@@ -40,4 +40,4 @@ Great for anyone who wants a simple, free place to log home or gym workouts.
 
 I made this app just for myself. I needed a simple workout tracker, but almost every one I found on the Google Play Store was paid or kept asking me to pay. So I made my own. I didn't build it with other people in mind, but if it helps you too, great.
 
-Download the APK for Android, or open the web version. There is no iPhone download yet: the iOS app can be built from the source code. Then add an exercise in Exercises, tap Log Today's Workout and save your sets. It's still being built, so new things may change.
+Download the APK for Android (about 17 MB; the arm64 file fits almost every phone, the armeabi-v7a file is for older ones), or open the web version. There is no iPhone download yet: the iOS app can be built from the source code. Then add an exercise in Exercises, tap Log Today's Workout and save your sets. It's still being built, so new things may change.
