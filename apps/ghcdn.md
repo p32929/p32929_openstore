@@ -19,7 +19,9 @@ ghcdn is a free GitHub CDN. You keep a script, a stylesheet or a JSON file on Gi
 1. **Load JavaScript and CSS** from your own repos on any web page.
 2. **Read JSON files** like settings with `fetch()`.
 3. **Show a Gist's code** or serve plain text from a repo.
-4. **Faster repeat loads,** and you can clear the saved copy when a file changes.
+4. **Faster repeat loads,** a list of the files it has cached, and you can clear the saved copy when a file changes.
+
+I made ghcdn because loading files from GitHub into my web pages kept running into CORS errors. Some tools fixed part of it, but none handled both GitHub files and Gists for free, so I built my own. Now I can put any file on my pages, and it shows me which files are cached.
 
 It is made for small files like scripts, styles and JSON, not big files or pictures.
 

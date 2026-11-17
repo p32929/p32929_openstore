@@ -31,6 +31,8 @@ What makes it different: tools like this usually pull in hundreds of npm package
 
 Great for side projects and hobby apps that run on free or low-tier API keys.
 
+I made rotato because I had collected API keys from many providers, each with its own limits, and I was switching between them by hand. I wanted that done for me. I kept seeing supply-chain attacks on social media, so I built it on Node.js alone, with zero third-party packages. And I wanted it as easy as possible: proxies are built in, so you don't have to collect them yourself, testing is built in, and you set it up with one `.env` file.
+
 ## Run it
 
 ```bash

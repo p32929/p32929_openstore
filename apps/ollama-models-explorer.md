@@ -36,4 +36,6 @@ Ollama Models Explorer helps you find the best Ollama model for your computer. O
 9. **Share a link** to your search or comparison.
 10. **Works well on phones,** with light and dark mode.
 
+I made this because on Ollama's own site it took too many clicks to see a model's parameters and size. I wanted to see them at a glance and compare models easily.
+
 Speeds are estimates. The public site is on a free host, so for the fastest experience you can run your own copy from the [source code](https://github.com/p32929/ollama_models_explorer).

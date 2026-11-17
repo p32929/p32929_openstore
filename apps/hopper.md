@@ -32,6 +32,8 @@ What makes it different: other web file managers pull in dozens or hundreds of n
 
 Handy for a home server, a Raspberry Pi, a remote machine, or just sending files from your phone to your computer.
 
+I made Hopper because I kept moving files between Google Cloud and my own computer, and doing it over SSH was more complicated than it needed to be. So I made something simpler.
+
 ## Run it
 
 ```bash

@@ -29,6 +29,8 @@ What makes it different: it reads files full of your code and conversations, so 
 
 Great for anyone who uses Claude Code every day across many projects.
 
+I made cccsss because I kept needing to find my old Claude Code sessions again. I wanted it to have zero dependencies and be easy to run, and to open the conversation for me instead of making me copy a session ID.
+
 ## Install
 
 You need Node.js 18 or newer.

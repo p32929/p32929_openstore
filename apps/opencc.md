@@ -28,6 +28,8 @@ What makes it different: other Claude Code proxies pull in many npm packages, an
 
 Great for anyone who likes Claude Code but wants to run it on free or local models.
 
+I made opencc because I wanted to use Claude Code with free and local models.
+
 ## Run it
 
 You need Node.js 18 or newer.

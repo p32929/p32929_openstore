@@ -28,4 +28,4 @@ Github Trending Repos shows GitHub's daily trending repositories for 29 language
 4. **29 languages,** from Python, JavaScript, TypeScript, Rust and Go to Dart, Kotlin, Swift and Zig, plus GitHub's overall list.
 5. **Free, no sign-up,** and it works on a phone, a tablet and a computer.
 
-I made it because I wanted the trending repos for the languages I care about, all on one page instead of one tab per language.
+I made it because I wanted my own list of trending repos in the languages I care about. The more I used it, the more I enjoyed seeing what people are building, without going through GitHub's trending page one language at a time. I also wanted numbers like stars per day, to see which ones are really doing well.

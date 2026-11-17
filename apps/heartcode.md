@@ -29,6 +29,8 @@ What makes it different: a coding agent runs with your files, your keys and your
 
 Great for developers who want a capable coding agent on free or local models, without trusting a pile of packages.
 
+I made HeartCode because I wanted the free models out there to do useful work, not just say hi. I kept making it better until I could rely on it myself, and these days I use it mostly for automation.
+
 ## Install
 
 You need Node.js 22 or newer.

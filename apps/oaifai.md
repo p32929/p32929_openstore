@@ -27,6 +27,8 @@ What makes it different: changing WiFi on a headless server is risky, because on
 
 Great for home servers, mini PCs and Raspberry Pi style machines running Ubuntu Server.
 
+I made oaifai after I installed a Linux server on a Chromebook, where connecting to WiFi was a pain. I know there are plenty of tools for this, but I wanted my own, so I wrote it in Rust.
+
 Good to know: it is for Linux x86_64 with netplan, and right now it expects the WiFi interface `wlp1s0` and the netplan file `00-installer-config.yaml`. Pressing `d` drops your network straight away, which also ends an SSH session that uses it.
 
 ## Install

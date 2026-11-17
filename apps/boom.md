@@ -19,11 +19,13 @@ Boom is a tiny Mac menu bar app that force quits all your open apps in one click
 What makes it different: most "quit all" tools are a script you have to run, or a menu that also kills parts of macOS. Boom lives in the menu bar and only closes the apps you opened. Finder, the Dock, the menu bar, Control Center, Notification Center, background helpers and Boom itself keep running.
 
 1. **Force Close All:** force quits every app you opened, in one click.
-2. **Force Shut Down:** closes every app and then shuts down your Mac.
+2. **Force Shut Down or Force Restart:** closes every app, then shuts down or restarts your Mac.
 3. **Launch at Login,** if you want it there every day.
 4. **Stays out of the way:** menu bar only, no Dock icon, and only one copy can run.
 
 Great for anyone whose Mac ends the day with dozens of open apps, or gets stuck with frozen ones.
+
+Boom is inspired by xkill on Linux, where you press a shortcut and click a frozen window to kill it. I wanted something better for my Mac: shutting down or restarting often didn't go through, because a terminal or an iOS simulator wouldn't close. So I made it one click: everything closes, and the Mac shuts down or restarts without me closing things by hand.
 
 **Warning:** Boom closes apps without asking to save, so any unsaved work in them is lost. Save first. Force Shut Down also turns off macOS reopening your windows after a restart, so apps start fresh next time.
 

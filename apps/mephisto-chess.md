@@ -39,4 +39,6 @@ What makes it different: it is the 2005 Mephisto mobile chess engine, rebuilt so
 
 Great for beginners who want to get better at chess, and for anyone who wants a quick offline game.
 
+I loved the original Mephisto game. To play it on Android I needed an emulator, where touch didn't work and I had to use the up, down, left and right keys, which was hard. So I rewrote it properly, with the original game engine, so it plays just like the original.
+
 Download the APK for Android (about 8 MB; the arm64 file fits almost every phone, the armeabi-v7a file is for older ones), or play it right away in your browser. The source code is private, but the app is free.
