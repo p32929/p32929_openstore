@@ -7,17 +7,17 @@ screenshots:
   - screenshots/let/shot-3.png
   - screenshots/let/shot-4.png
 category: Productivity
-summary: Offline habit and life event tracker. Log habits, numbers and notes each day, then see your streaks, trends and patterns. Your data stays on your phone
+summary: Offline habit and life event tracker. Log habits, numbers and notes each day, then see your streaks, patterns and a forecast of the days ahead
 tags: [Habit tracker, Life tracker, Daily journal, Mood tracker, Streaks, Offline, Android, Open source]
 website: https://github.com/p32929/let
 source: https://github.com/p32929/let
 
 platforms:
   Android:
-    - version: "1.0.0"
-      date: 2025-11-29
-      changelog: First release
-      url: https://github.com/p32929/let/releases/tag/v1.0.0
+    - version: "1.1.0"
+      date: 2026-11-17
+      changelog: New Forecast screen that guesses what is likely in the next 14 days from your own patterns, with a reason for each guess
+      url: https://github.com/p32929/let/releases/tag/v1.1.0
 ---
 
 > **Still being built.** LET works, but it is a work in progress, so expect rough edges and changes.
@@ -32,9 +32,16 @@ What makes it different: it looks for patterns across everything you track, not 
 2. **A week view** to fill in each day quickly, and move between weeks with a swipe or a calendar.
 3. **Dashboard** with streaks, milestones, personal records and your best days of the week.
 4. **Patterns and trends** over 7 days, 30 days, 90 days or a year, with charts.
-5. **Your own colors** for each event, and you can reorder them.
-6. **Export and import** your data as a JSON file, so you can back it up or move phones.
-7. **Light and dark mode.** Free and open source.
+5. **Forecast** for the next 14 days. LET looks at your history and guesses what is likely on each coming day:
+   1. Each day shows the events that are likely, with a % chance. A stronger colour means more likely.
+   2. Tap a day to see why, for example "Happened on 8 of the last 10 Mondays".
+   3. For numbers and text it also shows the likely value, like "~7 hours".
+   4. It uses the day of the week, your recent days (recent days count more), and things that repeat every few days.
+   5. A small chart shows the last 14 days next to the next 14.
+   6. It needs 14 days of tracking first, and tells you how many more days are needed.
+6. **Your own colors** for each event, and you can reorder them.
+7. **Export and import** your data as a JSON file, so you can back it up or move phones.
+8. **Light and dark mode.** Free and open source.
 
 Great for anyone who wants to understand their days better, not just tick off habits.
 
