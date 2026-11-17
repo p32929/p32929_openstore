@@ -31,4 +31,4 @@ I made it after I saw one of my mentors jotting down quick notes in a browser no
 7. **Private:** no account, no sign-up, and your notes stay on your device.
 8. **Light and dark mode,** with 8 colours to choose from.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io

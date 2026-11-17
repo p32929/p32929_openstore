@@ -41,4 +41,4 @@ npm install -g cccsss
 
 Then run `cccsss` in a project folder, or try it once with `npx cccsss`.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io

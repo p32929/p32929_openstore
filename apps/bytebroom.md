@@ -31,4 +31,4 @@ I made ByteBroom because my Mac kept running out of space and I couldn't tell wh
 
 Download the `.dmg`, open it and drag ByteBroom onto Applications. It works on Apple Silicon Macs. The first time, macOS may block it: open System Settings, Privacy & Security, and click Open Anyway. Give it Full Disk Access so it can find every folder.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io

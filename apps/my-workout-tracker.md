@@ -42,4 +42,4 @@ I made this app just for myself. I needed a simple workout tracker, but almost e
 
 Download the APK for Android (about 17 MB; the arm64 file fits almost every phone, the armeabi-v7a file is for older ones), or open the web version. There is no iPhone download yet: the iOS app can be built from the source code. Then add an exercise in Exercises, tap Log Today's Workout and save your sets. It's still being built, so new things may change.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io

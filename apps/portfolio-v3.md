@@ -35,4 +35,4 @@ From my first portfolio on, my goal has been the same: anybody should be able to
 
 How to use it: fork the repository and rename the fork to `your-github-username.github.io`. Clone it, put your own data in `src/lib/DynamicValues.ts`, then run `npm run predeploy` and `npm run deploy`. In the repository settings, under Pages, set the source to the `master` branch.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io

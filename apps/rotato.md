@@ -44,4 +44,4 @@ npm start
 
 Then open `http://localhost:8990/admin`, add your keys, and point your app at the endpoint it shows.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io

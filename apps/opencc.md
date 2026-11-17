@@ -42,4 +42,4 @@ npm start
 
 Then run `opencc` and leave it running, and in your project folder run `opencc claude`. Add your providers in the panel it shows (`localhost:3450`).
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io

@@ -36,4 +36,4 @@ Roxaruu is the updated version of my earlier editor, Oxru. I made it because a p
 
 It runs on macOS, Windows and Linux. It isn't a full IDE, but what it does, it does well. For Linux installs, see the [project page](https://github.com/p32929/roxaruu#install).
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io

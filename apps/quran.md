@@ -59,4 +59,4 @@ Good for daily reading, for students of hifz, and for listening while travelling
 
 Use it in the browser, or install it on Android, Windows, macOS or iPhone. For Linux, older Android phones and Chromebooks, see the [releases page](https://github.com/p32929/quran_flutter/releases/latest).
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io

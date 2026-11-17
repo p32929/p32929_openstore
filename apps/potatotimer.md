@@ -25,4 +25,4 @@ Great for anyone who sits at a computer for hours and forgets to rest their eyes
 
 Download the installer for Windows from the download page and run it.
 
-Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
+Want a custom version of this app, or help changing it for your needs? Contact me through my portfolio: https://p32929.github.io
