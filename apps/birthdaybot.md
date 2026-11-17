@@ -15,9 +15,9 @@ tags: [Birthday, Bot, Fun, Android]
 
 platforms:
   Android:
-    - version: "2.0.0"
-      date: 2026-11-16
-      changelog: Rebuilt with a festive new design, swipeable wish cards, balloons and confetti, music toggle, light and dark mode, no ads
+    - version: "2.0.1"
+      date: 2026-11-17
+      changelog: Smaller download, 3.4 MB instead of 4.9 MB
       url: https://github.com/p32929/p32929_openstore/releases/tag/birthdaybot
 ---
 > **An old app, revived.** This app was first made around 2019 and was on Google Play until the account was closed. In 2026 it was rebuilt for modern Android phones with a new design, mainly to show it again. Please don't expect it to be actively maintained.
