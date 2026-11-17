@@ -5,7 +5,7 @@ screenshots:
   - screenshots/portfolio-v1/shot-1.png
   - screenshots/portfolio-v1/shot-2.png
 category: Developer Tools
-summary: Free single-page developer portfolio template made with React and Material UI. Edit five small files and publish it on GitHub Pages
+summary: My very first React project, a simple developer portfolio template from 2018. Kept as history. Edit five small files and publish it on GitHub Pages
 tags: [Portfolio template, Developer portfolio, Personal website, React, Material UI, GitHub Pages, Open source]
 website: https://p32929.github.io/portfolio-v1/
 source: https://github.com/p32929/portfolio-v1
@@ -14,7 +14,7 @@ platforms:
   Web: https://p32929.github.io/portfolio-v1/
 ---
 
-> **An older version.** This is my first portfolio, from 2018. [Portfolio v2](https://openstore.pfay.workers.dev/app/p32929/portfolio-v2) is the newer one, with a single settings file and a colour picker.
+> **My very first React project.** I made this in 2018 while I was just starting to learn React and trying things out. It looks a bit ugly today, but back then it looked okay to me for some reason :D I keep it as a piece of history, to remember how far I have come. [Portfolio v2](https://openstore.pfay.workers.dev/app/p32929/portfolio-v2) is the newer and much nicer one.
 
 Portfolio v1 is a free single-page developer portfolio template made with React and Material UI. Making a portfolio site from scratch takes days of design and layout work. Here the layout is done: you fill in your own text and links, and it is ready to put online.
 

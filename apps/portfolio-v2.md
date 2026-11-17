@@ -28,4 +28,6 @@ What makes it different: everything about you lives in one file, `src/Others/Glo
 
 Great for developers who want a tidy portfolio online today without designing one.
 
+This one is still one of my favourites, even though I don't use it myself any more. I was really bad at CSS back then and honestly hated it, but I still wanted a portfolio that looked like this. It took a lot of searching and trying before it finally came together, and I was so happy when it did. I shared it with all my friends, they loved it, and many of them made their own portfolios with it.
+
 How to use it: fork the repository and rename the fork to `your-github-username.github.io`. Clone it, edit `src/Others/GlobalVars.ts`, then run `npm run predeploy` and `npm run deploy`. In your repository settings, point GitHub Pages at the `master` branch. Your portfolio shows up at `https://your-github-username.github.io/` within a few minutes.
