@@ -16,6 +16,8 @@ platforms:
 
 Pomota is a small Pomodoro timer for Windows, Mac and Linux that actually makes you take the break. It's easy to tell yourself "just five more minutes" and skip every rest. Pomota doesn't let you skip it quietly, so you work in focused blocks and still rest in between.
 
+I made it because the Pomodoro apps I used never forced me to take a break. I kept extending my work for hours, even though breaks are absolutely necessary, so I looked for a way to make myself stop.
+
 1. **Forces the break:** the timer doesn't let you quietly skip your rest.
 2. **Sound cues:** a warning sound before the break starts, and another when it's over.
 3. **Keeps accurate time,** even when the window is in the background.

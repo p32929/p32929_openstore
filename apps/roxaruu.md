@@ -22,6 +22,8 @@ platforms:
 ---
 Roxaruu is a free, keyboard-first code editor with built-in terminals. If you work on several projects at once, you know how quickly terminal windows pile up until you can't tell which one belongs where. Roxaruu keeps each project's code and all its terminals together in one window. Every action has a shortcut, and the ones that work where you are always show on screen, so you never have to remember them.
 
+Roxaruu is the updated version of my earlier editor, Oxru. I made it because a project with a backend, a bundler and an app left terminal windows everywhere, and VS Code ate my memory. I wanted the files and every terminal together in one light window.
+
 1. **All of a project's terminals in one place,** as tabs or in a grid. On macOS, scripts that open new Terminal windows open tabs in Roxaruu instead.
 2. **See what each terminal is doing:** printing, running, or gone quiet.
 3. **Made for Claude Code and other AI coding agents.** You are told when one has finished or needs you, even while you look at something else.

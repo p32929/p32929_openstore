@@ -18,6 +18,8 @@ platforms:
 
 Home is a clean new tab page extension for Chrome and Edge. Instead of a busy page full of news and suggestions, every new tab shows the time, a search box and the sites you actually use, each with its own icon. Your favourite sites are one click away, without digging through bookmarks.
 
+I had already made a homepage like this, FirstPage, because I kept losing important links. Later I knew a bit more about colours and design, so I made this nicer version as a Chrome extension to keep my links close.
+
 1. **Your sites, one click away:** add any site as a tile. Drag tiles to reorder them, or sort by name or by how often you use them.
 2. **Search or go:** type a search or a web address right on the new tab.
 3. **Save the page you are on:** click the toolbar button to add the current page in one click.

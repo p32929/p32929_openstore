@@ -15,6 +15,8 @@ platforms:
 
 Shortcut Virus Remover is a free Windows script that fixes a USB drive or pen drive hit by the shortcut virus. You plug in the drive and your files seem gone, with only a few shortcuts left in their place. Your files are usually still there, just hidden. This script brings them back and deletes the fake shortcuts.
 
+Back when I made this, the shortcut virus was everywhere and people were having so many problems with it. I looked for a fix, found this one, and it worked for me. So I started sharing it, and people were so happy that it actually worked.
+
 1. **Get your files back:** it un-hides every file and folder the virus hid on the drive.
 2. **Remove the fake shortcuts:** it deletes all the `.lnk` shortcut files the virus left behind.
 3. **Simple to use:** double-click it, type the drive letter, and press Enter.

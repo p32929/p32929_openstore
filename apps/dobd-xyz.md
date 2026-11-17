@@ -16,6 +16,8 @@ platforms:
 
 Dobd.xyz was a free online video downloader. You find a video on Instagram, a reel on Facebook or a clip on TikTok and want to keep it, but the app only lets you watch it there. With Dobd.xyz you copied the link, pasted it into the page and saved the video or picture to your device. Nothing to install.
 
+I made it to let people download videos, pictures or anything else from any social media. My bigger goal was to show some recommended videos there too, so that people would become more interested in Islam.
+
 1. **Paste the link** and save the video or picture.
 2. **Nothing to install.** It worked in any browser, on a phone or a computer.
 3. **Six sites:** YouTube, Instagram, Facebook, TikTok, Pinterest and Twitter.

@@ -11,6 +11,9 @@ tags: [Voice recorder, Online voice recorder, Voice message, Audio recording, Sh
 platforms:
   Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/unavailable.png
 ---
+
+> **Company project.** This is not a personal project. I worked on it at a company, and the product was owned and run by that company. We were trying to build a better version of another voice recording app, but the project was later abandoned.
+
 VoomNow was a free online voice recorder, like Loom for your voice. Sometimes a quick voice message says it better than a long email, but recording one usually meant installing an app and figuring out how to send the file. With VoomNow, you opened the page, pressed record and talked. When you stopped, you got a link to share with anyone.
 
 1. **Record in your browser,** with nothing to install.

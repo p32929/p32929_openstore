@@ -15,6 +15,8 @@ platforms:
 
 one console log is a VS Code extension that writes a `console.log` for you in one line. Typing logs by hand while debugging JavaScript or TypeScript is slow, and Turbo Console Log adds several lines each time, which clutters your code and your output. This one adds a single line with the file name and the variable, so your logs stay short and easy to clean up.
 
+It's a fork of Turbo Console Log. The original adds several lines for each log; I wanted just one.
+
 1. **One line per log:** a single `console.log` instead of several.
 2. **Knows what to log:** put your cursor on a variable or a line and it logs that.
 3. **Clear labels:** each log shows the file and the variable name, so you know where it came from.

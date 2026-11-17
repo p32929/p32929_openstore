@@ -15,6 +15,8 @@ platforms:
 
 Fay is a small command line tool that saves a series of shell commands under one name, so you can run them all again with one pick. If you keep typing the same setup, build or deploy steps one by one, Fay remembers them for you. Just type `fay`, choose the saved list from a menu, and it runs every command in order.
 
+I made it because I kept typing the same setup, build and deploy commands one by one, and wanted to save them once and run them again with one pick.
+
 1. **Save a list of commands** under a name, and run the whole list with one pick.
 2. **Easy menu:** no flags to remember, just run `fay` and follow the steps.
 3. **Works everywhere:** the same tool runs with bash or cmd on Windows, macOS and Linux.

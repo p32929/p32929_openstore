@@ -15,6 +15,8 @@ platforms:
 
 PotatoTimer is a simple Pomodoro timer for your desktop that makes sure you actually take your breaks. Most timers just play a sound when work time is up, and it's easy to click it away and keep going for another hour. PotatoTimer shows a full-screen break reminder instead, so you can't quietly ignore it.
 
+I made it because the Pomodoro apps I used never forced me to take a break. I kept extending my work for hours, even though breaks are absolutely necessary, so I looked for a way to make myself stop.
+
 1. **Forces the break:** when the work time ends, a full-screen reminder tells you to step away.
 2. **Remembers your settings,** so you set your work and break times once.
 3. **Simple and free,** with nothing to sign up for.

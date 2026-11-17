@@ -17,6 +17,8 @@ platforms:
 
 Google Calendar Widget puts your Google Calendar right on your desktop, on Windows, Mac or Linux. Google has no desktop app for Calendar, so checking your day usually means finding the right browser tab. This widget sits quietly on your desktop and shows your real calendar, so your next meeting is always one glance away.
 
+I made it because Google has no desktop app for Calendar, and I was tired of hunting for the right browser tab just to check my day.
+
 1. **Your own Google Calendar:** sign in with your Google account and see your real events.
 2. **Agenda view and dark mode** that stay easy to read.
 3. **Tray menu** to show or hide it, keep it on top of other windows, or quit.

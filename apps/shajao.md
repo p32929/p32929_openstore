@@ -11,6 +11,11 @@ tags: [Photo frame, Photo printing, Online photo frame, Gift, Home delivery, Ban
 platforms:
   Web: https://raw.githubusercontent.com/p32929/p32929_openstore/main/unavailable.png
 ---
+
+> **Company project.** This is not a personal project. I worked on it at a company, and the product was owned and run by that company.
+
+We first built it with Angular and AdonisJS, then moved to Node.js, and changed things a few more times. My mentor, an amazing programmer, did a lot of the work, and I remember the many problems he solved along the way. It was exciting to build.
+
 Shajao is an online photo printing and framing service in Bangladesh. Most of our best photos never leave the phone, because printing one, finding a frame and bringing it home is a chore. With Shajao, you upload a photo, pick a frame, and it arrives at your door printed and framed, from 590 taka.
 
 1. **Upload your photo.**

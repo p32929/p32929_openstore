@@ -16,6 +16,8 @@ platforms:
 
 obsidotion is an Obsidian plugin that syncs your notes with a Notion database. If you write in Obsidian but share or read your notes in Notion, copying them over by hand gets old fast. With two buttons you send your notes to Notion and bring changes made in Notion back.
 
+I made it because Obsidian's official sync is paid, and I wanted a free option. So I made one that syncs through Notion.
+
 1. **Upload to Notion:** sends new and changed notes to your Notion database. Unchanged notes are skipped, so it is quick.
 2. **Pull from Notion:** brings edits made in Notion back into your notes, and adds new Notion pages as notes. It asks once before changing anything.
 3. **Safe with your Notion:** it only updates or removes pages it made itself. Pages you created in Notion are never touched.

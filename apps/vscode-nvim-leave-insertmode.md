@@ -15,6 +15,8 @@ platforms:
 
 vscode nvim leave insertmode is a small VS Code extension for people who use Neovim or Vim keys inside VS Code. When you jump to another tab or split, the panel you left can stay in insert mode, and the next key you press types text instead of running a command. This extension puts each editor panel back in normal mode as soon as it loses focus.
 
+I made it because I was using Vim keys inside VS Code and kept getting stuck between insert mode and normal mode. I looked for an automatic fix, and then made one.
+
 1. **Always back in normal mode:** a panel returns to normal mode when you switch away from it.
 2. **Works with your shortcuts:** handy if you move between tabs and splits with keys like `ctrl+shift+h` and `ctrl+shift+l`.
 3. **Works with the mouse too:** clicking into another editor has the same effect.

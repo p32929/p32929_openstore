@@ -15,6 +15,8 @@ platforms:
 
 CMDN tells you when a long terminal command is done. Builds, installs and uploads can take minutes, and you either sit watching the terminal or forget about it and come back much later. Put `cmdn` in front of any command, and you get a sound the moment it finishes, so you can do something else in the meantime.
 
+I made it because I just wanted to get notified whenever a long-running command finished.
+
 1. **Works with any command:** `cmdn npm install`, `cmdn docker build -t myapp .`, `cmdn git push` and so on.
 2. **A sound when it finishes,** and you can use your own sound file.
 3. **Run something after it ends:** send a webhook, write to a log file or show a desktop notification, with the command and its output included.

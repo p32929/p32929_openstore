@@ -17,6 +17,8 @@ platforms:
 
 CFood is a free finder for DIY complete-food recipes, the homemade kind that replace a whole day of meals, like Soylent. There are thousands of them spread across the web, and finding one that fits your budget and diet, then working out what to buy, can take hours. CFood puts over 10,000 recipes in one place, lets you narrow them down in seconds, and writes your shopping list for you.
 
+I made it because I was thinking about making my own complete food. I felt I might be missing some things my body needs. The recipes are on completefoods.co, but it was hard to filter them there, so I built this. In the end I got lazy and didn't make any of the foods, but it was nice making it.
+
 1. **Find recipes that fit you:** filter by cost per day, by diet, or by what reviewers say.
 2. **Compare at a glance:** daily cost, how complete the nutrition is, calories, and protein, carbs and fat for each recipe.
 3. **Full details:** every vitamin and mineral, the ingredients, the steps and the reviews.
