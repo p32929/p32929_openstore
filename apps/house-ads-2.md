@@ -17,6 +17,8 @@ platforms:
 
 House Ads 2 is an Android library for promoting your own apps inside your other apps. Ad networks take a cut and track your users. Here the ads come from a JSON file you host yourself, so you can change them any time without shipping an app update, with no ad network, no tracking and no revenue share. It was revamped in 2026: rewritten in Kotlin, with a Material 3 look that follows light and dark mode, and it still works from Java.
 
+I made it because paying for ads was expensive, and I had a lot of apps at that time. So I thought: why not promote my own apps inside my own apps?
+
 1. **Banner ad** for one of your apps, with its icon, name, description and a Get button.
 2. **Full-screen list of all your apps,** with Share, Rate and Exit buttons. A good fit for the back button.
 3. **Rating dialog** that sends 5-star users to the Play Store and asks everyone else for feedback by email.

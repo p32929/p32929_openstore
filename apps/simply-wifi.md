@@ -15,6 +15,8 @@ platforms:
 
 Simply Wifi lets a Flutter app control WiFi with one line per action. The popular wifi_iot package can do a lot, but even simple things like connecting to a network take more code than they should. Simply Wifi wraps it in a few easy calls.
 
+I made it for a friend who wanted to build something with WiFi in Flutter. The Flutter WiFi packages were really hard to use and he was having a hard time, so while guiding him I thought: why not make it easier for him to build?
+
 1. **Turn WiFi on or off** from your app.
 2. **List the networks around you.**
 3. **Connect** by network name, or by its place in the list, with a password if needed.

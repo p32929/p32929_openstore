@@ -15,6 +15,8 @@ platforms:
 
 fayfetch is a simple wrapper around fetch for JavaScript and Node.js. Calling a REST API with plain fetch means building the query string, setting headers, turning the body into JSON and checking the response every time. fayfetch does that for you: pass the URL, params, headers and body, and get the status and the JSON back in one callback.
 
+I made it back when I didn't know much JavaScript yet, and TypeScript even less. I wanted a quick, hacky way to make fetch calls as easy as possible for me. I know it's not the best way to do it, but I gave it a try.
+
 1. **One line per request:** `get`, `post`, `put` and `deletee` with params, headers and a body.
 2. **File uploads:** upload a file, or send your own `FormData`.
 3. **One simple callback:** you get the status code, the JSON data and whether it worked.

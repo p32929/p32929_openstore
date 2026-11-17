@@ -17,6 +17,8 @@ platforms:
 
 Office About is a ready-made "About us" screen for Android apps made by a team. Every app needs one, and building it again for each app is a chore. Put your company name, logo, links and team in one JSON file, and the library shows a clean About screen. Host the JSON online and you can change the team later without shipping an app update. It was revamped in 2026: rewritten in Kotlin, with a Material 3 look that follows light and dark mode, and it still works from Java.
 
+I made it because I needed an easy way to show an About page, without building it again for every app. I wanted the same design everywhere, and I wanted it dynamic, so I could change it in one place on the server and it would update in every app.
+
 1. **Team cards** with a photo (or initials), name, role and a Contact button.
 2. **Company links** as buttons: Google Play, Facebook page and group, YouTube, GitHub and website. Empty links are hidden.
 3. **JSON from a URL or a string,** for example from your app's assets.

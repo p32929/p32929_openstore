@@ -17,6 +17,8 @@ platforms:
 
 go_easy is the Go compiler that goes easy on you. In normal Go, one unused variable stops your code from compiling, so while you are trying an idea you keep commenting out lines just to run it. go_easy shows unused variables as warnings instead, so your code still compiles and runs, and you can tidy up later.
 
+I made it because I really hated that Go wouldn't build a project until you removed every unused variable. It's an old project now, and with AI tools these days it isn't really needed anymore.
+
 1. **Unused variables are warnings,** not errors.
 2. **Your code still compiles and runs** while you prototype or learn.
 3. **Kept up to date:** it follows the official Go releases automatically.

@@ -15,6 +15,8 @@ platforms:
 
 use-megamind is a small React hook for calling async functions on the client side. Most of the time you only want the data, the error and a loading flag, and writing the same `useState` and `useEffect` code for every call gets tiring. React Query does it, but it takes a lot of reading to start. Give use-megamind any async function and it gives you `data`, `error` and `isLoading`.
 
+I made it because React Query is awesome, but it has a lot of things I didn't need. I just needed something simple, so I made it.
+
 1. **Any async function,** not only data fetching, with or without parameters.
 2. **Call it right away or later,** for example on a button click.
 3. **Options when you need them:** limit how many times it can be called, set a minimum delay between calls, cache the result until the page reloads, and turn on debug logs.

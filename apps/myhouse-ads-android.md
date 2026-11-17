@@ -16,6 +16,8 @@ platforms:
 
 MyHouse Ads Android shows house ads: ads for your own apps, inside your own apps. If you have a few apps, the people using one are the easiest to bring to the next, and you don't need an ad network, an account or a revenue share to do it. List your apps in a JSON file you host or right in your code, and the library shows them as a banner and a full-screen ad. It was revamped in 2026: rewritten in Kotlin, with a Material 3 look that follows light and dark mode, and it still works from Java.
 
+I made it because paying for ads was expensive, and I had a lot of apps at that time. So I thought: why not promote my own apps inside my own apps?
+
 1. **Banner ad** with your app's icon, a short line of text and a Get button.
 2. **Interstitial ad:** a centered card with a big icon, Get it and Later.
 3. **Ad on back press:** the close button says Exit, so the ad never traps your users.

@@ -18,6 +18,8 @@ platforms:
 
 MaterialOfficeAbout is a ready-made Material Design "About us" screen for Android apps made by a team. Every app needs one, and building it again for each app is a chore. Put your company logo, social links and team members in one JSON file you host, and the library shows them in a clean About screen. Change the file, and every app shows the new team, with no new release.
 
+I made it because I needed an easy way to show an About page, without building it again for every app. I wanted the same design everywhere, and I wanted it dynamic, so I could change it in one place on the server and it would update in every app.
+
 What makes it different: two lines of code add the whole screen, and all the content comes from your JSON file, so nobody has to touch the app to update the team.
 
 1. **A Material Design About screen** with your logo, social links and team members.

@@ -17,6 +17,8 @@ platforms:
 
 CCheckpoints adds Cursor-style checkpoints to Claude Code CLI. In a long Claude Code session it is easy to lose track of what you asked and when things changed. CCheckpoints saves a checkpoint every time you send a message, and shows your whole session as a timeline in a web dashboard, so you can look back at any point.
 
+I made it because Claude Code didn't have checkpoints back then. I looked for a solution, couldn't find one, and built it. Claude Code has its own checkpoints now, so you don't really need this anymore.
+
 1. **Automatic checkpoints:** every message you send to Claude Code is saved, with the time.
 2. **See all your sessions:** when you started, how long you worked, and what happened in each one.
 3. **Checkpoint timeline:** move through your whole conversation with its full context.

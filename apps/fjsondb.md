@@ -15,6 +15,8 @@ platforms:
 
 fjsondb is a small JSON file database for Node.js and TypeScript. For a CLI, a bot, a prototype or some config, setting up a real database is too much, and writing your own read-and-save code for a JSON file gets messy fast. fjsondb keeps your data in one plain JSON file and gives you simple `set`, `get`, `has` and `delete` calls, with no server to run.
 
+I made it because I was doing a lot of automation with Playwright and other tools, and needed somewhere to store data so I could check it later. The other solutions felt bulky for that, so I made my own.
+
 1. **Plain JSON on disk:** open the file in any editor and read it.
 2. **Save any value:** numbers, text, true or false, and nested objects.
 3. **Counters built in:** `incrementNumber` and `decrementNumber` create the key at 0 if it is missing.

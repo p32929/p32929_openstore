@@ -15,6 +15,8 @@ platforms:
 
 str_template is a tiny string templating library for JavaScript and TypeScript. When a message or text comes from a file, a database or a translation, you can't use a template literal, and joining strings by hand gets ugly. Write `{placeholders}` in the string and fill them from an object with one call.
 
+I made it because I needed a small string templating tool. The others out there pretty much all do the same thing, so I thought: okay, let's make my own as well.
+
 1. **One function:** `StrTemplate.format(text, values)`.
 2. **Your own separator:** use `{}` by default, or something like `[[ ]]` if braces are already in your text.
 3. **Works the same in Node.js and the browser.**
