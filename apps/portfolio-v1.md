@@ -1,5 +1,5 @@
 ---
-title: Portfolio v1
+title: Fayaz Bin Salam Portfolio v1
 icon: screenshots/portfolio-v1/icon.png
 screenshots:
   - screenshots/portfolio-v1/shot-1.png
@@ -14,9 +14,9 @@ platforms:
   Web: https://p32929.github.io/portfolio-v1/
 ---
 
-> **My very first React project.** I made this in 2018 while I was just starting to learn React and trying things out. It looks a bit ugly today, but back then it looked okay to me for some reason :D I keep it as a piece of history, to remember how far I have come. [Portfolio v2](https://openstore.pfay.workers.dev/app/p32929/portfolio-v2) is the newer and much nicer one.
+> **My very first React project.** I made this in 2018 while I was just starting to learn React and trying things out. It looks a bit ugly today, but back then it looked okay to me for some reason :D I keep it as a piece of history, to remember how far I have come. [Fayaz Bin Salam Portfolio v2](https://openstore.pfay.workers.dev/app/p32929/portfolio-v2) is the newer and much nicer one, and [Fayaz Bin Salam Portfolio v3](https://openstore.pfay.workers.dev/app/p32929/portfolio-v3) is the one I use today.
 
-Portfolio v1 is a free single-page developer portfolio template made with React and Material UI. Making a portfolio site from scratch takes days of design and layout work. Here the layout is done: you fill in your own text and links, and it is ready to put online.
+Fayaz Bin Salam Portfolio v1 is a free single-page developer portfolio template made with React and Material UI. Making a portfolio site from scratch takes days of design and layout work. Here the layout is done: you fill in your own text and links, and it is ready to put online.
 
 What makes it different: all the content lives in five small plain JavaScript files, one per section, so you change text, not code. There is no server, and it deploys to GitHub Pages for free with one command.
 
@@ -27,5 +27,7 @@ What makes it different: all the content lives in five small plain JavaScript fi
 5. **Free and open source** (MIT).
 
 Great for developers who want a simple portfolio online in about ten minutes.
+
+Even with this first one, my goal was that anybody could make their own portfolio without changing much. So the content is kept apart from the layout: everything you need to change sits in five small files in `src/vars/`, one per section. My later versions kept the same idea, with everything in a single file.
 
 How to use it: fork the repository and clone your fork, then run `npm install`. Edit the files in `src/vars/` (home, skills, projects, contact and the side menu). Set `homepage` in `package.json` to your own address, run `npm run deploy`, and set GitHub Pages to the `gh-pages` branch in your repository settings.
