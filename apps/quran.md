@@ -45,6 +45,8 @@ platforms:
 ---
 Quran is a free Quran app with no ads and no account. Read the Quran with a translation you understand, even offline, listen to 42 famous reciters, and memorize ayat without replaying them again and again by hand. The app repeats them for you.
 
+I always wanted to do something for the Quran, so I made a Quran app for myself, and for anybody. I hope other people benefit from it too.
+
 1. **Read with translation.** Every surah ayah by ayah in clear IndoPak Arabic script, with the translation right under each ayah.
 2. **Works offline.** English, Bengali and Urdu translations come with the app. Download more from over 250 translations in 95 languages.
 3. **Listen to 42 reciters.** Play a whole surah or a single ayah. Audio keeps playing with the screen off, with controls on the lock screen.

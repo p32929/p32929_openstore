@@ -40,6 +40,8 @@ platforms:
 
 Duas is a free dua app that keeps the duas you recite in one calm place. Many of us keep them scattered across screenshots, notes and old messages, and when we need a dua for something new, we don't always know where to look or whether the source is trusted. Duas keeps your list together and finds new duas for you by topic in trusted books, with their meaning in your own language.
 
+I made it because my duas were scattered everywhere, and I wanted my own collection in one place.
+
 1. **Your own dua list:** it starts with a ready-made set, and you can add your own with the Arabic, the meaning and the source.
 2. **Search trusted books by topic:** type *anxiety*, *travelling* or *before sleeping*, and it searches **Hisn al-Muslim**, **Dua & Dhikr**, **DeenOne** and **Majmu' al-Adhkar** at once. Add the duas you want in one go, each with its source.
 3. **The meaning in your language:** translate into over 60 languages. Translations made by AI are clearly marked.

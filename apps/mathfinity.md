@@ -44,6 +44,8 @@ platforms:
 
 MathFinity is a free mental maths game. Worksheets are slow and boring, so this turns practice into a quick game: solve sums against the clock, then see exactly which ones slowed you down. No ads and no account.
 
+I made it for my little cousin. He wasn't studying and was playing games all the time, so I thought: if you're going to play games, play this one instead. It will help you.
+
 1. **Answer fast:** a sum appears (add, subtract, multiply or divide) and you pick the right answer from the grid.
 2. **Know right away** if you were right. New sums keep coming until the time runs out.
 3. **See where you were slow:** your score, accuracy and time, plus every sum with how long you took.

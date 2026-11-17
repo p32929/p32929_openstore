@@ -15,6 +15,8 @@ platforms:
 
 EasiestDB is the easiest way to use a SQLite database in a Flutter app. Writing SQL queries by hand for every table is slow and easy to get wrong. With EasiestDB you list your tables and columns once, and then add, read, search, update and delete rows with simple calls, without writing a single query.
 
+I made it because I was really bad at SQL. Every time I worked with SQL, I ended up building something like this, which is why I made one for Android and one for Flutter. Android apps don't need complex SQL, so as long as I could do my things properly, I was happy with it.
+
 1. **Set up in a few lines:** name the database, its tables and their columns. An ID column is added for you.
 2. **All the basics:** add data, get all rows or one row, search by a column, update by ID and delete.
 3. **Column rules:** add SQL constraints like `UNIQUE` to any column.

@@ -24,6 +24,8 @@ platforms:
 
 LET is a habit and life event tracker for your phone. Most habit apps only ask "did you do it today?". LET lets you log anything about your day, from a simple yes or no to a number or a short note, and then shows you which habits go together on your best days.
 
+I made LET to find patterns. I once heard that history repeats itself, and I think even our own lives follow patterns, so by following them you could predict some things before they happen.
+
 What makes it different: it looks for patterns across everything you track, not just one habit at a time. It can show, for example, which sleep hours or activities often come with a good day. Everything is saved on your phone, works offline, and needs no account.
 
 1. **Track anything:** yes or no events (went outside, exercised), numbers with a unit (hours slept, glasses of water) and text notes (mood, what you ate).

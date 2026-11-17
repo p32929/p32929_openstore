@@ -16,6 +16,8 @@ platforms:
 
 Android App Updater is a small update checker for Android apps. Many users never open the Play Store to update, and apps shared as APKs have no update system at all. You host one small JSON file anywhere, and the library compares it with the installed version and shows a ready-made update dialog when a newer one is out. It was revamped in 2026: rewritten in Kotlin, with a Material 3 look that follows light and dark mode, and it still works from Java.
 
+I made it to have an easy way to let people know there's an update for my apps.
+
 1. **Built-in update dialog** with the new version and what's new, in your app's colours.
 2. **Force an update** when you need to: the dialog then has no Later button.
 3. **Host the JSON anywhere:** GitHub, your own server or any web address. No Play Services or update SDK.

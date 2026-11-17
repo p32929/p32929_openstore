@@ -17,6 +17,8 @@ platforms:
 
 AndroidAppLockscreen adds a passcode lock screen to your Android app. Building one yourself means designing a keypad, storing the passcode safely and locking again whenever people come back to the app. With this library it takes a few lines: your app asks for a 4 to 8 digit passcode when it opens and every time someone returns to it. It was revamped in 2026: rewritten in Kotlin, with a Material 3 look that follows light and dark mode, and it still works from Java.
 
+I made it so I could use it in all my apps: an easy way to add password protection to every Android app I make.
+
 1. **A clean lock screen** with round number keys, dots that fill in as you type, a shake and a small vibration on a wrong passcode.
 2. **Set, change or turn off** the passcode with one call each.
 3. **Fingerprint or face unlock,** turned on with one line.

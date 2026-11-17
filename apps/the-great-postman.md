@@ -24,6 +24,8 @@ platforms:
 
 The Great Postman is a free REST API client for Android, like Postman on your phone. Testing an API usually means sitting at your computer. With The Great Postman, you can build any request on your phone, send it, and read the response as clean, collapsible JSON, wherever you are. If you use Postman on your computer, you'll feel right at home.
 
+I made it because I wanted to test APIs from my phone. I didn't like the other apps that much, so I made my own, and I learned a lot while making it.
+
 1. **Send any request:** GET, POST, PUT, PATCH, DELETE, HEAD and OPTIONS, over HTTP or HTTPS.
 2. **Full control** over query and path params, headers, body (JSON, text, form or multipart) and auth (Bearer or Basic).
 3. **Easy-to-read responses:** a pretty JSON tree, raw text or headers, with status, time and size. Copy, share or search it.

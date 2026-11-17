@@ -25,6 +25,8 @@ platforms:
 
 You put your phone down to study, work or sleep, and a minute later it's back in your hand. Put Phone Down helps you actually stay away from it. Choose how long you want a break, say 30 minutes or until 7 in the morning, and your phone stays locked until then. Pick it up for "just a quick look" and it locks again.
 
+I made it for a friend who was really annoyed at how addicted he was to his phone. He just couldn't put it down, so I made something that stops you: even if you pick up your phone, it won't help you.
+
 Most screen time apps only tell you how much you used your phone. This one stops you from using it, which is what makes it work.
 
 1. **Lock your phone for a set time:** 15, 30 or 60 minutes, any length you like, or until a set time.
