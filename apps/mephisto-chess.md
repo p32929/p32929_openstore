@@ -17,9 +17,9 @@ website: https://mephisto-chess.pfay.workers.dev/
 
 platforms:
   Android:
-    - version: "1.0.0"
+    - version: "1.0.1"
       date: 2026-11-17
-      changelog: First public version
+      changelog: Much smaller download, about 8 MB instead of 55 MB. Pick the arm64 file for most phones
       url: https://github.com/p32929/p32929_openstore/releases/tag/mephisto-chess
   Web: https://mephisto-chess.pfay.workers.dev/
 ---
@@ -39,4 +39,4 @@ What makes it different: it is the 2005 Mephisto mobile chess engine, rebuilt so
 
 Great for beginners who want to get better at chess, and for anyone who wants a quick offline game.
 
-Download the APK for Android, or play it right away in your browser. The source code is private, but the app is free.
+Download the APK for Android (about 8 MB; the arm64 file fits almost every phone, the armeabi-v7a file is for older ones), or play it right away in your browser. The source code is private, but the app is free.
