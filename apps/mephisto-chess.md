@@ -13,7 +13,7 @@ screenshots:
 category: Board Game
 summary: Offline chess app that plays against you and teaches you while you play. A teacher mode, lessons, 81 puzzles and 9 skill levels, with no ads or account
 tags: [Chess, Learn chess, Chess puzzles, Chess engine, Offline game, Board game, Chess lessons, No ads]
-website: https://p32929.github.io/mephisto-chess/
+website: https://mephisto-chess.pfay.workers.dev/
 
 platforms:
   Android:
@@ -21,7 +21,7 @@ platforms:
       date: 2026-11-17
       changelog: First public version
       url: https://github.com/p32929/p32929_openstore/releases/tag/mephisto-chess
-  Web: https://p32929.github.io/mephisto-chess/
+  Web: https://mephisto-chess.pfay.workers.dev/
 ---
 
 Mephisto Chess is a chess app for Android and the web that plays against you and teaches you while you play. Most chess apps either beat you without saying why, or send you off to watch lessons somewhere else. Here a teacher sits next to the board during your game: it warns you about threats, gives clues, and shows you what goes wrong when you slip, so you can take the move back and try again.
