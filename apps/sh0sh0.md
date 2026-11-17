@@ -27,4 +27,6 @@ I made it because I was looking for a URL shortener I could host myself, and alm
 
 Handy for marketers, creators, and anyone who shares links on social media or in messages.
 
-Want to host your own copy? Sh0Sh0 needs only Netlify and Firebase to run. The source code isn't public, but I'm happy to sell it. Reach me through my portfolio: https://p32929.github.io
+Want to host your own copy? Sh0Sh0 needs only Netlify and Firebase to run.
+
+Want to buy the source code of this app? Contact me through my portfolio: https://p32929.github.io
