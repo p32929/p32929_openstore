@@ -25,6 +25,6 @@ s3cr3tm3 lets you share a private note with a link. Sometimes you need to send a
 4. **Links nobody can guess.** Each message gets a long, random link.
 5. **Free, no account, nothing to install.**
 
-I made it for myself when I worked as a freelancer. On Fiverr and Upwork, you and your client are meant to talk inside the site, and I wanted an easy way for us to share contact details.
+I made it for myself when I worked on Fiverr and Upwork. Sharing contact details in their chats can get your account banned, so I looked for a way around it and built one, because I love building.
 
 Because it was made for my own use, it is simple. Delete stops the link from working, but the text isn't erased from the database, and messages aren't encrypted. Don't use it for bank details or passwords. It's fine for everyday info.

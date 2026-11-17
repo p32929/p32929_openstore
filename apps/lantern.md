@@ -21,7 +21,7 @@ platforms:
 
 Lantern is a free, self-hosted dashboard for your Linux server or homelab. If you run a few containers, services or scripts on an old laptop, a Raspberry Pi or a mini PC, checking on them usually means SSH, remembering service names and commands, and digging through logs. Lantern puts all of it on one web page you can open from your phone or laptop.
 
-I made it for my own small home server. I wanted to see and fix everything from my phone, without SSH-ing in every time.
+I made it for my own small home server. I wanted to check my services and their logs from anywhere, without SSH-ing in every time.
 
 1. **See everything at a glance:** each service is green or red, with its CPU and memory. The machine's CPU, memory, disk and uptime are at the top.
 2. **Fix things in one click:** put a Restart, Deploy or any other button right on a service.
