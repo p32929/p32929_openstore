@@ -18,6 +18,7 @@ platforms:
       date: 2026-11-17
       changelog: New Forecast screen that guesses what is likely in the next 14 days from your own patterns, with a reason for each guess
       url: https://github.com/p32929/let/releases/tag/v1.1.0
+  Web: https://p32929.github.io/let/
 ---
 
 > **Still being built.** LET works, but it is a work in progress, so expect rough edges and changes.
