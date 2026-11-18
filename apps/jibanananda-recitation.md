@@ -9,6 +9,7 @@ screenshots:
   - screenshots/jibanananda-recitation/new-5.png
   - screenshots/jibanananda-recitation/new-6.png
 category: Books & Reference
+kind: group
 summary: Jibanananda Das poems app. Read 49 Bangla poems and listen to the abritti (recitation) of each, with favourites and background play
 tags: [Jibanananda Das, Bangla poetry, Kobita, Abritti, Recitation, Audio, Bangla, Android]
 

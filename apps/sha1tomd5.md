@@ -6,6 +6,7 @@ screenshots:
   - screenshots/sha1tomd5/shot-2.png
   - screenshots/sha1tomd5/shot-3.png
 category: Developer Tools
+kind: personal
 summary: Get the Facebook Login key hash for your Android app from its SHA-1 in one paste. No logging code, no extra build, right in your browser
 tags: [Facebook Login, Android key hash, SHA-1, Keystore, Release key hash, Android developer tools, Web tool]
 website: https://p32929.github.io/Sha1ToMd5/

@@ -5,6 +5,7 @@ screenshots:
   - screenshots/androideasysql-library/v2-1.png
   - screenshots/androideasysql-library/v2-2.png
 category: Developer Tools
+kind: personal
 summary: Android SQLite library. Create a table and add, read, update and delete rows in a few chained calls, with no SQL or SQLiteOpenHelper to write
 tags: [Android SQLite, SQLite library, Android database, Kotlin, Java, JitPack, Android library, Open source]
 website: https://github.com/p32929/AndroidEasySQL-Library

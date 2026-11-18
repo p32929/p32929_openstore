@@ -8,6 +8,7 @@ screenshots:
   - screenshots/al-quran/4.png
   - screenshots/al-quran/5.png
 category: Books & Reference
+kind: client
 summary: Quran app for iPhone and iPad. Read with translations and tafsir, listen to reciters like Al-Sudais and Al-Afasy, and memorize with looped ayat
 tags: [Client project, Quran app, Quran recitation, Quran translation, Tafsir, Hifz, Islam, iOS]
 

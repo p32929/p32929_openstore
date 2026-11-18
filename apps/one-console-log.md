@@ -4,6 +4,7 @@ icon: screenshots/one-console-log/icon.png
 screenshots:
   - screenshots/one-console-log/shot-1.png
 category: Developer Tools
+kind: personal
 summary: VS Code extension that adds one clean console.log line for the variable under your cursor. A lighter take on Turbo Console Log
 tags: [VS Code extension, console.log, JavaScript, TypeScript, Debugging, Turbo Console Log, Developer tools]
 website: https://marketplace.visualstudio.com/items?itemName=p32929.one-console-log

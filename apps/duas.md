@@ -10,6 +10,7 @@ screenshots:
   - screenshots/duas/phone-1.png
   - screenshots/duas/phone-2.png
 category: Books & Reference
+kind: personal
 summary: Free dua app for Muslims. Keep your daily duas in one place, find more from Hisn al-Muslim and other trusted books, and read the meaning in your language
 tags: [Dua app, Duas, Islam, Muslim, Hisn al-Muslim, Daily adhkar, Supplications, Arabic, Translation]
 website: https://p32929.github.io/duas/

@@ -4,6 +4,7 @@ icon: screenshots/pomota/icon.png
 screenshots:
   - screenshots/pomota/shot-1.png
 category: Productivity
+kind: personal
 summary: Small Pomodoro timer for Windows, Mac and Linux that makes you take the break, with sounds before and after each break
 tags: [Pomodoro timer, Break reminder, Focus timer, Productivity, Windows, macOS, Linux, Open source]
 website: https://github.com/p32929/pomota

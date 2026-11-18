@@ -9,6 +9,7 @@ screenshots:
   - screenshots/chargeonsite/5.png
   - screenshots/chargeonsite/6.png
 category: Auto & Vehicles
+kind: client
 summary: EV charging made simple. Drivers scan a QR code and pay by card, no app needed. Property owners host chargers and earn from their parking spots
 tags: [EV charging, Electric vehicles, EV charger, QR code payment, Property owners, Real estate]
 website: https://www.chargeonsite.com/

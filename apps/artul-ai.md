@@ -11,6 +11,7 @@ screenshots:
   - screenshots/artul-ai/7.png
   - screenshots/artul-ai/8.png
 category: Finance
+kind: client
 summary: AI earnings call analysis for stock investors. Every call is checked 500 ways and graded A to F against 177,437 calls. Free report for 9,373 companies
 tags: [Earnings calls, Stock research, Investing, AI, Stock analysis, Business]
 website: https://artul.ai/

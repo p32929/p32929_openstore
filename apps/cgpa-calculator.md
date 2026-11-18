@@ -7,6 +7,7 @@ screenshots:
   - screenshots/cgpa-calculator/v2023-3.png
   - screenshots/cgpa-calculator/v2023-4.png
 category: Education
+kind: personal
 summary: Free offline CGPA calculator for university students. Add credits and GPA per course, tap any row to fix a mistake, and save results by name
 tags: [CGPA calculator, GPA calculator, University, Students, Grades, Offline, Android]
 

@@ -5,6 +5,7 @@ screenshots:
   - screenshots/google-calendar-widget/shot-1.png
   - screenshots/google-calendar-widget/shot-2.png
 category: Productivity
+kind: personal
 summary: Google Calendar desktop widget for Windows, Mac and Linux. See your agenda on your desktop without opening a browser tab
 tags: [Google Calendar widget, Desktop calendar, Calendar app, Agenda, Windows, macOS, Linux, Open source]
 website: https://github.com/p32929/google-calender-widget

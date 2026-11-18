@@ -8,6 +8,7 @@ screenshots:
   - screenshots/codepresent/shot-4.png
   - screenshots/codepresent/shot-5.png
 category: Developer Tools
+kind: personal
 summary: Turn code into slide presentations and narrated videos in your browser. AI drafts the deck from a GitHub repo or ZIP, and your keys stay with you
 tags: [Code presentation, Code slides, Code to video, Developer tools, AI slides, Text to speech, Tutorial video, Open source]
 website: https://p32929.github.io/code_present_reactts/

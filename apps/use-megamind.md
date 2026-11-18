@@ -4,6 +4,7 @@ icon: screenshots/use-megamind/icon.png
 screenshots:
   - screenshots/use-megamind/1.png
 category: Developer Tools
+kind: personal
 summary: Small React hook for async calls. Get data, error and loading state for any async function, a lightweight alternative to React Query
 tags: [React hook, Async, Data fetching, React Query alternative, Loading state, Next.js, TypeScript, npm]
 website: https://github.com/p32929/use-megamind

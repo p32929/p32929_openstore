@@ -6,6 +6,7 @@ screenshots:
   - screenshots/ccheckpoints/shot-2.png
   - screenshots/ccheckpoints/shot-3.png
 category: Developer Tools
+kind: personal
 summary: Checkpoints for Claude Code, like in Cursor. Saves every message of your coding sessions and shows them in a web dashboard to look back and compare
 tags: [Claude Code, Checkpoints, AI coding, Cursor checkpoints, Session history, Developer tools, CLI, npm]
 website: https://github.com/p32929/ccheckpoints

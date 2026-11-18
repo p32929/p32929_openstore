@@ -7,6 +7,7 @@ screenshots:
   - screenshots/dobd-xyz/3.png
   - screenshots/dobd-xyz/4.png
 category: Utilities
+kind: personal
 summary: Online video downloader for YouTube, Instagram, Facebook, TikTok, Pinterest and Twitter. Paste the link and save the video, nothing to install
 tags: [Video downloader, Instagram downloader, TikTok downloader, YouTube downloader, Facebook video downloader, Social media]
 

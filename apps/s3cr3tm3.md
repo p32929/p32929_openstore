@@ -10,6 +10,7 @@ screenshots:
   - screenshots/s3cr3tm3/phone-1.png
   - screenshots/s3cr3tm3/phone-2.png
 category: Communication
+kind: personal
 summary: Share a private note with a link that you delete once it is read. Free self-destructing message tool with no account and nothing to install
 tags: [Private message, Secret note, Share link, Self-destruct note, Freelance, No sign-up]
 website: https://s3cr3tm3.netlify.app/

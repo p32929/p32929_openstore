@@ -5,6 +5,7 @@ screenshots:
   - screenshots/firstpage/shot-1.png
   - screenshots/firstpage/shot-2.png
 category: Productivity
+kind: personal
 summary: Simple browser homepage with only your own links. Add a site once and it is one click away every time, saved in your browser with no account
 tags: [Browser homepage, Start page, Custom homepage, Bookmarks, Speed dial, React, Open source]
 website: https://p32929.github.io/FirstPage/

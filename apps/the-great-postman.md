@@ -10,6 +10,7 @@ screenshots:
   - screenshots/the-great-postman/6.png
   - screenshots/the-great-postman/7.png
 category: Developer Tools
+kind: personal
 summary: REST API client for Android, like Postman on your phone. Send any HTTP request, read pretty JSON, and save history, collections and environments
 tags: [REST API client, API testing, HTTP client, Postman alternative, JSON viewer, cURL, Android]
 

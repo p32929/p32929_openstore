@@ -5,6 +5,7 @@ screenshots:
   - screenshots/myhouse-ads-android/v2-1.png
   - screenshots/myhouse-ads-android/v2-2.png
 category: Developer Tools
+kind: personal
 summary: Android house ads library. Promote your own apps inside your other apps with a banner and an interstitial, with no ad network or revenue share
 tags: [House ads, Cross promotion, Android ads, Banner ads, Interstitial ads, Android library, Kotlin, JitPack]
 website: https://github.com/p32929/MyHouseAdsAndroid

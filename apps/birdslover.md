@@ -10,6 +10,7 @@ screenshots:
   - screenshots/birdslover/new-6.png
   - screenshots/birdslover/new-7.png
 category: Education
+kind: group
 summary: Bird guide app in Bengali. Browse and search 77 birds by name, read about them and listen to each bird's call. Favourites work offline, no ads
 tags: [Birds, Bird sounds, Bird guide, Bengali, Nature, Wildlife, Offline, Android]
 

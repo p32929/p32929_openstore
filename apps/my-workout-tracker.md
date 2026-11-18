@@ -10,6 +10,7 @@ screenshots:
   - screenshots/my-workout-tracker/shot-6.png
   - screenshots/my-workout-tracker/shot-7.png
 category: Health & Fitness
+kind: personal
 summary: Free workout tracker for Android and iPhone with no paywall, no account and no internet needed. Log your sets, see your training days and watch your progress
 tags: [Workout tracker, Gym log, Fitness, Exercise log, Progress charts, Offline, No account, Free]
 website: https://p32929.github.io/home_workout_react_native/

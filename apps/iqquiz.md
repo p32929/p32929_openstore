@@ -10,6 +10,7 @@ screenshots:
   - screenshots/iqquiz/new-6.png
   - screenshots/iqquiz/new-7.png
 category: Entertainment
+kind: group
 summary: Free IQ test and brain game. Timed pattern, logic and word puzzles that train how fast you think. Works offline, no ads
 tags: [IQ test, Brain game, Puzzle, Logic puzzles, Brain training, Quiz, Offline, Android]
 

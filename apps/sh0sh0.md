@@ -9,6 +9,7 @@ screenshots:
   - screenshots/sh0sh0/5.png
   - screenshots/sh0sh0/6.png
 category: Utilities
+kind: personal
 summary: Free URL shortener with a full stats dashboard and folders. Custom links, password-protected links and HTML pages, with no limit on links
 tags: [URL shortener, Link shortener, Short links, Click analytics, Custom links, Self-hosted]
 website: https://sh0sh0.netlify.app/

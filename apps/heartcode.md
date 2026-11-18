@@ -5,6 +5,7 @@ screenshots:
   - screenshots/heartcode/shot-1.png
   - screenshots/heartcode/shot-2.png
 category: Developer Tools
+kind: personal
 summary: Zero-dependency coding agent for your terminal. Works with any OpenAI-compatible model, free or local, and switches models when one fails
 tags: [Coding agent, AI coding CLI, Claude Code alternative, OpenAI compatible, Free models, Local LLM, Ollama, OpenRouter, Zero dependencies, Supply chain safe]
 website: https://github.com/p32929/HeartCode

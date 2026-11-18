@@ -5,6 +5,7 @@ screenshots:
   - screenshots/tabrider-example/shot-1.png
   - screenshots/tabrider-example/shot-2.png
 category: Developer Tools
+kind: personal
 summary: Example Chrome extension for tabrider, a Playwright-style browser automation library that runs inside your extension, in your real browser
 tags: [Browser automation, Chrome extension, Playwright alternative, Web scraping, Form filling, TypeScript, npm, Open source]
 website: https://github.com/p32929/tabrider_example

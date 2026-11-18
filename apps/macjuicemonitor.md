@@ -4,6 +4,7 @@ icon: screenshots/macjuicemonitor/icon.png
 screenshots:
   - screenshots/macjuicemonitor/shot-1.png
 category: Utilities
+kind: personal
 summary: See the battery level of your AirPods, Magic Mouse and Magic Keyboard in the Mac menu bar, without opening System Settings
 tags: [Bluetooth battery, Mac menu bar, AirPods battery, Magic Mouse battery, Magic Keyboard, macOS, Open source]
 website: https://github.com/p32929/mac-juice-monitor

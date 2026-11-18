@@ -4,6 +4,7 @@ icon: screenshots/str-template/icon.png
 screenshots:
   - screenshots/str-template/shot-1.png
 category: Developer Tools
+kind: personal
 summary: Tiny string templating library for JavaScript and TypeScript. Fill placeholders like {name} in a string from an object, in Node or the browser
 tags: [String template, Templating, String format, TypeScript, JavaScript, Node.js, Browser, npm]
 website: https://github.com/p32929/str_template

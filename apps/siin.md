@@ -4,6 +4,7 @@ icon: screenshots/siin/icon.png
 screenshots:
   - screenshots/siin/shot-1.png
 category: Developer Tools
+kind: personal
 summary: Batch app installer for Windows, like Ninite but with your own list. Give it a list of apps and it downloads and installs them all silently
 tags: [Batch installer, Silent install, Ninite alternative, Windows, Install apps, New PC setup, Rust, CLI]
 website: https://github.com/p32929/siin

@@ -35,12 +35,15 @@ title: My App
 icon: images/icon.png
 screenshots: [images/screenshot.png]
 category: Productivity
+kind: personal
 platforms:
   Web: https://my-app.example.com
 ---
 
 What it does, in plain Markdown.
 ```
+
+`kind` is optional: what kind of project it is, in one word (`personal`, `client`, `company`, `group`, `open-source`…). Left out, it's `personal`. Every app here has one, so [`/dev/p32929/personal.md`](https://openstore.pfay.workers.dev/dev/p32929/personal.md) lists only my own projects.
 
 ## This repo
 

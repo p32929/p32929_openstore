@@ -4,6 +4,7 @@ icon: screenshots/go-easy/icon.png
 screenshots:
   - screenshots/go-easy/1.png
 category: Developer Tools
+kind: personal
 summary: A Go compiler that treats unused variables as warnings, not errors. Run Go code while you prototype without fixing every unused variable first
 tags: [Go, Golang, Go compiler, Unused variables, Prototyping, Learning Go, Windows, macOS, Linux]
 website: https://github.com/p32929/go_easy

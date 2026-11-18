@@ -6,6 +6,7 @@ screenshots:
   - screenshots/house-ads-2/v2-2.png
   - screenshots/house-ads-2/v2-3.png
 category: Developer Tools
+kind: personal
 summary: Android house ads library. Cross-promote your own apps with a banner, a full-screen app list and a rating dialog, from a JSON file you host
 tags: [House ads, Cross promotion, Android ads, Banner ads, Interstitial ads, Rating dialog, Android library, Kotlin, JitPack]
 website: https://github.com/p32929/HouseAds2

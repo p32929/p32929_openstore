@@ -9,6 +9,7 @@ screenshots:
   - screenshots/hopper/5.png
   - screenshots/hopper/6.png
 category: Developer Tools
+kind: personal
 summary: Zero-dependency self-hosted file manager. Manage any server's files from your browser or phone, with no npm packages that could be hijacked
 tags: [Zero dependencies, Supply chain safe, File manager, Web file manager, Self-hosted, File upload, File sharing, Home server, Raspberry Pi, Open source]
 website: https://github.com/p32929/hopper

@@ -6,6 +6,7 @@ screenshots:
   - screenshots/portfolio-v3/shot-2.png
   - screenshots/portfolio-v3/shot-3.png
 category: Developer Tools
+kind: personal
 summary: Free developer portfolio template with light and dark mode. Change one file to make it yours and publish it on GitHub Pages, no backend needed
 tags: [Portfolio template, Developer portfolio, React, TypeScript, shadcn/ui, Tailwind, GitHub Pages, Open source]
 website: https://p32929.github.io/

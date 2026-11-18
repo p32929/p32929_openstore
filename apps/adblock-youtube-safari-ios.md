@@ -6,6 +6,7 @@ screenshots:
   - screenshots/adblock-youtube-safari-ios/2.png
   - screenshots/adblock-youtube-safari-ios/3.png
 category: Utilities
+kind: client
 summary: YouTube ad blocker for Safari on iPhone and iPad. Removes pre-roll, mid-roll and banner ads, also on embedded videos and streams
 tags: [Client project, YouTube ad blocker, Ad blocker, Safari extension, iPhone, iPad, iOS, Privacy]
 

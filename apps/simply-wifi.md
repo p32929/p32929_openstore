@@ -4,6 +4,7 @@ icon: screenshots/simply-wifi/icon.png
 screenshots:
   - screenshots/simply-wifi/1.png
 category: Developer Tools
+kind: personal
 summary: Control WiFi from a Flutter app in one line. Turn WiFi on or off, list networks, connect, disconnect and forget networks on Android
 tags: [Flutter, WiFi, Android, wifi_iot, Dart, Connect to WiFi, pub.dev, Mobile development]
 website: https://github.com/p32929/simply_wifi_flutter

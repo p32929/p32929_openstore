@@ -11,6 +11,7 @@ screenshots:
   - screenshots/mephisto-chess/shot-7.png
   - screenshots/mephisto-chess/shot-8.png
 category: Board Game
+kind: personal
 summary: Offline chess app that plays against you and teaches you while you play. A teacher mode, lessons, 81 puzzles and 9 skill levels, with no ads or account
 tags: [Chess, Learn chess, Chess puzzles, Chess engine, Offline game, Board game, Chess lessons, No ads]
 website: https://mephisto-chess.pfay.workers.dev/

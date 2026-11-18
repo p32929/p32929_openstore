@@ -4,6 +4,7 @@ icon: screenshots/fay/icon.png
 screenshots:
   - screenshots/fay/shot-1.png
 category: Developer Tools
+kind: personal
 summary: Save a list of shell commands under one name and run them all again from a menu. A small command line tool for Windows, macOS and Linux
 tags: [Command line, CLI, Shell commands, Automation, Bash, CMD, Rust, Developer tools]
 website: https://github.com/p32929/fay_cli

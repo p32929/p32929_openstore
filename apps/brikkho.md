@@ -10,6 +10,7 @@ screenshots:
   - screenshots/brikkho/new-6.png
   - screenshots/brikkho/new-7.png
 category: Education
+kind: group
 summary: Plant and tree guide in Bengali. Learn the names and uses of 49 trees, flowers, medicinal plants and spices. Works offline, no ads
 tags: [Trees, Plants, Medicinal plants, Flowers, Bengali, Nature, Offline, Android]
 

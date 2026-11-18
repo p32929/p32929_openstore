@@ -7,6 +7,7 @@ screenshots:
   - screenshots/let/shot-3.png
   - screenshots/let/shot-4.png
 category: Productivity
+kind: personal
 summary: Offline habit and life event tracker. Log habits, numbers and notes each day, then see your streaks, patterns and a forecast of the days ahead
 tags: [Habit tracker, Life tracker, Daily journal, Mood tracker, Streaks, Offline, Android, Open source]
 website: https://github.com/p32929/let

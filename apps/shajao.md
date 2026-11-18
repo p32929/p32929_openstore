@@ -5,6 +5,7 @@ screenshots:
   - screenshots/shajao/1.png
   - screenshots/shajao/2.png
 category: Photography
+kind: company
 summary: Online photo printing and framing in Bangladesh. Upload a photo, pick a frame and size, and get it framed and delivered to your door from 590 taka
 tags: [Photo frame, Photo printing, Online photo frame, Gift, Home delivery, Bangladesh]
 

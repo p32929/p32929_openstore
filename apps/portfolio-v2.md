@@ -6,6 +6,7 @@ screenshots:
   - screenshots/portfolio-v2/shot-2.png
   - screenshots/portfolio-v2/shot-3.png
 category: Developer Tools
+kind: personal
 summary: Free developer portfolio template. Fork it, put your details in one file and publish it on GitHub Pages for free, with no backend
 tags: [Portfolio template, Developer portfolio, Personal website, React, TypeScript, Material UI, GitHub Pages, Open source]
 website: https://p32929.github.io/portfolio-v2/

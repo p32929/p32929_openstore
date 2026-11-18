@@ -5,6 +5,7 @@ screenshots:
   - screenshots/voomnow/1.png
   - screenshots/voomnow/2.png
 category: Music & Audio
+kind: company
 summary: Free online voice recorder. Record your voice in the browser, then share it with a link or download it. No app to install, no recording limit
 tags: [Voice recorder, Online voice recorder, Voice message, Audio recording, Share audio, Free]
 

@@ -6,6 +6,7 @@ screenshots:
   - screenshots/opencc/shot-2.png
   - screenshots/opencc/shot-3.png
 category: Developer Tools
+kind: personal
 summary: Use Claude Code with free or local models. A zero-dependency proxy that sends it to any OpenAI-compatible API and switches models when one fails
 tags: [Claude Code, Claude Code proxy, OpenAI compatible, Free models, Local LLM, OpenRouter, Zero dependencies, Supply chain safe, AI coding]
 website: https://github.com/p32929/opencc

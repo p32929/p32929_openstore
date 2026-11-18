@@ -10,6 +10,7 @@ screenshots:
   - screenshots/mathlover/6.png
   - screenshots/mathlover/7.png
 category: Education
+kind: group
 summary: Endless maths game for kids and adults. Practise adding, subtracting, multiplying and dividing in four game modes and see which sums you are weak at. Offline
 tags: [Math game, Mental math, Arithmetic, Brain training, Kids, Educational game, Offline, Android]
 

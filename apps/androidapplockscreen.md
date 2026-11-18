@@ -6,6 +6,7 @@ screenshots:
   - screenshots/androidapplockscreen/v2-2.png
   - screenshots/androidapplockscreen/v2-3.png
 category: Developer Tools
+kind: personal
 summary: Android app lock screen library. Add a 4 to 8 digit passcode lock to your app in a few lines, with fingerprint unlock and light and dark mode
 tags: [Android lock screen, App lock, PIN lock, Passcode, Fingerprint unlock, Android library, Kotlin, JitPack]
 website: https://github.com/p32929/AndroidAppLockscreen

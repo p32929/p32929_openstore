@@ -4,6 +4,7 @@ icon: screenshots/fjsondb/icon.png
 screenshots:
   - screenshots/fjsondb/shot-1.png
 category: Developer Tools
+kind: personal
 summary: Tiny JSON file database for Node.js and TypeScript. Save and read data by key in one plain JSON file, with no database server to run
 tags: [JSON database, Node.js database, Key value store, TypeScript, npm, Local storage, CLI, Developer tools]
 website: https://github.com/p32929/fjsondb

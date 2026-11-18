@@ -7,6 +7,7 @@ screenshots:
   - screenshots/orderzesty/3.png
   - screenshots/orderzesty/4.png
 category: Food & Drink
+kind: client
 summary: Home-cooked meal delivery service. Home chefs cooked fresh breakfast, lunch and dinner to your taste and delivered them with no delivery fees
 tags: [Meal delivery, Home cooked food, Personal chef, Meal plan, Tiffin service, Food delivery]
 

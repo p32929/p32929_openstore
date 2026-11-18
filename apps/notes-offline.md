@@ -8,6 +8,7 @@ screenshots:
   - screenshots/notes-offline/4.png
   - screenshots/notes-offline/5.png
 category: Productivity
+kind: personal
 summary: Free offline notes app in your browser. Rich text, tabs, search and keyboard shortcuts, with no ads and no account. Install it on any device
 tags: [Notes app, Offline notes, Notepad, Rich text editor, Private, No account, Open source]
 website: https://p32929.github.io/notes/

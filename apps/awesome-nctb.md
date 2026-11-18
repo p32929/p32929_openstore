@@ -9,6 +9,7 @@ screenshots:
   - screenshots/awesome-nctb/new-5.png
   - screenshots/awesome-nctb/new-6.png
 category: Education
+kind: group
 summary: All NCTB textbooks for class 1 to 10 on your phone, Bangla and English version. Read with zoom and night mode, or download PDF books offline. No ads
 tags: [NCTB books, NCTB textbook PDF, Class 1 to 10, Bangladesh, Education, Students, Bangla, Android]
 

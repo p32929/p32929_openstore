@@ -6,6 +6,7 @@ screenshots:
   - screenshots/dramadb/2.png
   - screenshots/dramadb/3.png
 category: Entertainment
+kind: personal
 summary: Find the best Korean and Asian dramas to watch. Filter by genre, country and year, and sort by ratings, reviews and comments
 tags: [Korean drama, K-drama, Asian drama, What to watch, Drama ratings, TV series]
 

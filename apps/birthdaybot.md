@@ -10,6 +10,7 @@ screenshots:
   - screenshots/birthdaybot/new-6.png
   - screenshots/birthdaybot/new-7.png
 category: Entertainment
+kind: personal
 summary: A personal birthday surprise with 15 photo wishes, balloons, confetti and the birthday song, swiped through like a card deck
 tags: [Birthday, Bot, Fun, Android]
 

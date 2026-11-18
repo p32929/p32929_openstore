@@ -4,6 +4,7 @@ icon: screenshots/audio-duration/icon.png
 screenshots:
   - screenshots/audio-duration/1.png
 category: Developer Tools
+kind: personal
 summary: Get the length of an audio file like an MP3 in Flutter, in milliseconds, with one call and without playing it. For Android
 tags: [Flutter, Audio duration, MP3, Android, Dart, Audio length, pub.dev, Mobile development]
 website: https://github.com/p32929/flutter_audio_duration

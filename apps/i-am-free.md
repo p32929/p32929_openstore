@@ -10,6 +10,7 @@ screenshots:
   - screenshots/i-am-free/6.png
   - screenshots/i-am-free/7.png
 category: Business
+kind: personal
 summary: Job and gig app for Bangladesh. Find work, hire someone for a small job or offer your skills, then apply or call in one tap
 tags: [Jobs, Part-time jobs, Gigs, Freelance, Hiring, Bangladesh, Bangla, Android]
 

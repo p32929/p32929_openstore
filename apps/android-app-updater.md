@@ -5,6 +5,7 @@ screenshots:
   - screenshots/android-app-updater/v2-1.png
   - screenshots/android-app-updater/v2-2.png
 category: Developer Tools
+kind: personal
 summary: Android app update checker. Tell users a new version is out, or force them to update, with a ready-made dialog and a JSON file you host
 tags: [Android app updater, Update checker, Force update, In-app update, Update dialog, Android library, Kotlin, JitPack]
 website: https://github.com/p32929/AndroidAppUpdater

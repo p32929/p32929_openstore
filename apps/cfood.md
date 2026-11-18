@@ -8,6 +8,7 @@ screenshots:
   - screenshots/cfood/4.png
   - screenshots/cfood/5.png
 category: Food & Drink
+kind: personal
 summary: Find cheap, healthy DIY complete-food recipes. Filter 10,000+ meal replacement recipes by cost and diet, and get one shopping list for all of them
 tags: [DIY Soylent, Meal replacement, Complete food, Recipes, Nutrition, Budget meals, Shopping list]
 

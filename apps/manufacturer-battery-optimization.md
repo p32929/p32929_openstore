@@ -4,6 +4,7 @@ icon: screenshots/manufacturer-battery-optimization/icon.svg
 screenshots:
   - screenshots/manufacturer-battery-optimization/v2-1.png
 category: Developer Tools
+kind: personal
 summary: Android helper that sends users to the right battery or autostart setting on Xiaomi, Huawei, Oppo, Vivo, Samsung, OnePlus and other phones
 tags: [Android battery optimization, Autostart, Background service, Xiaomi, Huawei, Oppo, Vivo, Kotlin, Java]
 website: https://gist.github.com/p32929/41e7af650f6a2c11e9306ab600fb9b03

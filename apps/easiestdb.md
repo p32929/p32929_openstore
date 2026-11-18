@@ -4,6 +4,7 @@ icon: screenshots/easiestdb/icon.png
 screenshots:
   - screenshots/easiestdb/1.png
 category: Developer Tools
+kind: personal
 summary: The easiest way to use a SQLite database in Flutter. Declare your tables once, then add, read, search, update and delete without writing SQL
 tags: [Flutter, SQLite, Flutter database, sqflite, Dart, CRUD, pub.dev, Mobile development]
 website: https://github.com/p32929/EasiestdbFlutter

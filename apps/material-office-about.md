@@ -5,6 +5,7 @@ screenshots:
   - screenshots/material-office-about/shot-1.png
   - screenshots/material-office-about/shot-2.png
 category: Developer Tools
+kind: personal
 summary: Older Java version of Office About. A Material Design About Us screen for Android team apps, loaded from one JSON file you host
 tags: [About screen, About us page, Team page, Android library, Material Design, Java, JitPack, Open source]
 website: https://github.com/p32929/MaterialOfficeAbout

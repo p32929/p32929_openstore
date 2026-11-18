@@ -7,6 +7,7 @@ screenshots:
   - screenshots/home/v1-3.png
   - screenshots/home/v1-4.png
 category: Productivity
+kind: personal
 summary: Clean new tab page extension for Chrome and Edge. A clock, a search box and your favourite sites one click away, in light or dark mode
 tags: [New tab extension, Homepage extension, Chrome extension, Edge extension, Speed dial, Start page, Bookmarks, Open source]
 website: https://github.com/p32929/Home

@@ -4,6 +4,7 @@ icon: screenshots/fayfetch/icon.png
 screenshots:
   - screenshots/fayfetch/shot-1.png
 category: Developer Tools
+kind: personal
 summary: Simple fetch wrapper for JavaScript and Node.js. Make GET, POST, PUT, DELETE and file upload calls in one line with params and headers
 tags: [Fetch wrapper, HTTP client, REST API, JavaScript, Node.js, TypeScript, npm, Developer tools]
 website: https://github.com/p32929/FayFetch

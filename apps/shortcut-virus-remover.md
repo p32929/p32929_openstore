@@ -4,6 +4,7 @@ icon: screenshots/shortcut-virus-remover/icon.png
 screenshots:
   - screenshots/shortcut-virus-remover/1.png
 category: Security
+kind: personal
 summary: Free shortcut virus remover for USB drives on Windows. Gets back the files the virus hid and deletes the fake shortcuts it left behind
 tags: [Shortcut virus remover, USB virus, Pen drive, Recover hidden files, Windows, Batch script, Free]
 website: https://github.com/p32929/Shortcut-Virus-Remover

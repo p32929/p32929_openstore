@@ -4,6 +4,7 @@ icon: screenshots/boom/icon.png
 screenshots:
   - screenshots/boom/shot-1.png
 category: Utilities
+kind: personal
 summary: Force quit every open app on your Mac in one click from the menu bar, or close everything and shut down. Finder and the Dock stay safe
 tags: [Force quit, Quit all apps, Mac menu bar app, macOS, Shut down, Productivity, Swift, Free]
 website: https://github.com/p32929/boom

@@ -8,6 +8,7 @@ screenshots:
   - screenshots/thamao/4.png
   - screenshots/thamao/5.png
 category: Tools
+kind: company
 summary: Free anti-theft app for Android phones in Bangladesh. Find, lock or wipe a stolen phone with one SMS, and check if a used phone was stolen by IMEI
 tags: [Anti-theft, Stolen phone, Find my phone, Phone tracker, IMEI check, Bangladesh, Bangla, Android]
 website: https://web.archive.org/web/20180814152442/https://thamao.com/

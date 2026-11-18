@@ -6,6 +6,7 @@ screenshots:
   - screenshots/cccsss/shot-2.png
   - screenshots/cccsss/shot-3.png
 category: Developer Tools
+kind: personal
 summary: Browse your Claude Code sessions in the terminal, read any of them, and resume one with the exact command. Zero dependencies
 tags: [Claude Code, Session browser, Resume sessions, Terminal UI, TUI, CLI, Zero dependencies, Supply chain safe, npm]
 website: https://github.com/p32929/cccsss

@@ -4,6 +4,7 @@ icon: screenshots/cmdn/icon.png
 screenshots:
   - screenshots/cmdn/1.png
 category: Developer Tools
+kind: personal
 summary: Get notified when a long terminal command finishes. Put cmdn in front of any command and hear a sound, or send a webhook, when it is done
 tags: [Command line, CLI, Notification, Terminal, Long running command, Webhook, Developer tools, Windows, macOS, Linux]
 website: https://github.com/p32929/cmdn

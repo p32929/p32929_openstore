@@ -4,6 +4,7 @@ icon: screenshots/potatotimer/icon.png
 screenshots:
   - screenshots/potatotimer/shot-1.png
 category: Productivity
+kind: personal
 summary: Pomodoro timer for your desktop that makes you take the break. When work time ends, a full-screen break reminder you can't quietly ignore
 tags: [Pomodoro timer, Break reminder, Focus timer, Productivity, Windows, Desktop app, Open source]
 website: https://github.com/p32929/PotatoTimer

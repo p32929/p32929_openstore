@@ -10,6 +10,7 @@ screenshots:
   - screenshots/put-phone-down/6.png
   - screenshots/put-phone-down/7.png
 category: Productivity
+kind: personal
 summary: Phone addiction app that locks your phone for the time you choose. Stop checking your phone while you study, work or sleep
 tags: [Phone addiction, Screen time, Digital detox, Focus, Study, Sleep, Phone lock timer, Android]
 

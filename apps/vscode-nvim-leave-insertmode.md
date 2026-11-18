@@ -4,6 +4,7 @@ icon: screenshots/vscode-nvim-leave-insertmode/icon.png
 screenshots:
   - screenshots/vscode-nvim-leave-insertmode/shot-1.png
 category: Developer Tools
+kind: personal
 summary: VS Code extension for Neovim and Vim users. Puts the editor back in normal mode when you switch between tabs or split panels
 tags: [VS Code extension, Neovim, Vim, VSCode Neovim, Normal mode, Insert mode, Keyboard shortcuts, Developer tools]
 website: https://marketplace.visualstudio.com/items?itemName=p32929.vscode-nvim-leave-insertmode

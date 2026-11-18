@@ -10,6 +10,7 @@ screenshots:
   - screenshots/desplash/6.png
   - screenshots/desplash/7.png
 category: Personalization
+kind: personal
 summary: Free HD wallpaper app for Android with Unsplash photos. Browse by topic or search, and let your wallpaper change by itself on a timer
 tags: [Wallpapers, HD wallpapers, Auto wallpaper changer, Unsplash, Backgrounds, Personalization, Android]
 

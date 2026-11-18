@@ -5,6 +5,7 @@ screenshots:
   - screenshots/bytebroom/1.png
   - screenshots/bytebroom/2.png
 category: Utilities
+kind: personal
 summary: Mac disk cleaner that finds what is safe to delete, like old build folders, caches and leftover app files, and frees up space in a few clicks
 tags: [Mac disk cleaner, Free up space, macOS, Cache cleaner, App uninstaller, node_modules, Xcode, Developer tools]
 website: https://github.com/p32929/bytebroom

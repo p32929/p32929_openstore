@@ -5,6 +5,7 @@ screenshots:
   - screenshots/portfolio-v1/shot-1.png
   - screenshots/portfolio-v1/shot-2.png
 category: Developer Tools
+kind: personal
 summary: My very first React portfolio, a simple developer portfolio template from 2018. Kept as history. Edit five small files and publish it on GitHub Pages
 tags: [Portfolio template, Developer portfolio, Personal website, React, Material UI, GitHub Pages, Open source]
 website: https://p32929.github.io/portfolio-v1/

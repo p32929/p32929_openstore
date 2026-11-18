@@ -5,6 +5,7 @@ screenshots:
   - screenshots/obsidotion/shot-1.png
   - screenshots/obsidotion/shot-2.png
 category: Productivity
+kind: personal
 summary: Obsidian Notion sync plugin. Send your vault to a Notion database and pull Notion edits back, on desktop and mobile. Only touches pages it made
 tags: [Obsidian plugin, Notion, Obsidian to Notion, Notion sync, Notes sync, Markdown, Android, Open source]
 website: https://github.com/p32929/obsidotion

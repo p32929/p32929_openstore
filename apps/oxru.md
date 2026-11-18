@@ -6,6 +6,7 @@ screenshots:
   - screenshots/oxru/shot-2.png
   - screenshots/oxru/shot-3.png
 category: Developer Tools
+kind: personal
 summary: Lightweight code editor for the terminal or its own window, with all of a project's terminals inside it. Uses a fraction of VS Code's memory
 tags: [Code editor, Terminal editor, Lightweight editor, Rust, VS Code alternative, Terminal multiplexer, SSH, Open source]
 website: https://github.com/p32929/oxru

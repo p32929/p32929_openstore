@@ -10,6 +10,7 @@ screenshots:
   - screenshots/animal-lover/new-6.png
   - screenshots/animal-lover/new-7.png
 category: Education
+kind: group
 summary: Animal encyclopedia app with 580+ animals. Pictures, maps, facts and a video for each, in one place. Works offline, no ads
 tags: [Animal encyclopedia, Animals, Wildlife, Kids learning, Education, Offline, Android]
 source: https://github.com/richinfotech/rich_android_apps

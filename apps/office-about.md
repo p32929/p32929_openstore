@@ -6,6 +6,7 @@ screenshots:
   - screenshots/office-about/v2-2.png
   - screenshots/office-about/v2-3.png
 category: Developer Tools
+kind: personal
 summary: Android About Us screen library for teams. Show your company, links and team members from one JSON file, and update them without a new release
 tags: [About screen, About us page, Team page, Android library, Company profile, Kotlin, JitPack, Open source]
 website: https://github.com/p32929/OfficeAbout

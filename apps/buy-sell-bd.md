@@ -10,6 +10,7 @@ screenshots:
   - screenshots/buy-sell-bd/6.png
   - screenshots/buy-sell-bd/7.png
 category: Shopping
+kind: personal
 summary: Free buy and sell app for Bangladesh. Post an ad with no signup, browse by category and division, and call the seller in one tap
 tags: [Buy and sell, Classifieds, Marketplace, Used phones, Bangladesh, Bangla, Android]
 

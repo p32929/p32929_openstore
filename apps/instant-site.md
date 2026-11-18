@@ -6,6 +6,7 @@ screenshots:
   - screenshots/instant-site/2.png
   - screenshots/instant-site/3.png
 category: Developer Tools
+kind: company
 summary: AI website builder. Describe your website in plain English and get a complete site with its database, on your own domain, in minutes
 tags: [AI website builder, Website builder, No-code, Landing pages, Small business, Domains]
 
