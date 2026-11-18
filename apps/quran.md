@@ -15,6 +15,7 @@ screenshots:
   - screenshots/quran/6.png
 category: Books & Reference
 kind: personal
+featured: true
 summary: Free Quran app with no ads. Read with translation offline, listen to 42 reciters, and memorize with repeating audio. Android, iPhone, Windows, Mac and web
 tags: [Quran, Quran app, Quran with translation, Quran audio, Quran memorization, Hifz, Islam, Offline]
 website: https://p32929.github.io/quran_flutter/

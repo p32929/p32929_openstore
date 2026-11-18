@@ -11,6 +11,7 @@ screenshots:
   - screenshots/github-trending-repos/phone-2.png
 category: Developer Tools
 kind: personal
+featured: true
 summary: See GitHub trending repositories for 29 languages on one page. Sort by stars, stars today or forks, with no duplicates and no sign-up
 tags: [GitHub trending, Trending repositories, Open source, Developers, Programming languages]
 website: https://ghtr.fly.dev/

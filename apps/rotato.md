@@ -7,6 +7,7 @@ screenshots:
   - screenshots/rotato/3.png
 category: Developer Tools
 kind: personal
+featured: true
 summary: Zero-dependency API key rotator for OpenAI, Gemini, Groq and OpenRouter. Switches keys on rate limits, with no npm packages to steal your keys
 tags: [API key rotation, Zero dependencies, Supply chain safe, LLM proxy, OpenAI, Gemini, Groq, OpenRouter, Rate limit, Self-hosted]
 website: https://github.com/p32929/rotato

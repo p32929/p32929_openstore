@@ -36,6 +36,7 @@ icon: images/icon.png
 screenshots: [images/screenshot.png]
 category: Productivity
 kind: personal
+featured: true
 platforms:
   Web: https://my-app.example.com
 ---
@@ -44,6 +45,8 @@ What it does, in plain Markdown.
 ```
 
 `kind` is optional: what kind of project it is, in one word (`personal`, `client`, `company`, `group`, `open-source`…). Left out, nothing is assumed. Every app here has one, so [`/dev/p32929/personal.md`](https://openstore.pfay.workers.dev/dev/p32929/personal.md) lists only my own projects, and [`/dev/p32929.md?not=company`](https://openstore.pfay.workers.dev/dev/p32929.md?not=company) everything except company work.
+
+`featured: true` is optional too (`true` or `false`; left out, not featured): my favourites get a Featured badge, and [`/dev/p32929.md?featured=true`](https://openstore.pfay.workers.dev/dev/p32929.md?featured=true) lists only them. README cards can show every featured app with `?n=all&featured=true` ("All matching" and "Featured only" in the [cards builder](https://openstore.pfay.workers.dev/cards?user=p32929&type=apps)), as on [my GitHub profile](https://github.com/p32929).
 
 ## This repo
 

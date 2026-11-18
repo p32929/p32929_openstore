@@ -11,6 +11,7 @@ screenshots:
   - screenshots/lantern/7.png
 category: Developer Tools
 kind: personal
+featured: true
 summary: Self-hosted Linux server dashboard. See status, CPU, memory and logs, restart services in one click, and use a terminal, all from one web page
 tags: [Server dashboard, Linux, Homelab, Self-hosted, Server monitoring, Raspberry Pi, Logs, Web terminal, Open source]
 website: https://github.com/p32929/lantern

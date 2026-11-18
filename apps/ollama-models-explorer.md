@@ -15,6 +15,7 @@ screenshots:
   - screenshots/ollama-models-explorer/11.png
 category: Developer Tools
 kind: personal
+featured: true
 summary: Find the best Ollama model for your computer. Search 17,000+ local AI models, see which run on your PC and how fast, compare them, copy the install command
 tags: [Ollama, Local LLM, AI models, Run AI locally, LLM comparison, Model finder, Open source]
 website: https://ollama-models-explorer.vercel.app/

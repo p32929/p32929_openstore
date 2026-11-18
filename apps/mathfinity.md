@@ -13,6 +13,7 @@ screenshots:
   - screenshots/mathfinity/5.png
 category: Education
 kind: personal
+featured: true
 summary: Mental maths game for kids and adults. Solve sums against the clock and see which ones slowed you down. Free, offline, no ads
 tags: [Math game, Mental math, Arithmetic, Brain training, Kids, Educational game, Offline]
 website: https://p32929.github.io/mathfinity/

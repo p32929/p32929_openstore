@@ -6,6 +6,7 @@ screenshots:
   - screenshots/oaifai/shot-2.png
 category: Utilities
 kind: personal
+featured: true
 summary: Connect Ubuntu Server to WiFi from a simple terminal list, without NetworkManager or hand-written netplan files. Rolls back if it fails
 tags: [WiFi, Ubuntu Server, Netplan, Linux, Terminal UI, TUI, CLI, Headless server, Raspberry Pi, Rust]
 website: https://github.com/p32929/oaifai

@@ -5,6 +5,7 @@ screenshots:
   - screenshots/ghcdn/1.png
 category: Developer Tools
 kind: personal
+featured: true
 summary: Free GitHub CDN. Turn a GitHub file or Gist link into a link you can use in a script tag, a stylesheet or fetch. A jsDelivr alternative you can host
 tags: [GitHub CDN, jsDelivr alternative, Gist, Raw GitHub, CDN, Self-hosted, Developer tools]
 website: https://ghcdn.vercel.app/

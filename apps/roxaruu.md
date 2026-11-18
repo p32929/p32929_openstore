@@ -11,6 +11,7 @@ screenshots:
 video: https://cdn.jsdelivr.net/gh/p32929/p32929_openstore@52364a24b3a0d95c40a747444da39143de50b903/screenshots/roxaruu/demo.mp4
 category: Developer Tools
 kind: personal
+featured: true
 summary: Free code editor with built-in terminals. Keep each project and all its terminals in one window, use everything from the keyboard, and code from any browser
 tags: [Code Editor, Terminal, Keyboard Shortcuts, Remote Coding, Claude Code, Developer Tools, Open Source]
 website: https://github.com/p32929/roxaruu
