@@ -8,6 +8,7 @@ screenshots:
   - images/app1-screenshot-2.png
 category: Productivity                             # exactly one, from the list in the README
 kind: open-source                                  # optional: one word, like personal (default), client, company
+featured: true                                     # optional: true or false; one of your favourites
 tags: [notes, offline, tabs]                       # optional keywords for search
 website: https://notes.example.com                 # optional
 source: https://github.com/jane-doe/quick-notes    # optional: shows a "Source code" link
