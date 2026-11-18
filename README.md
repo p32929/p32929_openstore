@@ -43,7 +43,7 @@ platforms:
 What it does, in plain Markdown.
 ```
 
-`kind` is optional: what kind of project it is, in one word (`personal`, `client`, `company`, `group`, `open-source`…). Left out, nothing is assumed. Every app here has one, so [`/dev/p32929/personal.md`](https://openstore.pfay.workers.dev/dev/p32929/personal.md) lists only my own projects.
+`kind` is optional: what kind of project it is, in one word (`personal`, `client`, `company`, `group`, `open-source`…). Left out, nothing is assumed. Every app here has one, so [`/dev/p32929/personal.md`](https://openstore.pfay.workers.dev/dev/p32929/personal.md) lists only my own projects, and [`/dev/p32929.md?not=company`](https://openstore.pfay.workers.dev/dev/p32929.md?not=company) everything except company work.
 
 ## This repo
 
