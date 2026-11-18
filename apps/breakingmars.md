@@ -8,7 +8,7 @@ screenshots:
   - screenshots/breakingmars/4.png
   - screenshots/breakingmars/5.png
 category: Business
-kind: client
+kind: company
 summary: LinkedIn automation tool for lead generation. Automated invites, profile visits and follow-ups to win more leads, clients and sales without ads
 tags: [LinkedIn automation, Lead generation, Sales, Outreach, B2B, Social selling]
 

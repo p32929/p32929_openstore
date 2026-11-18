@@ -7,7 +7,7 @@ screenshots:
   - screenshots/bbrain-web/1.png
   - screenshots/bbrain-web/2.png
 category: Entertainment
-kind: client
+kind: company
 summary: AI character chat app. Talk with characters from the YouTube channel MyStory Animated, like Magnus the vampire. Free on iOS and Android
 tags: [AI chat, Character chat, AI chatbot, MyStory Animated, Roleplay, Stories]
 
