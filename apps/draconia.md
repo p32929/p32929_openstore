@@ -9,6 +9,7 @@ screenshots:
   - screenshots/draconia/5.png
 category: Entertainment
 kind: personal
+featured: true
 summary: Every Draconia Malfoy (Malfoid, female Draco Malfoy) AI video on YouTube in one list. Sort by views, track what you watched, hide channels
 tags: [Draconia Malfoy, Malfoid, Female Draco Malfoy, Harry Potter, AI fan films, YouTube, Watch list]
 website: https://p32929.github.io/draconia/
@@ -22,7 +23,7 @@ Draconia puts every Draconia Malfoy (Malfoid, female Draco Malfoy) video on YouT
 
 I made it because I kept losing track of which episodes I had already seen and which channels I had not checked yet.
 
-1. **About 4,700 videos from 464 channels,** each with thumbnail, length, upload date, views, likes and comments.
+1. **4,000+ videos from 400+ channels,** each with thumbnail, length, upload date, views, likes and comments.
 2. **Sort** by most views, most likes, like rate, most comments, newest, oldest, shortest or longest.
 3. **One channel at a time:** type a channel name or @handle, or click any channel, and step through them with ◀ ▶.
 4. **Track what you watched,** with hours watched and hours left.
