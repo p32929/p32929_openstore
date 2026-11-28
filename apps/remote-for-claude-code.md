@@ -11,7 +11,7 @@ category: Developer Tools
 kind: personal
 featured: true
 summary: Control Claude Code on your computer from your Android phone. Start sessions, chat and answer permission prompts, paired with a simple desktop app
-tags: [Claude Code, Remote control, AI coding, Mobile coding, Claude, Developer tools, QR pairing, Desktop app]
+tags: [Claude Code, Remote control, AI coding, Mobile coding, Claude, Developer tools, QR pairing, Desktop app, Linux]
 
 platforms:
   Android:
@@ -25,6 +25,11 @@ platforms:
       changelog: New desktop app to run the server, with a pairing QR code, status and log
       url: https://github.com/p32929/p32929_openstore/releases/tag/remote-for-claude-code
   Windows:
+    - version: "2.0.0"
+      date: 2026-11-27
+      changelog: New desktop app to run the server, with a pairing QR code, status and log
+      url: https://github.com/p32929/p32929_openstore/releases/tag/remote-for-claude-code
+  Linux:
     - version: "2.0.0"
       date: 2026-11-27
       changelog: New desktop app to run the server, with a pairing QR code, status and log

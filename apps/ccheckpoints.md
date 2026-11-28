@@ -31,6 +31,8 @@ Great for anyone who codes with Claude Code and misses Cursor's checkpoints.
 
 ## Install
 
+It needs Node.js 18 or newer.
+
 ```bash
 npm install -g ccheckpoints
 ccheckpoints

@@ -15,6 +15,7 @@ license: MIT
 
 platforms:
   CLI: https://github.com/p32929/oaifai/releases/latest
+  Linux: https://github.com/p32929/oaifai/releases/latest
 ---
 
 oaifai is a small terminal app to scan for WiFi and connect on Ubuntu Server and other netplan systems that have no NetworkManager. Normally that means editing netplan YAML files by hand and hoping the indentation is right. With oaifai you pick a network from a list, type the password, and it writes the config for you. The name is how "WiFi" sounds in Bangla.

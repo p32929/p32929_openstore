@@ -37,6 +37,8 @@ I made rotato because I had collected API keys from many providers, each with it
 
 ## Run it
 
+You need Node.js to run it.
+
 ```bash
 git clone https://github.com/p32929/rotato.git
 cd rotato
@@ -44,6 +46,6 @@ cp .env.example .env   # set PORT and ADMIN_PASSWORD
 npm start
 ```
 
-Then open `http://localhost:8990/admin`, add your keys, and point your app at the endpoint it shows.
+Then open `http://localhost:8990/admin` in your web browser, add your keys, and point your app at the endpoint it shows.
 
 Want your AI apps running smoothly across many keys and providers? Contact me through my portfolio: https://p32929.github.io

@@ -21,12 +21,14 @@ I made it because I just wanted to get notified whenever a long-running command 
 1. **Works with any command:** `cmdn npm install`, `cmdn docker build -t myapp .`, `cmdn git push` and so on.
 2. **A sound when it finishes,** and you can use your own sound file.
 3. **Run something after it ends:** send a webhook, write to a log file or show a desktop notification, with the command and its output included.
-4. **Works on Windows, macOS and Linux.**
+4. **Works on Windows, macOS and Linux.** On Linux it needs an audio player such as paplay, aplay, mpg123, mpv or vlc.
 5. **Quick setup:** answer three questions, and change them any time with `cmdn --configure`.
 
 Great for developers who run long builds, installs or deploys.
 
 ## Install
+
+You need Node.js and npm.
 
 ```bash
 git clone https://github.com/p32929/cmdn.git

@@ -40,6 +40,8 @@ Great for developers who want to automate repetitive work in Chrome, like fillin
 npm install tabrider
 ```
 
+Your extension's `manifest.json` needs the permissions `activeTab`, `storage`, `tabs` and `scripting`, and the host permission `*://*/*`.
+
 The easiest way to start is the example extension, a complete Chrome extension that uses tabrider: https://github.com/p32929/tabrider_example
 
 Want a browser automation built for your workflow? Contact me through my portfolio: https://p32929.github.io

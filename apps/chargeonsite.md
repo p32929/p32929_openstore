@@ -20,7 +20,7 @@ platforms:
 
 > **Company project.** This is not a personal project. I worked on it at a company, and the product is owned and run by that company.
 
-Charge OnSite makes EV charging simple, a bit like Airbnb for electric car chargers. Places to charge are still hard to find, and the ones that exist often want one more app, one more account and one more card. With Charge OnSite, drivers just scan a QR code with their phone camera and charge. Property owners put chargers in their parking spots and run everything from one dashboard.
+Charge OnSite makes EV charging simple, a bit like Airbnb for electric car chargers. Places to charge are still hard to find, and the ones that exist often want one more app, one more account and one more card. With Charge OnSite, drivers just scan a QR code with their phone camera and charge. Property owners put chargers in their parking spots and run everything from one dashboard. It is a website at chargeonsite.com.
 
 1. **For drivers:** scan the QR code on the charger, tap start and pay with a card, Apple Pay or Google Pay. No app to download.
 2. **For property owners:** decide who can use the chargers and what they cost, from apartment buildings to commercial properties.

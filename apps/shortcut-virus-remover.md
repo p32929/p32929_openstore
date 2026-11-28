@@ -11,6 +11,7 @@ website: https://github.com/p32929/Shortcut-Virus-Remover
 source: https://github.com/p32929/Shortcut-Virus-Remover
 
 platforms:
+  Windows: https://github.com/p32929/Shortcut-Virus-Remover
   CLI: https://github.com/p32929/Shortcut-Virus-Remover
 ---
 
@@ -27,6 +28,6 @@ Great for anyone whose pen drive or memory card suddenly shows only shortcuts.
 
 It does not remove the virus itself, so scan your computer with an antivirus too. Run it only on the infected drive, not on your C: drive. It deletes every shortcut on that drive, so move any real shortcuts off it first.
 
-To use it, download `Shortcut Virus Remover 1.0.bat` from the GitHub page, double-click it, and type the drive letter (for example `D`).
+To use it, download `Shortcut Virus Remover 1.0.bat` from the GitHub page, double-click it, and type the drive letter (for example `D`). It is a `.bat` command line script, so it runs in a Windows command window.
 
 Still stuck with a drive that won't show your files? Contact me through my portfolio: https://p32929.github.io

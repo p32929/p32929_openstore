@@ -41,6 +41,6 @@ Great for anyone who wants a simple, free place to log home or gym workouts.
 
 I made this app just for myself. I needed a simple workout tracker, but almost every one I found on the Google Play Store was paid or kept asking me to pay. So I made my own. I didn't build it with other people in mind, but if it helps you too, great.
 
-Download the APK for Android (about 17 MB; the arm64 file fits almost every phone, the armeabi-v7a file is for older ones), or open the web version. There is no iPhone download yet: the iOS app can be built from the source code. Then add an exercise in Exercises, tap Log Today's Workout and save your sets. It's still being built, so new things may change.
+Download the APK for Android (about 17 MB; the arm64 file fits almost every phone, the armeabi-v7a file is for older ones), or open the web version. The APK needs Android 7.0 or newer. There is no iPhone download yet: the iOS app can be built from the source code. Then add an exercise in Exercises, tap Log Today's Workout and save your sets. It's still being built, so new things may change.
 
 Want a fitness app made around your own routine or gym? Contact me through my portfolio: https://p32929.github.io

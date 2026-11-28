@@ -18,6 +18,7 @@ website: https://github.com/p32929/lantern
 source: https://github.com/p32929/lantern
 
 platforms:
+  Linux: https://github.com/p32929/lantern
   Web: https://github.com/p32929/lantern
 ---
 

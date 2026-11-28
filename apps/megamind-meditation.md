@@ -38,6 +38,6 @@ Good to know: the app comes with no audio, you add your own files. There are no 
 
 ## Install
 
-Download the APK from the download page and open it to install (arm64-v8a for most phones).
+Download the APK from the download page and open it to install (arm64-v8a for most phones). It needs Android 7.0 or newer.
 
 Want a calm little app made for your own routine? Contact me through my portfolio: https://p32929.github.io

@@ -21,6 +21,7 @@ license: MIT
 platforms:
   MacOS: https://github.com/p32929/roxaruu/releases/latest
   Windows: https://github.com/p32929/roxaruu/releases/latest
+  Linux: https://github.com/p32929/roxaruu/releases/latest
 ---
 Roxaruu is a free, keyboard-first code editor with built-in terminals. If you work on several projects at once, you know how quickly terminal windows pile up until you can't tell which one belongs where. Roxaruu keeps each project's code and all its terminals together in one window. Every action has a shortcut, and the ones that work where you are always show on screen, so you never have to remember them.
 

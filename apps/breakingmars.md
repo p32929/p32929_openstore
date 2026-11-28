@@ -28,4 +28,4 @@ Breaking Mars was a LinkedIn automation tool for lead generation. LinkedIn is fu
 6. **One dashboard** for your connections, replies and conversion.
 7. **30-day free trial,** no credit card needed, and a calculator showing how many days a month you would save.
 
-It was built for freelancers, agencies, sales teams and founders who sell on LinkedIn.
+It was built for freelancers, agencies, sales teams and founders who sell on LinkedIn. It was a web app, and it is no longer available to use.

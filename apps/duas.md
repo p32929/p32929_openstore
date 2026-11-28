@@ -32,6 +32,10 @@ platforms:
     - version: "2.0.0"
       date: 2026-11-12
       url: https://github.com/p32929/duas/releases/tag/v2.0.0
+  Linux:
+    - version: "2.0.0"
+      date: 2026-11-12
+      url: https://github.com/p32929/duas/releases/tag/v2.0.0
   iOS:
     - version: "2.0.0"
       date: 2026-11-12
@@ -48,7 +52,7 @@ I made it because my duas were scattered everywhere, and I wanted my own collect
 3. **The meaning in your language:** translate into over 60 languages. Translations made by AI are clearly marked.
 4. **Easy to read and share:** eight Arabic fonts, adjustable text size, light and dark themes, and copy or share any dua.
 5. **Private:** your duas stay on your device, with no account.
-6. **Works everywhere:** in the browser, on Android, Windows, macOS, Linux and iPhone. Linux, Chromebook and older Android files are on the [releases page](https://github.com/p32929/duas/releases/latest).
+6. **Works everywhere:** in the browser, on Android, Windows, macOS, Linux and iPhone. Chromebook and older Android files are on the [releases page](https://github.com/p32929/duas/releases/latest).
 
 Open it in your browser, or download it for your device from the releases page.
 

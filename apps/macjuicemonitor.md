@@ -25,6 +25,6 @@ I made it because my mouse or keyboard kept dying in the middle of work, and che
 
 Great for anyone with a wireless mouse, keyboard or AirPods on their Mac.
 
-Download it from the download page, install and run it. Closing the window keeps it running in the menu bar.
+Download it from the download page, install and run it. It is built for Apple Silicon Macs. Closing the window keeps it running in the menu bar.
 
 Want a small menu bar tool for something that bugs you on your Mac? Contact me through my portfolio: https://p32929.github.io

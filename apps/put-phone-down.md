@@ -40,6 +40,6 @@ Most screen time apps only tell you how much you used your phone. This one stops
 
 Great for studying without distractions, sleeping instead of scrolling in bed, focusing at work, or a simple digital detox.
 
-Put Phone Down used to be called "Sleepy - Addiction Controller". Download the APK from the download page and open it to install.
+Put Phone Down used to be called "Sleepy - Addiction Controller". Download `Put-Phone-Down-2.0.1.apk` from the download page and open it to install. The Sleepy APK files there are older versions.
 
 Want your phone time under control, or an app like this for your family? Contact me through my portfolio: https://p32929.github.io

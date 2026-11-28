@@ -22,7 +22,7 @@ platforms:
 
 > **Company project.** This is not a personal project. I worked on its initial stage, and the product is owned and run by its company.
 
-Artul.ai is an AI earnings call analysis tool for investors. A stock's price takes a second to read, but knowing whether management is being straight with you means listening to hours of earnings calls. Artul.ai does the listening for you: type a ticker and get a report on the latest call, graded from A to F.
+Artul.ai is an AI earnings call analysis tool for investors. A stock's price takes a second to read, but knowing whether management is being straight with you means listening to hours of earnings calls. Artul.ai does the listening for you: type a ticker and get a report on the latest call, graded from A to F. It runs as a website at artul.ai, so there is nothing to install.
 
 1. **500 yes-or-no checks on every call.**
 2. **30 markers measured,** like evasion, hype, stress and hedging.

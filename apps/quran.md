@@ -34,6 +34,10 @@ platforms:
       date: 2026-11-12
       changelog: Sound now works on Windows; installer (a no-install zip is on the releases page)
       url: https://github.com/p32929/quran_flutter/releases/tag/v2.0.1
+  Linux:
+    - version: "2.0.1"
+      date: 2026-11-12
+      url: https://github.com/p32929/quran_flutter/releases/tag/v2.0.1
   MacOS:
     - version: "2.0.1"
       date: 2026-11-12
@@ -59,6 +63,6 @@ I always wanted to do something for the Quran, so I made a Quran app for myself,
 
 Good for daily reading, for students of hifz, and for listening while travelling or before sleep.
 
-Use it in the browser, or install it on Android, Windows, macOS or iPhone. For Linux, older Android phones and Chromebooks, see the [releases page](https://github.com/p32929/quran_flutter/releases/latest).
+Use it in the browser, or install it on Android, Windows, macOS, Linux or iPhone. For older Android phones and Chromebooks, see the [releases page](https://github.com/p32929/quran_flutter/releases/latest).
 
 Want a Quran or learning app for your madrasa or community? Contact me through my portfolio: https://p32929.github.io

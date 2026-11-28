@@ -57,6 +57,8 @@ houseAds.setFeedbackEmail("you@example.com") // turns on the rating dialog
 onBackPressedDispatcher.addCallback(this) { houseAds.showInterAds() }
 ```
 
+Needs Android 5.0 (API 21) or newer.
+
 Upgrading from 1.x? The main calls are the same, so most apps only need the new version number.
 
 Have a few apps and want them to help each other grow? Contact me through my portfolio: https://p32929.github.io

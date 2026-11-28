@@ -37,6 +37,6 @@ I made it for myself and used it, but never published it, until now.
 
 It needs Android 7.0 or newer.
 
-Download the APK from the download page and open it to install.
+Download the APK from the download page and open it to install. There are two files: `VisionBoard-1.0.0-arm64-v8a.apk` (the 64-bit build) and `VisionBoard-1.0.0-armeabi-v7a.apk`.
 
 Want an app that keeps your goals in front of you? Contact me through my portfolio: https://p32929.github.io

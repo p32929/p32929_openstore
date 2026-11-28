@@ -13,6 +13,7 @@ source: https://github.com/p32929/pomota
 platforms:
   Windows: https://github.com/p32929/pomota/releases/latest
   MacOS: https://github.com/p32929/pomota/releases/latest
+  Linux: https://github.com/p32929/pomota/releases/latest
 ---
 
 Pomota is a small Pomodoro timer for Windows, Mac and Linux that actually makes you take the break. It's easy to tell yourself "just five more minutes" and skip every rest. Pomota doesn't let you skip it quietly, so you work in focused blocks and still rest in between.

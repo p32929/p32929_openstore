@@ -32,6 +32,8 @@ Great for diary, notes, finance or any app that should ask for a passcode before
 
 ## Install
 
+It works on Android 5.0 (API 21) and newer, from Kotlin or Java.
+
 Add JitPack to your repositories, then the dependency:
 
 ```kotlin

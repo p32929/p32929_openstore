@@ -13,6 +13,7 @@ source: https://github.com/p32929/go_easy
 platforms:
   Windows: https://github.com/p32929/go_easy/releases/latest
   MacOS: https://github.com/p32929/go_easy/releases/latest
+  Linux: https://github.com/p32929/go_easy/releases/latest
   Library: https://github.com/p32929/go_easy
 ---
 

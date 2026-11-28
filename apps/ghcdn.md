@@ -29,6 +29,6 @@ It is made for small files like scripts, styles and JSON, not big files or pictu
 
 ## Host it yourself
 
-Deploy it to Vercel, Netlify, Railway, Docker or most other hosts. Add a GitHub token if you need private repositories or a higher request limit.
+Host it anywhere that runs Next.js, with one click on Vercel, Netlify, Railway and others. To run it on your own computer, you need Node.js 18 or newer. Add a GitHub token if you need private repositories or a higher request limit.
 
 Want your files served to your web pages without the CORS trouble? Contact me through my portfolio: https://p32929.github.io

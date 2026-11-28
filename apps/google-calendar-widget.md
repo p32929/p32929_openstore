@@ -14,6 +14,7 @@ source: https://github.com/p32929/google-calender-widget
 platforms:
   Windows: https://github.com/p32929/google-calender-widget/releases/latest
   MacOS: https://github.com/p32929/google-calender-widget/releases/latest
+  Linux: https://github.com/p32929/google-calender-widget/releases/latest
 ---
 
 Google Calendar Widget puts your Google Calendar right on your desktop, on Windows, Mac or Linux. Google has no desktop app for Calendar, so checking your day usually means finding the right browser tab. This widget sits quietly on your desktop and shows your real calendar, so your next meeting is always one glance away.

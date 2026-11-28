@@ -31,6 +31,8 @@ Great for message templates, emails and any text with values filled in later.
 npm install str-template-ts
 ```
 
+It uses `String.replaceAll`, so it needs Node 15 or newer, or a modern browser.
+
 ```ts
 StrTemplate.format('Hello {name}!', { name: 'Fayaz' }) // Hello Fayaz!
 ```

@@ -37,6 +37,10 @@ platforms:
       date: 2026-11-12
       changelog: First macOS version
       url: https://github.com/p32929/mathfinity/releases/tag/v2.0.0
+  Linux:
+    - version: "2.0.0"
+      date: 2026-11-12
+      url: https://github.com/p32929/mathfinity/releases/tag/v2.0.0
   iOS:
     - version: "2.0.0"
       date: 2026-11-12
@@ -56,6 +60,6 @@ I made it for my little cousin. He wasn't studying and was playing games all the
 
 Great for children learning their sums, for parents and teachers, and for adults who want to keep their mental maths sharp.
 
-Play it in the browser, or install it on Android, Windows, macOS or iPhone. Linux and Chromebook files are on the [download page](https://github.com/p32929/mathfinity/releases/latest).
+Play it in the browser, or install it on Android, Windows, macOS, Linux or iPhone. Chromebook files are on the [download page](https://github.com/p32929/mathfinity/releases/latest).
 
 Want a learning game for your child or your students? Contact me through my portfolio: https://p32929.github.io

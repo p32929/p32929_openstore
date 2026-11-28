@@ -30,7 +30,7 @@ Great for developers with several apps who want to cross-promote them for free. 
 
 ## Install
 
-Add JitPack to your repositories, then the dependency:
+It needs Android 5.0 (API 21) or newer, and your app's theme should be an AppCompat or Material theme. Add JitPack to your repositories, then the dependency:
 
 ```kotlin
 // settings.gradle.kts

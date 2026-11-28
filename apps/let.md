@@ -47,6 +47,6 @@ What makes it different: it looks for patterns across everything you track, not 
 
 Great for anyone who wants to understand their days better, not just tick off habits.
 
-To install, open the download page and get the APK for your phone. Most phones need the `arm64-v8a` file, older phones the `armeabi-v7a` one. Open it and allow installs from this source when Android asks.
+To install, open the download page and get the APK for your phone. Most phones need the `arm64-v8a` file, older phones the `armeabi-v7a` one. Open it and allow installs from this source when Android asks. There is also a web version you can open in your browser at https://p32929.github.io/let/.
 
 Want to find the patterns in your own life, your team or your business? Contact me through my portfolio: https://p32929.github.io
